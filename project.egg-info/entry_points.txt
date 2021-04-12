@@ -1,0 +1,3 @@
+[scrapy]
+settings = SCP2nd.settings
+

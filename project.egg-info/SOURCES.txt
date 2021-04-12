@@ -1,0 +1,16 @@
+setup.py
+SCP2nd/__init__.py
+SCP2nd/items.py
+SCP2nd/middlewares.py
+SCP2nd/pipelines.py
+SCP2nd/settings.py
+SCP2nd/spiders/__init__.py
+SCP2nd/spiders/a0makes1models.py
+SCP2nd/spiders/a1models2submodels.py
+SCP2nd/spiders/a2submodels3powertrains.py
+SCP2nd/spiders/a3powertrains4specs.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
