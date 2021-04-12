@@ -49,7 +49,7 @@ class A3powertrains4specsSpider(scrapy.Spider):
             Fuel_System = _engineSpecs.xpath('../../tr[4]/td/p/font/b/text()').get()
             Charge_System = _engineSpecs.xpath('../../tr[5]/td/p/font/b/text()').get()
             Valves_Per_Cylinder = _engineSpecs.xpath('../../tr[6]/td/p/font/b/text()').get()
-            Additional_Features = ", ".join(filter(None,(_engineSpecs.xpath('../../tr[8]/td/p/font/b/text()').get(), _engineSpecs.xpath('../../tr[10]/td/p/font/b/text()').get())))
+            Additional_Features = ", ".join(filter(None, (_engineSpecs.xpath('../../tr[8]/td/p/font/b/text()').get(), _engineSpecs.xpath('../../tr[10]/td/p/font/b/text()').get())))
             Cylinders_Alignment = _engineSpecs.xpath('../../tr[13]/td/p/font/b/text()').get()
             Displacement = _engineSpecs.xpath('../../tr[14]/td/p/font/b/text()').get()
             Horsepower = _engineSpecs.xpath('../../tr[16]/td/p/font/b/text()').get()
@@ -79,8 +79,8 @@ class A3powertrains4specsSpider(scrapy.Spider):
             Powertrain_Name = specs.xpath("//center/table/tr/td/table/tr/td").xpath(".//b[contains(., 'as offered for the')]").xpath('text()').get()
 
             Related_Models_L = specs.xpath("//td/table/tr/td/p/font/b[contains(., 'Sales markets')]/../../../../../../p/font")
-            Related_Models = ", ".join(filter(None,(Related_Models_L.xpath('./p[7]/font/text()').get(), Related_Models_L.xpath('./p[8]/font/text()').get(), Related_Models_L.xpath('./p[9]/font/text()').get(), Related_Models_L.xpath('./p[10]/font/text()').get(), Related_Models_L.xpath('./p[11]/font/text()').get())))
-            Markets_Sold = " ".join(filter(None,(Related_Models_L.xpath('./p[2]/font/text()').get(), Related_Models_L.xpath('./p[3]/font/text()').get(), Related_Models_L.xpath('./p[4]/font/text()').get()))).strip()
+            Related_Models = ", ".join(filter(None, (Related_Models_L.xpath('./p[7]/font/text()').get(), Related_Models_L.xpath('./p[8]/font/text()').get(), Related_Models_L.xpath('./p[9]/font/text()').get(), Related_Models_L.xpath('./p[10]/font/text()').get(), Related_Models_L.xpath('./p[11]/font/text()').get())))
+            Markets_Sold = " ".join(filter(None, (Related_Models_L.xpath('./p[2]/font/text()').get(), Related_Models_L.xpath('./p[3]/font/text()').get(), Related_Models_L.xpath('./p[4]/font/text()').get()))).strip()
 
             _hpTorqueCurve = specs.xpath("//b[contains(., 'Full engine data: horsepower/torque')]")
             Powertrain_Link = _hpTorqueCurve.xpath('../../../../../..').xpath('.//table[3]/tr/td/p/font/b/a/@href').get().replace("/curve/", "/car/")

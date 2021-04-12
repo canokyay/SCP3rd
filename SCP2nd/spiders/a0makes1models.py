@@ -20,7 +20,8 @@ class A0makes1modelsSpider(scrapy.Spider):
     #     "https://www.automobile-catalog.com/list-jaguar.html"
     #     # "https://httpbin.org/ip"
     # ]
-    # print(start_urls)
+    print(" # # ##### # # start_urls: # # ##### # # ")
+    print(start_urls)
 
     def parse(self, response):
         Make = response.xpath('//b[contains(., "Specifications catalogue of the")]/text()').get().replace("Specifications catalogue of the ","").partition(" cars,")[0]
