@@ -6,14 +6,14 @@ class A0makes1modelsSpider(scrapy.Spider):
     name = '0makes1models'
     allowed_domains = ['automobile-catalog.com']
 
-    # with open('data/0makes.csv', "r") as f:
-    #     reader = csv.DictReader(f)
-    #     start_urls = []
-    #     for item in reader:
-    #         ### OFFLINE
-    #         start_urls.append(f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\1_ModelsList\\" + item['Make_Link'].replace("/", ""))
-    #         ### ONLINE
-    #         # if item['Available']: start_urls.append(item['Live_Link'])
+    with open('../data/0makes.csv', "r") as f:
+        reader = csv.DictReader(f)
+        start_urls = []
+        for item in reader:
+            ### OFFLINE
+            start_urls.append(f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\1_ModelsList\\" + item['Make_Link'].replace("/", ""))
+            ### ONLINE
+            # if item['Available']: start_urls.append(item['Live_Link'])
 
     start_urls = [
         # f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\1_ModelsList\Alfa_Romeo_specifications_catalogue.html",
