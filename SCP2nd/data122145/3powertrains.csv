@@ -1,0 +1,227 @@
+#i,Submodel_Name,Powertrain_Name,Powertrain_Link
+1,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.6 Twin Spark 16V (man. 5) ,/car/2004/220565/alfa_romeo_156_1_6_twin_spark_16v_impression_business__base.html
+2,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.8 Twin Spark 16V (man. 5) ,/car/2004/220310/alfa_romeo_156_1_8_twin_spark_16v_progression_classic__turismo_or_veloce.html
+7,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.9 JTD (man. 5) ,/car/2004/220595/alfa_romeo_156_1_9_jtd_impression_business__base.html
+8,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.9 JTD 16V (man. 6) ,/car/2004/220580/alfa_romeo_156_1_9_jtd_16v_impression_business__base.html
+3,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.0 JTS 16V (man. 5) ,/car/2004/220325/alfa_romeo_156_2_0_jts_16v_progression_classic__turismo_or_veloce.html
+4,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.0 JTS 16V Selespeed (s-aut. 5) ,/car/2004/220040/alfa_romeo_156_2_0_jts_16v_distinctive_exclusive__lusso_selespeed.html
+9,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.4 JTD 20V (man. 6) ,/car/2004/220115/alfa_romeo_156_2_4_jtd_20v_distinctive_exclusive__lusso.html
+5,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.5 V6 24V (man. 6) ,/car/2004/220055/alfa_romeo_156_2_5_v6_24v_distinctive_exclusive__lusso.html
+6,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.5 V6 24V Q-system (aut. 4) ,/car/2004/220070/alfa_romeo_156_2_5_v6_24v_distinctive_exclusive__lusso_q-system.html
+1,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.8 MPi 16V (man. 5) ,/car/2007/222545/alfa_romeo_159_1_8_mpi_16v_distinctive.html
+6,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm 16V DPF (man. 6) ,/car/2007/222590/alfa_romeo_159_1_9_jtdm_16v_dpf_distinctive.html
+7,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm 16V DPF Q-Tronic (aut. 6) ,/car/2007/222605/alfa_romeo_159_1_9_jtdm_16v_dpf_distinctive_q-tronic.html
+5,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm DPF (man. 6) ,/car/2007/222620/alfa_romeo_159_1_9_jtdm_dpf_distinctive.html
+2,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTS 16V (man. 6) ,/car/2007/222560/alfa_romeo_159_1_9_jts_16v_distinctive.html
+3,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.2 JTS 16V (man. 6) ,/car/2007/222575/alfa_romeo_159_2_2_jts_16v_distinctive.html
+4,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.2 JTS 16V Selespeed (s-aut. 6) ,/car/2007/1185200/alfa_romeo_159_2_2_jts_16v_distinctive_selespeed.html
+8,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V DPF (man. 6) ,/car/2007/222635/alfa_romeo_159_2_4_jdtm_20v_dpf_distinctive.html
+10,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V DPF (man. 6) ,/car/2007/222650/alfa_romeo_159_2_4_jdtm_20v_dpf_distinctive.html
+9,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V DPF Q-Tronic (aut. 6) ,/car/2007/222245/alfa_romeo_159_2_4_jdtm_20v_dpf_distinctive_q-tronic.html
+10,BMW 8-Series Gran Coupe G16,BMW 840d xDrive Gran Coupe (aut. 8) ,/car/2020/2877260/bmw_840d_xdrive_gran_coupe.html
+11,BMW 8-Series Gran Coupe G16,BMW 840d xDrive Gran Coupe (aut. 8) ,/car/2020/2978480/bmw_840d_xdrive_gran_coupe.html
+1,BMW 8-Series Gran Coupe G16,BMW 840i Gran Coupe (aut. 8) ,/car/2020/2978450/bmw_840i_gran_coupe.html
+3,BMW 8-Series Gran Coupe G16,BMW 840i Gran Coupe (aut. 8) ,/car/2020/2917595/bmw_840i_gran_coupe.html
+4,BMW 8-Series Gran Coupe G16,BMW 840i Gran Coupe (aut. 8) ,/car/2020/2877215/bmw_840i_gran_coupe.html
+2,BMW 8-Series Gran Coupe G16,BMW 840i xDrive Gran Coupe (aut. 8) ,/car/2020/2978465/bmw_840i_xdrive_gran_coupe.html
+5,BMW 8-Series Gran Coupe G16,BMW 840i xDrive Gran Coupe (aut. 8) ,/car/2020/2877230/bmw_840i_xdrive_gran_coupe.html
+6,BMW 8-Series Gran Coupe G16,BMW 840i xDrive Gran Coupe (aut. 8) ,/car/2020/2917610/bmw_840i_xdrive_gran_coupe.html
+7,BMW 8-Series Gran Coupe G16,BMW M850i xDrive Gran Coupe (aut. 8) ,/car/2020/2917625/bmw_m850i_xdrive_gran_coupe.html
+8,BMW 8-Series Gran Coupe G16,BMW M850i xDrive Gran Coupe (aut. 8) ,/car/2020/2877245/bmw_m850i_xdrive_gran_coupe.html
+9,BMW 8-Series Gran Coupe G16,BMW M850i xDrive Gran Coupe (aut. 8) ,/car/2020/2978570/bmw_m850i_xdrive_gran_coupe.html
+1,BMW i3 Hatchback,BMW i3 (aut. 1) ,/car/2021/2966765/bmw_i3.html
+2,BMW i3 Hatchback,BMW i3 S (aut. 1) ,/car/2021/2966780/bmw_i3_s.html
+1,BMW i8 Roadster,BMW i8 Roadster (aut. 6) ,/car/2020/2631560/bmw_i8_roadster.html
+1,BMW iX3 G08 SUV Electric Vehicle,BMW iX3 (aut. 1) ,/car/2021/2965430/bmw_ix3.html
+5,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive18d (man. 6) ,/car/2011/1199360/bmw_x1_sdrive18d.html
+6,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive18d Steptronic (aut. 6) ,/car/2011/1199375/bmw_x1_sdrive18d_steptronic.html
+1,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive18i (man. 6) ,/car/2011/1199330/bmw_x1_sdrive18i.html
+2,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive18i Steptronic (aut. 6) ,/car/2011/1199345/bmw_x1_sdrive18i_steptronic.html
+8,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive20d (man. 6) ,/car/2011/1199390/bmw_x1_sdrive20d.html
+7,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive20d EfficientDynamics Edition (man. 6) ,/car/2011/1590500/bmw_x1_sdrive20d_efficientdynamics_edition.html
+9,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive20d Steptronic (aut. 6) ,/car/2011/1199405/bmw_x1_sdrive20d_steptronic.html
+3,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive20i (man. 6) ,/car/2011/1589975/bmw_x1_sdrive20i.html
+4,BMW X1 E84 phase-I sDrive (2WD) SUV,BMW X1 sDrive20i Steptronic (aut. 8) ,/car/2011/1589990/bmw_x1_sdrive20i_steptronic.html
+7,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive18d (man. 6) ,/car/2015/2036375/bmw_x1_xdrive18d.html
+8,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive18d Steptronic (aut. 8) ,/car/2015/2036390/bmw_x1_xdrive18d_steptronic.html
+9,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive20d (man. 6) ,/car/2015/2036555/bmw_x1_xdrive20d.html
+10,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive20d Steptronic (aut. 8) ,/car/2015/2036570/bmw_x1_xdrive20d_steptronic.html
+1,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive20i (man. 6) ,/car/2015/2036480/bmw_x1_xdrive20i.html
+2,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive20i Steptronic (aut. 8) ,/car/2015/2036495/bmw_x1_xdrive20i_steptronic.html
+11,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive25d (man. 6) ,/car/2015/2036585/bmw_x1_xdrive25d.html
+12,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive25d Steptronic (aut. 8) ,/car/2015/2036600/bmw_x1_xdrive25d_steptronic.html
+4,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive28i (aut. 8) ,/car/2015/2077955/bmw_x1_xdrive28i.html
+3,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive28i (man. 6) ,/car/2015/2036615/bmw_x1_xdrive28i.html
+5,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive28i Steptronic (aut. 8) ,/car/2015/2036630/bmw_x1_xdrive28i_steptronic.html
+6,BMW X1 E84 phase-III xDrive (4WD) SUV,BMW X1 xDrive35i (aut. 6) ,/car/2015/2077970/bmw_x1_xdrive35i.html
+1,Citroen C4 3rd-gen. Hatchback,"Citroen C4 1.2 PureTech 130 (man. 6)  (Feel, Shine)",/car/2021/2969345/citroen_c4_1_2_puretech_130.html
+2,Citroen C4 3rd-gen. Hatchback,"Citroen C4 1.2 PureTech 130 EAT8 (aut. 8)  (Feel, Shine)",/car/2021/2969360/citroen_c4_1_2_puretech_130_eat8.html
+3,Citroen C4 3rd-gen. Hatchback,"Citroen C4 1.5 BlueHDi 130 EAT8 (aut. 8)  (Feel, Shine)",/car/2021/2969375/citroen_c4_1_5_bluehdi_130_eat8.html
+1,Citroen C8 phase-II MPV,Citroen C8 HDi 135 Attraction (man. 6) ,/car/2013/1452920/citroen_c8_hdi_135_attraction.html
+2,Citroen C8 phase-II MPV,Citroen C8 HDi 135 Tendance (man. 6) ,/car/2013/1452935/citroen_c8_hdi_135_tendace.html
+3,Citroen C8 phase-II MPV,Citroen C8 HDi 165 Exclusive (man. 6) ,/car/2013/1452950/citroen_c8_hdi_165_exclusive.html
+4,Citroen C8 phase-II MPV,Citroen C8 HDi 165 Exclusive automatic (aut. 6) ,/car/2013/1452980/citroen_c8_hdi_165_exclusive_automatic.html
+5,Citroen C8 phase-II MPV,Citroen C8 HDi 165 Tendance (man. 6) ,/car/2013/1452965/citroen_c8_hdi_165_tendace.html
+6,Citroen C8 phase-II MPV,Citroen C8 HDi 165 Tendance automatic (aut. 6) ,/car/2013/1452995/citroen_c8_hdi_165_tendace_automatic.html
+11,Citroen DS4 Hatchback,Citroen DS4 BlueHDI 120 Chic (man. 6) ,/car/2014/2086145/citroen_ds4_bluehdi_120_chic.html
+12,Citroen DS4 Hatchback,Citroen DS4 BlueHDI 120 SoChic (man. 6) ,/car/2014/2086160/citroen_ds4_bluehdi_120_sochic.html
+8,Citroen DS4 Hatchback,Citroen DS4 e-HDI 115 Airdream Chic (man. 6) ,/car/2014/2086175/citroen_ds4_e-hdi_115_airdream_chic.html
+9,Citroen DS4 Hatchback,Citroen DS4 e-HDI 115 Airdream SoChic (man. 6) ,/car/2014/2086190/citroen_ds4_e-hdi_115_airdream_sochic.html
+10,Citroen DS4 Hatchback,Citroen DS4 e-HDI 115 Airdream SoChic EGS6 (s-aut. 6) ,/car/2014/2086070/citroen_ds4_e-hdi_115_airdream_sochic_egs6.html
+13,Citroen DS4 Hatchback,Citroen DS4 HDi 165 SoChic (man. 6) ,/car/2014/1453520/citroen_ds4_hdi_165_sochic.html
+14,Citroen DS4 Hatchback,Citroen DS4 HDi 165 SoChic automatic (aut. 6) ,/car/2014/2086085/citroen_ds4_hdi_165_sochic_automatic.html
+15,Citroen DS4 Hatchback,Citroen DS4 HDi 165 SportChic (man. 6) ,/car/2014/1453535/citroen_ds4_hdi_165_sportchic.html
+16,Citroen DS4 Hatchback,Citroen DS4 HDi 165 SportChic automatic (aut. 6) ,/car/2014/2086100/citroen_ds4_hdi_165_sportchic_automatic.html
+7,Citroen DS4 Hatchback,Citroen DS4 HDi 90 Chic (man. 5) ,/car/2014/2139905/citroen_ds4_hdi_90_chic.html
+1,Citroen DS4 Hatchback,Citroen DS4 PureTech 130 Chic (man. 6) ,/car/2014/2086130/citroen_ds4_puretech_130_chic.html
+2,Citroen DS4 Hatchback,Citroen DS4 PureTech 130 SoChic (man. 6) ,/car/2014/2086115/citroen_ds4_puretech_130_sochic.html
+5,Citroen DS4 Hatchback,Citroen DS4 THP 160 SoChic automatic (aut. 6) ,/car/2014/1694840/citroen_ds4_thp_160_sochic_automatic.html
+6,Citroen DS4 Hatchback,Citroen DS4 THP 200 SportChic (man. 6) ,/car/2014/1453460/citroen_ds4_thp_200_sportchic.html
+3,Citroen DS4 Hatchback,Citroen DS4 VTi 120 Chic (man. 5) ,/car/2014/1453415/citroen_ds4_vti_120_chic.html
+4,Citroen DS4 Hatchback,Citroen DS4 VTi 120 SoChic (man. 5) ,/car/2014/1453430/citroen_ds4_vti_120_sochic.html
+1,Citroen Metropolis Concept,Citroen Metropolis (d-cl. 7) ,/car/2010/1453550/citroen_metropolis.html
+1,Citroen Nemo Van,Citroen Nemo Van 1.4 (man. 5) ,/car/2009/1213700/citroen_nemo_van_1_4.html
+2,Citroen Nemo Van,Citroen Nemo Van 1.4 HDi 70 (man. 5) ,/car/2009/1213715/citroen_nemo_van_1_4_hdi_70.html
+3,Citroen Nemo Van,Citroen Nemo Van 1.4 HDi 70 Sensodrive (s-aut. 5) ,/car/2009/1213730/citroen_nemo_van_1_4_hdi_70_sensodrive.html
+1,Citroen XM phase-I Salon,Citroen XM 2.0 catalyst (man. 5) ,/car/1993/541475/citroen_xm_2_0_cat.html
+2,Citroen XM phase-I Salon,Citroen XM 2.0 Injection automatic catalyst (aut. 4) ,/car/1993/541505/citroen_xm_2_0_injection_automatic_cat.html
+3,Citroen XM phase-I Salon,Citroen XM 2.0 Injection catalyst (man. 5) ,/car/1993/541490/citroen_xm_2_0_injection_cat.html
+4,Citroen XM phase-I Salon,Citroen XM 2.0 Turbo CT (man. 5) ,/car/1993/541745/citroen_xm_2_0_turbo_ct.html
+5,Citroen XM phase-I Salon,Citroen XM 2.0 Turbo CT automatic (aut. 4) ,/car/1993/541760/citroen_xm_2_0_turbo_ct_automatic.html
+11,Citroen XM phase-I Salon,Citroen XM D12 Harmonie (man. 5) ,/car/1993/541430/citroen_xm_d12_harmonie.html
+12,Citroen XM phase-I Salon,Citroen XM D12 Seduction (man. 5) ,/car/1993/541415/citroen_xm_d12_seduction.html
+9,Citroen XM phase-I Salon,Citroen XM Turbo D12 (man. 5) ,/car/1993/541460/citroen_xm_turbo_d12.html
+10,Citroen XM phase-I Salon,Citroen XM Turbo D12 automatic (aut. 4) ,/car/1993/541820/citroen_xm_turbo_d12_automatic.html
+6,Citroen XM phase-I Salon,Citroen XM V6 (man. 5) ,/car/1993/541355/citroen_xm_v6.html
+8,Citroen XM phase-I Salon,Citroen XM V6 24 (man. 5) ,/car/1993/541400/citroen_xm_v6_24.html
+7,Citroen XM phase-I Salon,Citroen XM V6 automatic (aut. 4) ,/car/1993/541385/citroen_xm_v6_automatic.html
+1,Citroen XM phase-II Wagon,Citroen XM Break 2.0 16V (man. 5) ,/car/1999/544910/citroen_xm_break_2_0_16v.html
+2,Citroen XM phase-II Wagon,Citroen XM Break 2.0 16V automatic (aut. 4) ,/car/1999/544925/citroen_xm_break_2_0_16v_automatic.html
+7,Citroen XM phase-II Wagon,Citroen XM Break 2.1 Turbo D12 SX (man. 5) ,/car/1999/2588330/citroen_xm_break_2_1_turbo_d12_sx.html
+8,Citroen XM phase-II Wagon,Citroen XM Break 2.1 Turbo D12 SX automatic (aut. 4) ,/car/1999/545105/citroen_xm_break_2_1_turbo_d12_sx_automatic.html
+9,Citroen XM phase-II Wagon,Citroen XM Break 2.5 Turbo D Exclusive (man. 5) ,/car/1999/545210/citroen_xm_break_2_5_turbo_d_exclusive.html
+10,Citroen XM phase-II Wagon,Citroen XM Break 2.5 Turbo D VSX (man. 5) ,/car/1999/545180/citroen_xm_break_2_5_turbo_d_vsx.html
+3,Citroen XM phase-II Wagon,Citroen XM Break Turbo CT VSX (man. 5) ,/car/1999/544940/citroen_xm_break_turbo_ct_vsx.html
+4,Citroen XM phase-II Wagon,Citroen XM Break Turbo CT VSX automatic (aut. 4) ,/car/1999/544955/citroen_xm_break_turbo_ct_vsx_automatic.html
+5,Citroen XM phase-II Wagon,Citroen XM Break V6 SX (man. 5) ,/car/1999/545255/citroen_xm_break_v6_sx.html
+6,Citroen XM phase-II Wagon,Citroen XM Break V6 SX automatic (aut. 4) ,/car/1999/545270/citroen_xm_break_v6_sx_automatic.html
+1,Ferrari 360 Spider,Ferrari 360 Spider (man. 6) ,/car/2004/707150/ferrari_360_spider.html
+2,Ferrari 360 Spider,Ferrari 360 Spider F1 (s-aut. 6) ,/car/2004/707135/ferrari_360_spider_f1.html
+1,Ferrari Enzo,Ferrari Enzo (s-aut. 6) ,/car/2004/707255/ferrari_enzo.html
+1,Ferrari LaFerrari Coupe,LaFerrari (d-cl. 7) ,/car/2014/1842590/laferrari.html
+1,Ferrari SF90 Stradale,Ferrari SF90 Stradale (d-cl. 8) ,/car/2020/2914715/ferrari_sf90_stradale.html
+1,Fiat 500 (EV) Cabrio,"Fiat 500 Cabrio (aut. 1)  (Passion, Icon, La Prima)",/car/2021/2971415/fiat_500_cabrio.html
+5,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Lounge (man. 5) ,/car/2014/1227920/fiat_500c_1_2_lounge.html
+6,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Lounge Dualogic (s-aut. 5) ,/car/2014/1227890/fiat_500c_1_2_lounge_dualogic.html
+7,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Lounge Dualogic Start&Stop (s-aut. 5) ,/car/2014/1227950/fiat_500c_1_2_lounge_dualogic_startandstop.html
+8,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Lounge Start&Stop (man. 5) ,/car/2014/1227980/fiat_500c_1_2_lounge_startandstop.html
+9,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Pop (man. 5) ,/car/2014/1227935/fiat_500c_1_2_pop.html
+10,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Pop Dualogic (s-aut. 5) ,/car/2014/1227905/fiat_500c_1_2_pop_dualogic.html
+11,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Pop Dualogic Start&Stop (s-aut. 5) ,/car/2014/1227965/fiat_500c_1_2_pop_dualogic_startandstop.html
+12,Fiat 500C Convertible phase-I,Fiat 500c 1.2 Pop Start&Stop (man. 5) ,/car/2014/1227995/fiat_500c_1_2_pop_startandstop.html
+17,Fiat 500C Convertible phase-I,Fiat 500c 1.3 Multijet II 16V 95 Lounge DPF Start&Stop (man. 5) ,/car/2014/1228160/fiat_500c_1_3_multijet_ii_16v_95_lounge_dpf_startandstop.html
+18,Fiat 500C Convertible phase-I,Fiat 500c 1.3 Multijet II 16V 95 Pop DPF Start&Stop (man. 5) ,/car/2014/1228175/fiat_500c_1_3_multijet_ii_16v_95_pop_dpf_startandstop.html
+13,Fiat 500C Convertible phase-I,Fiat 500c 1.4 16V Lounge (man. 6) ,/car/2014/1228070/fiat_500c_1_4_16v_lounge.html
+14,Fiat 500C Convertible phase-I,Fiat 500c 1.4 16V Lounge Dualogic (s-aut. 5) ,/car/2014/1228010/fiat_500c_1_4_16v_lounge_dualogic.html
+15,Fiat 500C Convertible phase-I,Fiat 500c 1.4 16V Lounge Dualogic Start&Stop (s-aut. 5) ,/car/2014/1228025/fiat_500c_1_4_16v_lounge_dualogic_startandstop.html
+16,Fiat 500C Convertible phase-I,Fiat 500c 1.4 16V Lounge Start&Stop (man. 6) ,/car/2014/1228085/fiat_500c_1_4_16v_lounge_startandstop.html
+1,Fiat 500C Convertible phase-I,Fiat 500c TwinAir Turbo 85 Dualogic Start&Stop (s-aut. 5) ,/car/2014/1455500/fiat_500c_twinair_turbo_85_dualogic_startandstop.html
+2,Fiat 500C Convertible phase-I,Fiat 500c TwinAir Turbo 85 Lounge Dualogic Start&Stop (s-aut. 5) ,/car/2014/1455515/fiat_500c_twinair_turbo_85_lounge_dualogic_startandstop.html
+3,Fiat 500C Convertible phase-I,Fiat 500c TwinAir Turbo 85 Lounge Start&Stop (man. 5) ,/car/2014/1455530/fiat_500c_twinair_turbo_85_lounge_startandstop.html
+4,Fiat 500C Convertible phase-I,Fiat 500c TwinAir Turbo 85 Start&Stop (man. 5) ,/car/2014/1455545/fiat_500c_twinair_turbo_85_startandstop.html
+1,Fiat 500C Convertible phase-II,"Fiat 500c Hybrid (man. 6)  (Pop, Lounge, Star)",/car/2021/2971385/fiat_500c_hybrid.html
+1,Fiat 500e Hatchback,Fiat 500e (aut. 1) ,/car/2018/2630330/fiat_500e.html
+2,Fiat 500e Hatchback,Fiat 500e E-Sport (aut. 1) ,/car/2018/2630360/fiat_500e_e-sport.html
+1,Fiat Coupe model 175,Fiat Coupe 1.8 16V (man. 5) ,/car/1999/720425/fiat_coupe_1_8_16v.html
+2,Fiat Coupe model 175,Fiat Coupe 2.0 20V (man. 5) ,/car/1999/720440/fiat_coupe_2_0_20v.html
+3,Fiat Coupe model 175,Fiat Coupe 2.0 20V (man. 5) ,/car/1999/720470/fiat_coupe_2_0_20v.html
+4,Fiat Coupe model 175,Fiat Coupe 2.0 20V Turbo (man. 5) ,/car/1999/720455/fiat_coupe_2_0_20v_turbo.html
+5,Fiat Coupe model 175,Fiat Coupe 2.0 20V Turbo (man. 6) ,/car/1999/720500/fiat_coupe_2_0_20v_turbo.html
+6,Fiat Coupe model 175,Fiat Coupe 2.0 20V Turbo Limited Edition (man. 6) ,/car/1999/720485/fiat_coupe_2_0_20v_turbo_limited_edition.html
+7,Fiat Coupe model 175,Fiat Coupe 2.0 20V Turbo Plus (man. 6) ,/car/1999/2068070/fiat_coupe_2_0_20v_turbo_plus.html
+5,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 EcoBoost (160) Titanium (man. 6) ,/car/2012/1595015/ford_mondeo_5-dr_1_6_ecoboost_160_trend.html
+6,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 EcoBoost (160) Trend (man. 6) ,/car/2012/1595030/ford_mondeo_5-dr_1_6_ecoboost_160_trend.html
+17,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 TDCi (115) Ambiente (man. 6) ,/car/2012/1595165/ford_mondeo_5-dr_1_6_tdci_115_ambiente.html
+18,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),"Ford Mondeo (4-dr) 1.6 TDCi (115) Ambiente ECOnetic (man. 6)  (Trend, Titanium)",/car/2012/1595180/ford_mondeo_5-dr_1_6_tdci_115_ambiente_econetic.html
+19,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 TDCi (115) Titanium (man. 6) ,/car/2012/1595195/ford_mondeo_5-dr_1_6_tdci_115_ambiente.html
+20,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 TDCi (115) Trend (man. 6) ,/car/2012/1595210/ford_mondeo_5-dr_1_6_tdci_115_ambiente.html
+3,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 Ti-VCT Ambiente (man. 5) ,/car/2012/1594955/ford_mondeo_5-dr_1_6_ti-vct_ambiente.html
+4,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 1.6 Ti-VCT Trend (man. 5) ,/car/2012/1594970/ford_mondeo_5-dr_1_6_ti-vct_ambiente.html
+9,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (203) Titanium (man. 6) ,/car/2012/1595075/ford_mondeo_5-dr_2_0_ecoboost_203_ghia.html
+10,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (203) Titanium PowerShift (d-cl. 6) ,/car/2012/1595045/ford_mondeo_5-dr_2_0_ecoboost_203_ghia_powershift.html
+11,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (203) Titanium S (man. 6) ,/car/2012/1595090/ford_mondeo_5-dr_2_0_ecoboost_203_ghia.html
+12,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (203) Titanium S PowerShift (d-cl. 6) ,/car/2012/1595060/ford_mondeo_5-dr_2_0_ecoboost_203_ghia_powershift.html
+13,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (240) Titanium (man. 6) ,/car/2012/1595135/ford_mondeo_5-dr_2_0_ecoboost_240_ghia.html
+14,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (240) Titanium PowerShift (d-cl. 6) ,/car/2012/1595105/ford_mondeo_5-dr_2_0_ecoboost_240_ghia_powershift.html
+15,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (240) Titanium S (man. 6) ,/car/2012/1595150/ford_mondeo_5-dr_2_0_ecoboost_240_ghia.html
+16,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 EcoBoost (240) Titanium S PowerShift (d-cl. 6) ,/car/2012/1595120/ford_mondeo_5-dr_2_0_ecoboost_240_ghia_powershift.html
+1,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 Flexifuel Titanium (man. 5) ,/car/2012/1595480/ford_mondeo_5-dr_2_0_flexifuel_trend.html
+2,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 Flexifuel Trend (man. 5) ,/car/2012/1595495/ford_mondeo_5-dr_2_0_flexifuel_trend.html
+21,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Ambiente (man. 6) ,/car/2012/1595240/ford_mondeo_5-dr_2_0_tdci_140_ambiente.html
+22,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Titanium (man. 6) ,/car/2012/1595255/ford_mondeo_5-dr_2_0_tdci_140_ambiente.html
+23,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Titanium PowerShift (d-cl. 6) ,/car/2012/1595300/ford_mondeo_5-dr_2_0_tdci_140_trend_powershift.html
+24,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Titanium S (man. 6) ,/car/2012/1595270/ford_mondeo_5-dr_2_0_tdci_140_ambiente.html
+25,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Titanium S PowerShift (d-cl. 6) ,/car/2012/1595315/ford_mondeo_5-dr_2_0_tdci_140_trend_powershift.html
+26,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Trend (man. 6) ,/car/2012/1595285/ford_mondeo_5-dr_2_0_tdci_140_ambiente.html
+27,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (140) Trend PowerShift (d-cl. 6) ,/car/2012/1595330/ford_mondeo_5-dr_2_0_tdci_140_trend_powershift.html
+28,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (163) Titanium (man. 6) ,/car/2012/1595345/ford_mondeo_5-dr_2_0_tdci_163_trend.html
+29,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (163) Titanium PowerShift (d-cl. 6) ,/car/2012/1595390/ford_mondeo_5-dr_2_0_tdci_163_titanium_powershift.html
+30,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (163) Titanium S (man. 6) ,/car/2012/1595360/ford_mondeo_5-dr_2_0_tdci_163_trend.html
+31,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (163) Titanium S PowerShift (d-cl. 6) ,/car/2012/1595405/ford_mondeo_5-dr_2_0_tdci_163_titanium_powershift.html
+32,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 TDCi (163) Trend (man. 6) ,/car/2012/1595375/ford_mondeo_5-dr_2_0_tdci_163_trend.html
+7,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 Titanium (man. 5) ,/car/2012/1594985/ford_mondeo_5-dr_2_0_trend.html
+8,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.0 Trend (man. 5) ,/car/2012/1595000/ford_mondeo_5-dr_2_0_trend.html
+33,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.2 TDCi (200) Titanium (man. 6) ,/car/2012/1595420/ford_mondeo_5-dr_2_2_tdci_200_titanium.html
+34,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.2 TDCi (200) Titanium automatic (aut. 6) ,/car/2012/1595450/ford_mondeo_5-dr_2_2_tdci_200_titanium_powershift.html
+35,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.2 TDCi (200) Titanium S (man. 6) ,/car/2012/1595435/ford_mondeo_5-dr_2_2_tdci_200_titanium.html
+36,Ford Mondeo Mk IV phase-II 4-Door Sedan (Saloon),Ford Mondeo (4-dr) 2.2 TDCi (200) Titanium S automatic (aut. 6) ,/car/2012/1595465/ford_mondeo_5-dr_2_2_tdci_200_titanium_powershift.html
+2,Hyundai i40 phase-III Wagon,Hyundai i40 Kombi (Wagon) 1.6 CRDi 115 (man. 6) ,/car/2019/2767745/hyundai_i40_kombi_wagon_1_6_crdi_115.html
+3,Hyundai i40 phase-III Wagon,Hyundai i40 Kombi (Wagon) 1.6 CRDi 136 (man. 6) ,/car/2019/2767760/hyundai_i40_kombi_wagon_1_6_crdi_136.html
+4,Hyundai i40 phase-III Wagon,Hyundai i40 Kombi (Wagon) 1.6 CRDi 136 7DCT (d-cl. 7) ,/car/2019/2767775/hyundai_i40_kombi_wagon_1_6_crdi_136_7dct.html
+1,Hyundai i40 phase-III Wagon,Hyundai i40 Kombi (Wagon) 1.6 GDI (man. 6) ,/car/2019/2767730/hyundai_i40_kombi_wagon_1_6_gdi.html
+1,Hyundai Trajet MPV,Hyundai Trajet 2.0 16V GLS (man. 5) ,/car/2006/1169660/hyundai_trajet_2_0_16v_gls.html
+2,Hyundai Trajet MPV,Hyundai Trajet 2.0 16V GLS automatic (aut. 4) ,/car/2006/1169690/hyundai_trajet_2_0_16v_gls_automatic.html
+3,Hyundai Trajet MPV,Hyundai Trajet 2.0 16V GSi (man. 5) ,/car/2006/1169675/hyundai_trajet_2_0_16v_gsi.html
+4,Hyundai Trajet MPV,Hyundai Trajet 2.0 16V GSi automatic (aut. 4) ,/car/2006/1169705/hyundai_trajet_2_0_16v_gsi_automatic.html
+6,Hyundai Trajet MPV,Hyundai Trajet 2.0 CRDi GLS (man. 5) ,/car/2006/1169720/hyundai_trajet_2_0_crdi_gls.html
+7,Hyundai Trajet MPV,Hyundai Trajet 2.0 CRDi GLS automatic (aut. 4) ,/car/2006/1169750/hyundai_trajet_2_0_crdi_gls_automatic.html
+8,Hyundai Trajet MPV,Hyundai Trajet 2.0 CRTD GSi (man. 5) ,/car/2006/1169735/hyundai_trajet_2_0_crtd_gsi.html
+9,Hyundai Trajet MPV,Hyundai Trajet 2.0 CRTD GSi automatic (aut. 4) ,/car/2006/1169765/hyundai_trajet_2_0_crtd_gsi_automatic.html
+5,Hyundai Trajet MPV,Hyundai Trajet 2.7 V6 GLS automatic (aut. 4) ,/car/2006/1169780/hyundai_trajet_2_7_v6_gls_automatic.html
+10,Hyundai Trajet MPV,Hyundai Trajet XG 2.0 VGT GLS (man. 5) ,/car/2006/1169885/hyundai_trajet_xg_2_0_vgt_gls.html
+11,Hyundai Trajet MPV,Hyundai Trajet XG 2.0 VGT GLS automatic (aut. 4) ,/car/2006/1169900/hyundai_trajet_xg_2_0_vgt_gls_automatic.html
+12,Hyundai Trajet MPV,Hyundai Trajet XG 2.0 VGT Gold automatic (aut. 4) ,/car/2006/1169930/hyundai_trajet_xg_2_0_vgt_gold_automatic.html
+13,Hyundai Trajet MPV,Hyundai Trajet XG 2.7 V6 Gold LPG automatic (aut. 4) ,/car/2006/1169915/hyundai_trajet_xg_2_7_v6_gold_lpg_automatic.html
+3,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 1.6 CRDi (136) 4WD (man. 6)  (Select, Trend, Style, Premium)",/car/2019/2762000/hyundai_tucson_1_6_crdi_136_4wd.html
+4,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 1.6 CRDi (136) 4WD DCT (d-cl. 7)  (Select, Trend, Style, Premium)",/car/2019/2762015/hyundai_tucson_1_6_crdi_136_4wd_dct.html
+5,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 1.6 CRDi MHEV 48V 136 4WD (man. 6)  (Trend, Style, Premium)",/car/2019/2909465/hyundai_tucson_1_6_crdi_136_4wd.html
+6,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 1.6 CRDi MHEV 48V 136 4WD DCT (d-cl. 7)  (Trend, Style, Premium)",/car/2019/2909480/hyundai_tucson_1_6_crdi_136_4wd_dct.html
+1,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 1.6 T-GDI 4WD (man. 6)  (Trend, Style, Premium)",/car/2019/2761925/hyundai_tucson_1_6_t-gdi_4wd.html
+2,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 1.6 T-GDI 4WD DCT (d-cl. 7)  (Trend, Style, Premium)",/car/2019/2761940/hyundai_tucson_1_6_t-gdi_4wd_dct.html
+7,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 2.0 CRDi MHEV 48V 185 4WD (man. 6)  (Style, Premium)",/car/2019/2762030/hyundai_tucson_2_0_crdi_185_4wd.html
+8,Hyundai Tucson 3rd-gen. phase-II SUV 4WD,"Hyundai Tucson 2.0 CRDi MHEV 48V 185 4WD automatic (aut. 8)  (Style, Premium)",/car/2019/2762045/hyundai_tucson_2_0_crdi_185_4wd_automatic.html
+1,Jaguar I-Pace,"Jaguar I-Pace EV400 (aut. 1)  (S, SE, HSE)",/car/2020/2875310/jaguar_i-pace_ev400.html
+1,Jaguar XJR (X351) phase-II,Jaguar XJR (aut. 8) ,/car/2017/2229920/jaguar_xjr.html
+2,Jaguar XJR (X351) phase-II,Jaguar XJR LWB (aut. 8) ,/car/2017/2229935/jaguar_xjr_lwb.html
+1,Jaguar XK8 Coupe (X100),Jaguar XK8 Coupe (aut. 6) ,/car/2005/1287215/jaguar_xk8_coupe.html
+2,Jaguar XK8 Coupe (X100),Jaguar XK8 Coupe (aut. 6) ,/car/2005/1287485/jaguar_xk8_coupe.html
+1,Jaguar XKR Convertible (X100),Jaguar XKR 4.2-S Celebration Convertible (aut. 6) ,/car/2005/1287650/jaguar_xkr_4_2-s_celebration_convertible.html
+2,Jaguar XKR Convertible (X100),Jaguar XKR Convertible (aut. 6) ,/car/2005/1287230/jaguar_xkr_convertible.html
+3,Jaguar XKR Convertible (X100),Jaguar XKR Convertible (aut. 6) ,/car/2005/1287500/jaguar_xkr_convertible.html
+1,Jaguar XKR-R,Jaguar XKR-R (man. 6) ,/car/2001/1287665/jaguar_xkr-r.html
+1,Mazda Roadster 4th-gen. RF (ND-series),Mazda Roadster RF RS (man. 6) ,/car/2020/2507930/mazda_roadster_rf_rs.html
+2,Mazda Roadster 4th-gen. RF (ND-series),Mazda Roadster RF S (man. 6) ,/car/2020/2507870/mazda_roadster_rf_s.html
+3,Mazda Roadster 4th-gen. RF (ND-series),Mazda Roadster RF S automatic (aut. 6) ,/car/2020/2507885/mazda_roadster_rf_s_automatic.html
+4,Mazda Roadster 4th-gen. RF (ND-series),Mazda Roadster RF VS (man. 6) ,/car/2020/2507900/mazda_roadster_rf_vs.html
+5,Mazda Roadster 4th-gen. RF (ND-series),Mazda Roadster RF VS automatic (aut. 6) ,/car/2020/2507915/mazda_roadster_rf_vs_automatic.html
+1,Mazda RX-8 Hydrogen Prototype,Mazda RX-8 Hydrogen RE (aut. 4) ,/car/2006/1678805/mazda_rx-8_hydrogen_re.html
+4,Mazda RX-8 phase-II Coupe (SE-series),Mazda RX-8 Spirit R (man. 6) ,/car/2011/1678640/mazda_rx-8_spirit_r.html
+1,Mazda RX-8 phase-II Coupe (SE-series),Mazda RX-8 Spirit R automatic (aut. 6) ,/car/2011/1678655/mazda_rx-8_spirit_r_automatic.html
+2,Mazda RX-8 phase-II Coupe (SE-series),Mazda RX-8 Type E (aut. 6) ,/car/2011/1678580/mazda_rx-8_type_e.html
+3,Mazda RX-8 phase-II Coupe (SE-series),Mazda RX-8 Type G (aut. 6) ,/car/2011/1678625/mazda_rx-8_type_g.html
+5,Mazda RX-8 phase-II Coupe (SE-series),Mazda RX-8 Type RS (man. 6) ,/car/2011/1678595/mazda_rx-8_type_rs.html
+6,Mazda RX-8 phase-II Coupe (SE-series),Mazda RX-8 Type S (man. 6) ,/car/2011/1678565/mazda_rx-8_type_s.html
+1,Mazda Xedos 6 Sedan (CA-series),Mazda Xedos 6 1.6i 16V (man. 5) ,/car/1998/1652855/mazda_xedos_6_1_6i_16v.html
+2,Mazda Xedos 6 Sedan (CA-series),Mazda Xedos 6 1.6i 16V automatic (aut. 4) ,/car/1998/1652795/mazda_xedos_6_1_6i_16v_automatic.html
+3,Mazda Xedos 6 Sedan (CA-series),Mazda Xedos 6 2.0i V6 (man. 5) ,/car/1998/1652825/mazda_xedos_6_2_0i_v6.html
+4,Mazda Xedos 6 Sedan (CA-series),Mazda Xedos 6 2.0i V6 automatic (aut. 4) ,/car/1998/1652840/mazda_xedos_6_2_0i_v6_automatic.html

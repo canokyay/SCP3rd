@@ -1,10 +1,17 @@
 import scrapy
-
+import csv
 
 class A1models2submodelsSpider(scrapy.Spider):
     name = '1models2submodels'
     allowed_domains = ['automobile-catalog.com']
-    start_urls = ['https://www.automobile-catalog.com/model/jaguar/xk_x100.html']
+    with open('data/1models.csv', "r") as f:
+        reader = csv.DictReader(f)
+        start_urls = []
+        for item in reader:
+            if item['Model_EndYear'] == "" or (item['Model_EndYear'] != "Model_EndYear" and item['Model_EndYear'] > "1993"):
+                start_urls.append("https://www.automobile-catalog.com" + item['Model_Link'])
+
+    # start_urls = ['https://www.automobile-catalog.com/model/jaguar/xk_x100.html']
 
     def parse(self, response):
         Model_Name = response.xpath('//p[@id="top"]/font/b/text()').get()

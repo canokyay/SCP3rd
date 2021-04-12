@@ -5,11 +5,11 @@ class A3powertrains4specsSpider(scrapy.Spider):
     name = '3powertrains4specs'
     allowed_domains = ['automobile-catalog.com']
 
-    # with open('../data/3powertrains.csv', "r") as f:
-    #     reader = csv.DictReader(f)
-    #     start_urls = []
-    #     for item in reader:
-    #         start_urls.append(f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\4_Specs\\" + item['Powertrain_Link'].replace("/", ""))
+    with open('data/3powertrains.csv', "r") as f:
+        reader = csv.DictReader(f)
+        start_urls = []
+        for item in reader:
+            start_urls.append("https://www.automobile-catalog.com" + item['Powertrain_Link'])
 
     # start_urls = [
     #     f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\4_Specs\car2004220565alfa_romeo_156_1_6_twin_spark_16v_impression_business__base.html",
@@ -24,7 +24,7 @@ class A3powertrains4specsSpider(scrapy.Spider):
     #     f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\4_Specs\car20212965430bmw_ix3.html",
     #     f"file:F:\GDrive\WorkSpace\Python\ScrapyProject1\ACpages\\4_Specs\car20212971415fiat_500_cabrio.html"
     # ]
-    start_urls = ['https://www.automobile-catalog.com/car/2005/1287215/jaguar_xk8_coupe.html']
+    # start_urls = ['https://www.automobile-catalog.com/car/2005/1287215/jaguar_xk8_coupe.html']
 
     def parse(self, response):
         specssheet = response.xpath('.//table/tr/td/p/font[contains(., "How much horsepower")]')
