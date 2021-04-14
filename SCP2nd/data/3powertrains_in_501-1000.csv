@@ -1,0 +1,501 @@
+#j,#i,Submodel_Name,Powertrain_Name,Powertrain_Link
+501,6,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.8 TFSI (180) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1916945/audi_a3_sportback_1_8_tfsi.html
+502,7,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.8 TFSI (180) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/1764755/audi_a3_sportback_1_8_tfsi_s-tronic.html
+503,8,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.6 TDI (110) Clean Diesel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171165/audi_a3_sportback_1_6_tdi_110_clean_diesel.html
+504,9,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.6 TDI (110) Clean Diesel S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2171180/audi_a3_sportback_1_6_tdi_110_clean_diesel_s-tronic.html
+505,10,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),Audi A3 Sportback 1.6 TDI Ultra (110) (man. 6)  (Attraction),/car/2015/2042330/audi_a3_sportback_1_6_tdi_ultra_110.html
+506,11,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 2.0 TDI (150) Clean Diesel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1917035/audi_a3_sportback_2_0_tdi_150_clean_diesel.html
+507,12,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 2.0 TDI (150) Clean Diesel S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171195/audi_a3_sportback_2_0_tdi_150_clean_diesel_s-tronic.html
+508,13,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 2.0 TDI (184) Clean Diesel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042270/audi_a3_sportback_2_0_tdi_184_clean_diesel.html
+509,1,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 30 TFSI (man. 6) ,/car/2019/2796065/audi_a3_sportback_30_tfsi.html
+510,2,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 30 TFSI S-Tronic (d-cl. 7) ,/car/2019/2796080/audi_a3_sportback_30_tfsi_s-tronic.html
+511,3,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 35 TFSI (man. 6) ,/car/2019/2796095/audi_a3_sportback_35_tfsi.html
+512,4,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 35 TFSI S-Tronic (d-cl. 7) ,/car/2019/2796110/audi_a3_sportback_35_tfsi_s-tronic.html
+513,5,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 30 TDI (man. 6) ,/car/2019/2796020/audi_a3_sportback_30_tdi.html
+514,6,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 30 TDI S-Tronic (d-cl. 7) ,/car/2019/2796035/audi_a3_sportback_30_tdi_s-tronic.html
+515,7,Audi A3 2WD Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 35 TDI S-Tronic (d-cl. 7) ,/car/2019/2796050/audi_a3_sportback_35_tdi_s-tronic.html
+516,1,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 1.2 TFSI (man. 6) ,/car/2012/1335995/audi_a3_cabriolet_1_2_tfsi.html
+517,2,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 1.4 TFSI (man. 6) ,/car/2012/1438010/audi_a3_cabriolet_1_4_tfsi.html
+518,3,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 1.8 TFSI (man. 6) ,/car/2012/1336025/audi_a3_cabriolet_1_8_tfsi.html
+519,4,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 1.8 TFSI S-Tronic (d-cl. 7) ,/car/2012/1336040/audi_a3_cabriolet_1_8_tfsi_s-tronic.html
+520,5,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 2.0 TFSI (man. 6) ,/car/2012/1187330/audi_a3_cabriolet_2_0_tfsi.html
+521,6,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 2.0 TFSI S-Tronic (d-cl. 6) ,/car/2012/1187315/audi_a3_cabriolet_2_0_tfsi_s-tronic.html
+522,7,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 1.6 TDI (man. 5) ,/car/2012/1187345/audi_a3_cabriolet_1_6_tdi.html
+523,8,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 2.0 TDI (140) (man. 6) ,/car/2012/1336055/audi_a3_cabriolet_2_0_tdi_140.html
+524,9,Audi A3 Cabriolet 2nd-gen. (8P),Audi A3 Cabriolet 2.0 TDI (140) S-Tronic (d-cl. 6) ,/car/2012/1336070/audi_a3_cabriolet_2_0_tdi_140_s-tronic.html
+525,1,Audi A3 Concept,Audi A3 Concept (d-cl. 7) ,/car/2011/1438235/audi_a3_concept.html
+526,1,Audi A3 E-Tron Sportback 3rd-gen. phase-I (8V),Audi A3 Sportback E-Tron (d-cl. 6) ,/car/2015/2042345/audi_a3_sportback_e-tron.html
+527,1,Audi A3 E-Tron Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback E-Tron (d-cl. 6) ,/car/2017/2503040/audi_a3_sportback_e-tron.html
+528,1,Audi A3 G-Tron Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback G-Tron 1.4 TFSI (man. 6) ,/car/2017/2503055/audi_a3_sportback_g-tron_1_4_tfsi.html
+529,2,Audi A3 G-Tron Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback G-Tron 1.4 TFSI S-Tronic (d-cl. 7) ,/car/2017/2503070/audi_a3_sportback_g-tron_1_4_tfsi_s-tronic.html
+530,1,Audi A3 Quattro 1st-gen. phase-I (8L),"Audi A3 1.8 T Quattro (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/1219250/audi_a3_1_8_t_quattro.html
+531,2,Audi A3 Quattro 1st-gen. phase-I (8L),"Audi A3 1.8 T Quattro (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250100/audi_a3_1_8_t_quattro.html
+532,3,Audi A3 Quattro 1st-gen. phase-I (8L),"Audi A3 1.8 T (180) Quattro (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/1219265/audi_a3_1_8_t_180_quattro.html
+533,4,Audi A3 Quattro 1st-gen. phase-I (8L),"Audi A3 1.8 T (180) Quattro (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250190/audi_a3_1_8_t_180_quattro.html
+534,1,Audi A3 Quattro 1st-gen. phase-II (8L),"Audi A3 1.8 T Quattro (man. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250400/audi_a3_1_8_t_quattro.html
+535,2,Audi A3 Quattro 1st-gen. phase-II (8L),"Audi A3 1.8 T (180) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2002/250460/audi_a3_1_8_t_180_quattro.html
+536,3,Audi A3 Quattro 1st-gen. phase-II (8L),"Audi A3 1.9 TDI (130) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2002/250565/audi_a3_1_9_tdi_130_quattro.html
+537,1,Audi A3 Quattro 3-Door 2nd-gen. phase-I (8P),Audi A3 2.0 TFSI Quattro (man. 6)  (Ambition),/car/2004/250700/audi_a3_2_0_tfsi_quattro.html
+538,2,Audi A3 Quattro 3-Door 2nd-gen. phase-I (8P),Audi A3 3.2 Quattro (man. 6)  (Ambition),/car/2004/250715/audi_a3_3_2_quattro.html
+539,3,Audi A3 Quattro 3-Door 2nd-gen. phase-I (8P),Audi A3 3.2 Quattro DSG (d-cl. 6)  (Ambition),/car/2004/250730/audi_a3_3_2_quattro_dsg.html
+540,4,Audi A3 Quattro 3-Door 2nd-gen. phase-I (8P),"Audi A3 2.0 TDI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250790/audi_a3_2_0_tdi_quattro.html
+541,1,Audi A3 Quattro 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TFSI Quattro (man. 6)  (Ambition, Ambiente)",/car/2007/251060/audi_a3_2_0_tfsi_quattro.html
+542,2,Audi A3 Quattro 3-Door 2nd-gen. phase-II (8P),Audi A3 3.2 Quattro (man. 6)  (Ambition),/car/2007/251150/audi_a3_3_2_quattro.html
+543,3,Audi A3 Quattro 3-Door 2nd-gen. phase-II (8P),Audi A3 3.2 Quattro DSG (d-cl. 6)  (Ambition),/car/2007/251165/audi_a3_3_2_quattro_dsg.html
+544,4,Audi A3 Quattro 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251330/audi_a3_2_0_tdi_quattro.html
+545,5,Audi A3 Quattro 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI Quattro DPF (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/1190780/audi_a3_2_0_tdi_quattro_dpf.html
+546,6,Audi A3 Quattro 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI (170) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251420/audi_a3_2_0_tdi_170_quattro.html
+547,1,Audi A3 Quattro 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.8 TFSI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335575/audi_a3_1_8_tfsi_quattro.html
+548,2,Audi A3 Quattro 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TFSI Quattro S-Tronic (d-cl. 6)  (Ambition, Ambiente)",/car/2011/1187045/audi_a3_2_0_tfsi_quattro_s-tronic.html
+549,3,Audi A3 Quattro 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TDI (140) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335710/audi_a3_2_0_tdi_140_quattro.html
+550,4,Audi A3 Quattro 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TDI (170) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335725/audi_a3_2_0_tdi_170_quattro.html
+551,1,Audi A3 Quattro 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.8 TFSI (180) Quattro S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1764605/audi_a3_1_8_tfsi_quattro.html
+552,2,Audi A3 Quattro 3-Door 3rd-gen. phase-I (8V),"Audi A3 2.0 TDI (150) Clean Diesel Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2170985/audi_a3_2_0_tdi_150_clean_diesel_quattro.html
+553,3,Audi A3 Quattro 3-Door 3rd-gen. phase-I (8V),"Audi A3 2.0 TDI (184) Clean Diesel Quattro S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042285/audi_a3_2_0_tdi_184_clean_diesel_quattro_s-tronic.html
+554,1,Audi A3 Quattro 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TFSI (190) Quattro S-Tronic (d-cl. 7) ,/car/2017/2502215/audi_a3_2_0_tfsi_190_quattro_s-tronic.html
+555,2,Audi A3 Quattro 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TDI (150) Quattro (man. 6) ,/car/2017/2502305/audi_a3_2_0_tdi_150_quattro.html
+556,3,Audi A3 Quattro 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TDI (184) Quattro S-Tronic (d-cl. 6) ,/car/2017/2502320/audi_a3_2_0_tdi_184_quattro_s-tronic.html
+557,1,Audi A3 Quattro Cabriolet 3rd-gen. phase-I (8V),Audi A3 Cabriolet 1.8 TFSI (180) Quattro S-Tronic (d-cl. 6) ,/car/2015/2042435/audi_a3_cabriolet_1_8_tfsi_quattro_s-tronic.html
+558,2,Audi A3 Quattro Cabriolet 3rd-gen. phase-I (8V),Audi A3 Cabriolet 2.0 T Quattro (d-cl. 6) ,/car/2015/2223215/audi_a3_cabriolet_2_0_t_quattro.html
+559,3,Audi A3 Quattro Cabriolet 3rd-gen. phase-I (8V),Audi A3 Cabriolet 2.0 TDI (150) Clean Diesel Quattro (man. 6) ,/car/2015/2042450/audi_a3_cabriolet_2_0_tdi_150_quattro.html
+560,4,Audi A3 Quattro Cabriolet 3rd-gen. phase-I (8V),Audi A3 Cabriolet 2.0 TDI (184) Clean Diesel Quattro S-Tronic (d-cl. 6) ,/car/2015/2171435/audi_a3_cabriolet_2_0_tdi_184_clean_diesel_quattro_s-tronic.html
+561,1,Audi A3 Quattro Cabriolet 3rd-gen. phase-II (8V),Audi A3 Cabriolet 40 TFSI Quattro S-Tronic (d-cl. 7) ,/car/2019/2958650/audi_a3_cabriolet_40_tfsi_quattro_s-tronic.html
+562,2,Audi A3 Quattro Cabriolet 3rd-gen. phase-II (8V),Audi A3 Cabriolet 45 TFSI Quattro (d-cl. 6) ,/car/2019/2828705/audi_a3_cabriolet_45_tfsi_quattro.html
+563,1,Audi A3 Quattro Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.8 TFSI (180) Quattro S-Tronic (d-cl. 6) ,/car/2015/1960715/audi_a3_limousine_sedan_1_8_tfsi_quattro_s-tronic.html
+564,2,Audi A3 Quattro Sedan 3rd-gen. phase-I (8V),Audi A3 Sedan 2.0 T Quattro (d-cl. 6) ,/car/2015/2037410/audi_a3_sedan_2_0_t_quattro.html
+565,3,Audi A3 Quattro Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 2.0 TDI (150) Clean Diesel Quattro (man. 6) ,/car/2015/2171315/audi_a3_limousine_sedan_2_0_tdi_150_clean_diesel_quattro.html
+566,4,Audi A3 Quattro Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 2.0 TDI (184) Clean Diesel Quattro S-Tronic (d-cl. 6) ,/car/2015/2171345/audi_a3_limousine_sedan_2_0_tdi_184_clean_diesel_quattro_s-tronic.html
+567,1,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TFSI Quattro (man. 6)  (Ambition, Ambiente)",/car/2007/251105/audi_a3_sportback_2_0_tfsi_quattro.html
+568,2,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),Audi A3 Sportback 3.2 Quattro (man. 6)  (Ambition),/car/2007/251180/audi_a3_sportback_3_2_quattro.html
+569,3,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),Audi A3 Sportback 3.2 Quattro S-Tronic (d-cl. 6)  (Ambition),/car/2007/251195/audi_a3_sportback_3_2_quattro_s-tronic.html
+570,4,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),Audi A3 3.2 Quattro S-line S-Tronic (d-cl. 6) ,/car/2007/251615/audi_a3_3_2_quattro_s-line_s-tronic.html
+571,5,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251375/audi_a3_sportback_2_0_tdi_quattro.html
+572,6,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI Quattro DPF (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/1190720/audi_a3_sportback_2_0_tdi_quattro_dpf.html
+573,7,Audi A3 Quattro Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI (170) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251465/audi_a3_sportback_2_0_tdi_170_quattro.html
+574,1,Audi A3 Quattro Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.8 TFSI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335830/audi_a3_sportback_1_8_tfsi_quattro.html
+575,2,Audi A3 Quattro Sportback 2nd-gen. phase-II (8PA),Audi A3 2.0 TFSI Quattro S-Tronic (d-cl. 6)  (Premium,/car/2011/1187225/audi_a3_2_0_tfsi_quattro_s-tronic.html
+576,3,Audi A3 Quattro Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TDI (140) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335935/audi_a3_sportback_2_0_tdi_140_quattro.html
+577,4,Audi A3 Quattro Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TDI (170) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335980/audi_a3_sportback_2_0_tdi_170_quattro.html
+578,1,Audi A3 Quattro Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.8 TFSI (180) Quattro S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1916990/audi_a3_sportback_1_8_tfsi_quattro.html
+579,2,Audi A3 Quattro Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 2.0 TDI (150) Clean Diesel Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171210/audi_a3_sportback_2_0_tdi_150_clean_diesel_quattro.html
+580,3,Audi A3 Quattro Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 2.0 TDI (184) Clean Diesel Quattro S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042300/audi_a3_sportback_2_0_tdi_184_clean_diesel_quattro_s-tronic.html
+581,1,Audi A3 Quattro Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 2.0 TFSI (190) Quattro S-Tronic (d-cl. 7) ,/car/2017/2502410/audi_a3_sportback_2_0_tfsi_190_quattro_s-tronic.html
+582,2,Audi A3 Quattro Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 2.0 TDI (150) Quattro (man. 6) ,/car/2017/2502500/audi_a3_sportback_2_0_tdi_150_quattro.html
+583,3,Audi A3 Quattro Sportback 3rd-gen. phase-II (8V),Audi A3 Sportback 2.0 TDI (184) Quattro S-Tronic (d-cl. 6) ,/car/2017/2502515/audi_a3_sportback_2_0_tdi_184_quattro_s-tronic.html
+584,1,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.6 (man. 5) ,/car/1998/241385/audi_a4_avant_1_6.html
+585,2,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.8 20V (man. 5) ,/car/1998/241415/audi_a4_avant_1_8_20v.html
+586,3,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.8 20V automatic (aut. 4) ,/car/1998/241430/audi_a4_avant_1_8_20v_automatic.html
+587,4,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.8 T (man. 5) ,/car/1998/241445/audi_a4_avant_1_8_t.html
+588,5,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.8 T Tiptronic (aut. 5) ,/car/1998/241460/audi_a4_avant_1_8_t_tiptronic.html
+589,6,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 2.4 30V (man. 5) ,/car/1998/241505/audi_a4_avant_2_4_30v.html
+590,7,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 2.4 30V Tiptronic (aut. 5) ,/car/1998/241520/audi_a4_avant_2_4_30v_tiptronic.html
+591,8,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 2.8 30V (man. 5) ,/car/1998/241610/audi_a4_avant_2_8_30v.html
+592,9,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 2.8 30V Tiptronic (aut. 5) ,/car/1998/241625/audi_a4_avant_2_8_30v_tiptronic.html
+593,10,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 2.8 Tiptronic (aut. 5) ,/car/1998/242930/audi_a4_avant_2_8_tiptronic.html
+594,11,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.9 TDI (man. 5) ,/car/1998/241670/audi_a4_avant_1_9_tdi.html
+595,12,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.9 TDI automatic (aut. 4) ,/car/1998/241685/audi_a4_avant_1_9_tdi_automatic.html
+596,13,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.9 TDI (110) (man. 5) ,/car/1998/241700/audi_a4_avant_1_9_tdi_110.html
+597,14,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 1.9 TDI (110) automatic (aut. 4) ,/car/1998/241715/audi_a4_avant_1_9_tdi_110_automatic.html
+598,15,Audi A4 2WD Avant Wagon B5 phase-I,Audi A4 Avant 2.5 TDI (man. 6) ,/car/1998/241745/audi_a4_avant_2_5_tdi.html
+599,1,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.6 (man. 5) ,/car/2004/246410/audi_a4_avant_1_6.html
+600,2,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.8 T (man. 5) ,/car/2004/246560/audi_a4_avant_1_8_t.html
+601,3,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.8 T Multitronic (cont. 6 pre-programmed) ,/car/2004/246575/audi_a4_avant_1_8_t_multitronic.html
+602,4,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.8 T (190) (man. 6) ,/car/2004/246635/audi_a4_avant_1_8_t_190.html
+603,5,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.0 (man. 5) ,/car/2004/246695/audi_a4_avant_2_0.html
+604,6,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/246710/audi_a4_avant_2_0_multitronic.html
+605,7,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.0 FSI (man. 5) ,/car/2004/246740/audi_a4_avant_2_0_fsi.html
+606,8,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.4 (man. 5) ,/car/2004/246785/audi_a4_avant_2_4.html
+607,9,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.4 Multitronic (cont. 6 pre-programmed) ,/car/2004/246800/audi_a4_avant_2_4_multitronic.html
+608,10,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 3.0 (man. 5) ,/car/2004/246875/audi_a4_avant_3_0.html
+609,11,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 3.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/246890/audi_a4_avant_3_0_multitronic.html
+610,12,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.9 TDI (100) (man. 5) ,/car/2004/246935/audi_a4_avant_1_9_tdi_100.html
+611,13,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.9 TDI (115) (man. 5) ,/car/2004/247940/audi_a4_avant_1_9_tdi_115.html
+612,14,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.9 TDI (man. 5) ,/car/2004/247025/audi_a4_avant_1_9_tdi.html
+613,15,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.9 TDI 6-speed (man. 6) ,/car/2004/247040/audi_a4_avant_1_9_tdi_6-speed.html
+614,16,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 1.9 TDI Multitronic (cont. 6 pre-programmed) ,/car/2004/247055/audi_a4_avant_1_9_tdi_multitronic.html
+615,17,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.5 TDI (man. 6) ,/car/2004/247190/audi_a4_avant_2_5_tdi.html
+616,18,Audi A4 2WD Avant Wagon B6 8E,Audi A4 Avant 2.5 TDI Multitronic (cont. 6 pre-programmed) ,/car/2004/247220/audi_a4_avant_2_5_tdi_multitronic.html
+617,1,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 1.6 (man. 5) ,/car/2007/247430/audi_a4_avant_1_6.html
+618,2,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 1.8 T (man. 5) ,/car/2007/247490/audi_a4_avant_1_8_t.html
+619,3,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 1.8 T Multitronic (cont. 7 pre-programmed) ,/car/2007/247505/audi_a4_avant_1_8_t_multitronic.html
+620,4,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 (man. 5) ,/car/2007/247565/audi_a4_avant_2_0.html
+621,5,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 Multitronic (cont. 7 pre-programmed) ,/car/2007/247580/audi_a4_avant_2_0_multitronic.html
+622,6,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI E (man. 6) ,/car/2007/247730/audi_a4_avant_2_0_tfsi_e.html
+623,7,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI (man. 6) ,/car/2007/247655/audi_a4_avant_2_0_tfsi.html
+624,8,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI Multitronic (cont. 7 pre-programmed) ,/car/2007/247670/audi_a4_avant_2_0_tfsi_multitronic.html
+625,9,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI (220) (man. 6) ,/car/2007/247775/audi_a4_avant_2_0_tfsi_220.html
+626,10,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 3.2 FSI Multitronic (cont. 7 pre-programmed) ,/car/2007/247850/audi_a4_avant_3_2_fsi_multitronic.html
+627,11,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 1.9 TDI (man. 5) ,/car/2007/247970/audi_a4_avant_1_9_tdi.html
+628,12,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 1.9 TDI DPF (man. 5) ,/car/2007/1190840/audi_a4_avant_1_9_tdi_dpf.html
+629,13,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 1.9 TDI E (man. 6) ,/car/2007/1191365/audi_a4_avant_1_9_tdi_e.html
+630,14,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI (man. 6) ,/car/2007/248045/audi_a4_avant_2_0_tdi.html
+631,15,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI DPF (man. 6) ,/car/2007/1190855/audi_a4_avant_2_0_tdi_dpf.html
+632,16,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI Multitronic (cont. 7 pre-programmed) ,/car/2007/248060/audi_a4_avant_2_0_tdi_multitronic.html
+633,17,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI Multitronic DPF (cont. 7 pre-programmed) ,/car/2007/1190870/audi_a4_avant_2_0_tdi_multitronic_dpf.html
+634,18,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI (170) (man. 6) ,/car/2007/248195/audi_a4_avant_2_0_tdi_170.html
+635,19,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.7 TDI (man. 6) ,/car/2007/248315/audi_a4_avant_2_7_tdi.html
+636,20,Audi A4 2WD Avant Wagon B7 8E,Audi A4 Avant 2.7 TDI Multitronic (cont. 7 pre-programmed) ,/car/2007/248330/audi_a4_avant_2_7_tdi_multitronic.html
+637,1,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 1.8 TFSI (120) (man. 6)  (Ambition, Ambiente)",/car/2011/1187915/audi_a4_avant_1_8_tfsi_120_attraction.html
+638,2,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 1.8 TFSI (120) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187930/audi_a4_avant_1_8_tfsi_120_attraction_multitronic.html
+639,3,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 1.8 TFSI (160) (man. 6)  (Ambition, Ambiente)",/car/2011/1187945/audi_a4_avant_1_8_tfsi_160_attraction.html
+640,4,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 1.8 TFSI (160) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187960/audi_a4_avant_1_8_tfsi_160_attraction_multitronic.html
+641,5,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI (180) (man. 6)  (Ambition, Ambiente)",/car/2011/1187975/audi_a4_avant_2_0_tfsi_180_attraction.html
+642,6,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI (180) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187990/audi_a4_avant_2_0_tfsi_180_attraction_multitronic.html
+643,7,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI (211) (man. 6)  (Ambition, Ambiente)",/car/2011/1188005/audi_a4_avant_2_0_tfsi_211_attraction.html
+644,8,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI (211) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1188020/audi_a4_avant_2_0_tfsi_211_attraction_multitronic.html
+645,9,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 3.2 FSI Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1188035/audi_a4_avant_3_2_fsi_attraction_multitronic.html
+646,10,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI Flexible Fuel (gas.) (man. 6)  (Ambition, Ambiente)",/car/2011/1188050/audi_a4_avant_2_0_tfsi_flexible_fuel_attraction_gas_.html
+647,11,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TDI (120) (man. 6)  (Ambition, Ambiente)",/car/2011/1188065/audi_a4_avant_2_0_tdi_120_attraction.html
+648,12,Audi A4 2WD Avant Wagon B8 phase-I,Audi A4 Avant 2.0 TDI E (man. 6) ,/car/2011/1188170/audi_a4_avant_2_0_tdi_e_attraction.html
+649,13,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TDI (143) (man. 6)  (Ambition, Ambiente)",/car/2011/1336175/audi_a4_avant_2_0_tdi_143_attraction.html
+650,14,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TDI (143) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1336190/audi_a4_avant_2_0_tdi_143_attraction_multitronic.html
+651,15,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TDI (170) (man. 6)  (Ambition, Ambiente)",/car/2011/1188110/audi_a4_avant_2_0_tdi_170_attraction.html
+652,16,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.7 TDI (man. 6)  (Ambition, Ambiente)",/car/2011/1188125/audi_a4_avant_2_7_tdi_attraction.html
+653,17,Audi A4 2WD Avant Wagon B8 phase-I,"Audi A4 Avant 2.7 TDI Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1188140/audi_a4_avant_2_7_tdi_attraction_multitronic.html
+654,1,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 1.8 TFSI (120) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1586825/audi_a4_avant_1_8_tfsi_120.html
+655,2,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 1.8 TFSI (120) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/1764995/audi_a4_1_8_tfsi_120_multitronic.html
+656,3,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 1.8 TFSI (170) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1586855/audi_a4_avant_1_8_tfsi_170.html
+657,4,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 1.8 TFSI (170) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/1586870/audi_a4_avant_1_8_tfsi_170_multitronic.html
+658,5,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TFSI (225) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/2042570/audi_a4_avant_2_0_tfsi_225.html
+659,6,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TFSI (225) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/2042585/audi_a4_avant_2_0_tfsi_225_multitronic.html
+660,7,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TFSI Flexible Fuel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1586945/audi_a4_avant_2_0_tfsi_flexible_fuel.html
+661,8,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (120) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1586960/audi_a4_avant_2_0_tdi_120.html
+662,9,Audi A4 2WD Avant Wagon B8 phase-II,Audi A4 Avant 2.0 TDI (136) (man. 6) ,/car/2014/1765055/audi_a4_2_0_tdi_136.html
+663,10,Audi A4 2WD Avant Wagon B8 phase-II,Audi A4 Avant 2.0 TDI (136) Multitronic (cont. 8 pre-programmed) ,/car/2014/1765070/audi_a4_2_0_tdi_136_multitronic.html
+664,11,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI E (136) 116g (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1587305/audi_a4_avant_2_0_tdi_136_116g.html
+665,12,Audi A4 2WD Avant Wagon B8 phase-II,Audi A4 Avant 2.0 TDI Ultra (136) (man. 6) ,/car/2014/2042795/audi_a4_avant_2_0_tdi_ultra_136.html
+666,13,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (150) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/2042705/audi_a4_avant_2_0_tdi_150.html
+667,14,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (150) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/2042720/audi_a4_avant_2_0_tdi_150_multitronic.html
+668,15,Audi A4 2WD Avant Wagon B8 phase-II,Audi A4 Avant 2.0 TDI (163) Multitronic (cont. 8 pre-programmed) ,/car/2014/1765115/audi_a4_2_0_tdi_163_multitronic.html
+669,16,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI E (163) 120g (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1587350/audi_a4_avant_2_0_tdi_163_120g.html
+670,17,Audi A4 2WD Avant Wagon B8 phase-II,Audi A4 Avant 2.0 TDI Ultra (163) (man. 6) ,/car/2014/2042810/audi_a4_avant_2_0_tdi_ultra_163.html
+671,18,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (177) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1587005/audi_a4_avant_2_0_tdi_177.html
+672,19,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (177) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/1587365/audi_a4_avant_2_0_tdi_177_multitronic.html
+673,20,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (190) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/2171465/audi_a4_avant_2_0_tdi_190_multitronic.html
+674,21,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 3.0 TDI (204) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1765145/audi_a4_3_0_tdi_204.html
+675,22,Audi A4 2WD Avant Wagon B8 phase-II,"Audi A4 Avant 3.0 TDI (204) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2014/1587035/audi_a4_avant_3_0_tdi_204_multitronic.html
+676,1,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.6 (man. 5) ,/car/2000/241805/audi_a4_1_6.html
+677,2,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.6 (man. 5) ,/car/2000/241835/audi_a4_1_6.html
+678,3,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 20V (man. 5) ,/car/2000/241865/audi_a4_1_8_20v.html
+679,4,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 20V automatic (aut. 4) ,/car/2000/241880/audi_a4_1_8_20v_automatic.html
+680,5,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 T (man. 5) ,/car/2000/241955/audi_a4_1_8_t.html
+681,6,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 T Tiptronic (aut. 5) ,/car/2000/241970/audi_a4_1_8_t_tiptronic.html
+682,7,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 T (man. 5) ,/car/2000/243005/audi_a4_1_8_t.html
+683,8,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 T Tiptronic (aut. 5) ,/car/2000/243020/audi_a4_1_8_t_tiptronic.html
+684,9,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.8 T (180) (man. 5) ,/car/2000/242090/audi_a4_1_8_t_180.html
+685,10,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.4 30V (man. 5) ,/car/2000/242105/audi_a4_2_4_30v.html
+686,11,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.4 30V Tiptronic (aut. 5) ,/car/2000/242120/audi_a4_2_4_30v_tiptronic.html
+687,12,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.8 (man. 5) ,/car/2000/243095/audi_a4_2_8.html
+688,13,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.8 30V (man. 5) ,/car/2000/242225/audi_a4_2_8_30v.html
+689,14,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.8 30V Tiptronic (aut. 5) ,/car/2000/242240/audi_a4_2_8_30v_tiptronic.html
+690,15,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.8 Tiptronic (aut. 5) ,/car/2000/243110/audi_a4_2_8_tiptronic.html
+691,16,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.9 TDI (man. 5) ,/car/2000/242375/audi_a4_1_9_tdi.html
+692,17,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.9 TDI automatic (aut. 4) ,/car/2000/242390/audi_a4_1_9_tdi_automatic.html
+693,18,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.9 TDI (115) (man. 5) ,/car/2000/242495/audi_a4_1_9_tdi_115.html
+694,19,Audi A4 2WD Sedan B5 phase-II,Audi A4 1.9 TDI (115) Tiptronic (aut. 5) ,/car/2000/242555/audi_a4_1_9_tdi_115_tiptronic.html
+695,20,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.5 TDI (man. 6) ,/car/2000/242585/audi_a4_2_5_tdi.html
+696,21,Audi A4 2WD Sedan B5 phase-II,Audi A4 2.5 TDI Tiptronic (aut. 5) ,/car/2000/242645/audi_a4_2_5_tdi_tiptronic.html
+697,1,Audi A4 2WD Sedan B6 8E,Audi A4 1.6 (man. 5) ,/car/2004/246395/audi_a4_1_6.html
+698,2,Audi A4 2WD Sedan B6 8E,Audi A4 1.8 T (man. 5) ,/car/2004/246515/audi_a4_1_8_t.html
+699,3,Audi A4 2WD Sedan B6 8E,Audi A4 1.8 T Multitronic (cont. 6 pre-programmed) ,/car/2004/246530/audi_a4_1_8_t_multitronic.html
+700,4,Audi A4 2WD Sedan B6 8E,Audi A4 1.8 T (man. 5) ,/car/2004/249155/audi_a4_1_8_t.html
+701,5,Audi A4 2WD Sedan B6 8E,Audi A4 1.8 T Multitronic (cont. 6 pre-programmed) ,/car/2004/1220495/audi_a4_1_8_t_multitronic.html
+702,6,Audi A4 2WD Sedan B6 8E,Audi A4 1.8 T (190) (man. 6) ,/car/2004/246605/audi_a4_1_8_t_190.html
+703,7,Audi A4 2WD Sedan B6 8E,Audi A4 2.0 (man. 5) ,/car/2004/246665/audi_a4_2_0.html
+704,8,Audi A4 2WD Sedan B6 8E,Audi A4 2.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/246680/audi_a4_2_0_multitronic.html
+705,9,Audi A4 2WD Sedan B6 8E,Audi A4 2.0 FSI (man. 5) ,/car/2004/246725/audi_a4_2_0_fsi.html
+706,10,Audi A4 2WD Sedan B6 8E,Audi A4 2.4 (man. 5) ,/car/2004/246755/audi_a4_2_4.html
+707,11,Audi A4 2WD Sedan B6 8E,Audi A4 2.4 Multitronic (cont. 6 pre-programmed) ,/car/2004/246770/audi_a4_2_4_multitronic.html
+708,12,Audi A4 2WD Sedan B6 8E,Audi A4 3.0 (man. 5) ,/car/2004/246815/audi_a4_3_0.html
+709,13,Audi A4 2WD Sedan B6 8E,Audi A4 3.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/246830/audi_a4_3_0_multitronic.html
+710,14,Audi A4 2WD Sedan B6 8E,Audi A4 3.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/1220510/audi_a4_3_0_multitronic.html
+711,15,Audi A4 2WD Sedan B6 8E,Audi A4 1.9 TDI (100) (man. 5) ,/car/2004/246950/audi_a4_1_9_tdi_100.html
+712,16,Audi A4 2WD Sedan B6 8E,Audi A4 1.9 TDI (115) (man. 5) ,/car/2004/247925/audi_a4_1_9_tdi_115.html
+713,17,Audi A4 2WD Sedan B6 8E,Audi A4 1.9 TDI (man. 5) ,/car/2004/246995/audi_a4_1_9_tdi.html
+714,18,Audi A4 2WD Sedan B6 8E,Audi A4 1.9 TDI 6-speed (man. 6) ,/car/2004/247010/audi_a4_1_9_tdi_6-speed.html
+715,19,Audi A4 2WD Sedan B6 8E,Audi A4 1.9 TDI Multitronic (cont. 6 pre-programmed) ,/car/2004/247070/audi_a4_1_9_tdi_multitronic.html
+716,20,Audi A4 2WD Sedan B6 8E,Audi A4 2.5 TDI (man. 6) ,/car/2004/247130/audi_a4_2_5_tdi.html
+717,21,Audi A4 2WD Sedan B6 8E,Audi A4 2.5 TDI Multitronic (cont. 6 pre-programmed) ,/car/2004/247160/audi_a4_2_5_tdi_multitronic.html
+718,1,Audi A4 2WD Sedan B7 8E,Audi A4 1.6 (man. 5) ,/car/2007/247415/audi_a4_1_6.html
+719,2,Audi A4 2WD Sedan B7 8E,Audi A4 1.8 T (man. 5) ,/car/2007/247445/audi_a4_1_8_t.html
+720,3,Audi A4 2WD Sedan B7 8E,Audi A4 1.8 T Multitronic (cont. 7 pre-programmed) ,/car/2007/247460/audi_a4_1_8_t_multitronic.html
+721,4,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 (man. 5) ,/car/2007/247535/audi_a4_2_0.html
+722,5,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 Multitronic (cont. 7 pre-programmed) ,/car/2007/247550/audi_a4_2_0_multitronic.html
+723,6,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TFSI E (man. 6) ,/car/2007/247715/audi_a4_2_0_tfsi_e.html
+724,7,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TFSI (man. 6) ,/car/2007/247595/audi_a4_2_0_tfsi.html
+725,8,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TFSI Multitronic (cont. 7 pre-programmed) ,/car/2007/247610/audi_a4_2_0_tfsi_multitronic.html
+726,9,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 T (man. 6) ,/car/2007/249620/audi_a4_2_0_tfsi.html
+727,10,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 T Multitronic (cont. 7 pre-programmed) ,/car/2007/249635/audi_a4_2_0_tfsi_multitronic.html
+728,11,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TFSI (220) (man. 6) ,/car/2007/247745/audi_a4_2_0_tfsi_220.html
+729,12,Audi A4 2WD Sedan B7 8E,Audi A4 3.2 FSI Multitronic (cont. 7 pre-programmed) ,/car/2007/247805/audi_a4_3_2_fsi_multitronic.html
+730,13,Audi A4 2WD Sedan B7 8E,Audi A4 3.2 Multitronic (cont. 7 pre-programmed) ,/car/2007/249770/audi_a4_3_2_fsi_multitronic.html
+731,14,Audi A4 2WD Sedan B7 8E,Audi A4 1.9 TDI (man. 5) ,/car/2007/247955/audi_a4_1_9_tdi.html
+732,15,Audi A4 2WD Sedan B7 8E,Audi A4 1.9 TDI DPF (man. 5) ,/car/2007/1190795/audi_a4_1_9_tdi_dpf.html
+733,16,Audi A4 2WD Sedan B7 8E,Audi A4 1.9 TDI E (man. 6) ,/car/2007/1191170/audi_a4_1_9_tdi_e.html
+734,17,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TDI (man. 6) ,/car/2007/248015/audi_a4_2_0_tdi.html
+735,18,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TDI DPF (man. 6) ,/car/2007/1190810/audi_a4_2_0_tdi_dpf.html
+736,19,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TDI Multitronic (cont. 7 pre-programmed) ,/car/2007/248030/audi_a4_2_0_tdi_multitronic.html
+737,20,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TDI Multitronic DPF (cont. 7 pre-programmed) ,/car/2007/1190825/audi_a4_2_0_tdi_multitronic_dpf.html
+738,21,Audi A4 2WD Sedan B7 8E,Audi A4 2.0 TDI (170) DPF (man. 6) ,/car/2007/248165/audi_a4_2_0_tdi_170_dpf.html
+739,22,Audi A4 2WD Sedan B7 8E,Audi A4 2.7 TDI DPF (man. 6) ,/car/2007/248285/audi_a4_2_7_tdi_dpf.html
+740,23,Audi A4 2WD Sedan B7 8E,Audi A4 2.7 TDI Multitronic DPF (cont. 7 pre-programmed) ,/car/2007/248300/audi_a4_2_7_tdi_multitronic_dpf.html
+741,1,Audi A4 2WD Sedan B8 phase-I,"Audi A4 1.8 TFSI (120) (man. 6)  (Ambition, Ambiente)",/car/2011/1187465/audi_a4_1_8_tfsi_120_attraction.html
+742,2,Audi A4 2WD Sedan B8 phase-I,"Audi A4 1.8 TFSI (120) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187480/audi_a4_1_8_tfsi_120_attraction_multitronic.html
+743,3,Audi A4 2WD Sedan B8 phase-I,"Audi A4 1.8 TFSI (160) (man. 6)  (Ambition, Ambiente)",/car/2011/1187495/audi_a4_1_8_tfsi_160_attraction.html
+744,4,Audi A4 2WD Sedan B8 phase-I,"Audi A4 1.8 TFSI (160) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187510/audi_a4_1_8_tfsi_160_attraction_multitronic.html
+745,5,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TFSI (180) (man. 6)  (Ambition, Ambiente)",/car/2011/1187540/audi_a4_2_0_tfsi_180_attraction.html
+746,6,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TFSI (180) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187555/audi_a4_2_0_tfsi_180_attraction_multitronic.html
+747,7,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TFSI (211) (man. 6)  (Ambition, Ambiente)",/car/2011/1187570/audi_a4_2_0_tfsi_211_attraction.html
+748,8,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TFSI (211) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187585/audi_a4_2_0_tfsi_211_attraction_multitronic.html
+749,9,Audi A4 2WD Sedan B8 phase-I,Audi A4 2.0 T Multitronic (cont. 8 pre-programmed)  (Premium Plus),/car/2011/1337330/audi_a4_2_0_tfsi_premium_multitronic.html
+750,10,Audi A4 2WD Sedan B8 phase-I,"Audi A4 3.2 FSI Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187630/audi_a4_3_2_fsi_attraction_multitronic.html
+751,11,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TFSI Flexible Fuel (gas.) (man. 6)  (Ambition, Ambiente)",/car/2011/1187870/audi_a4_2_0_tfsi_flexible_fuel_attraction_gas_.html
+752,12,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TDI (120) (man. 6)  (Ambition, Ambiente)",/car/2011/1187675/audi_a4_2_0_tdi_120_attraction.html
+753,13,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TDI (136) (man. 6)  (Ambition, Ambiente)",/car/2011/1187690/audi_a4_2_0_tdi_136_attraction.html
+754,14,Audi A4 2WD Sedan B8 phase-I,Audi A4 2.0 TDI E (man. 6) ,/car/2011/1187900/audi_a4_2_0_tdi_e_attraction.html
+755,15,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TDI (143) (man. 6)  (Ambition, Ambiente)",/car/2011/1336115/audi_a4_2_0_tdi_143_attraction.html
+756,16,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TDI (143) Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187720/audi_a4_2_0_tdi_143_attraction_multitronic.html
+757,17,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.0 TDI (170) (man. 6)  (Ambition, Ambiente)",/car/2011/1187750/audi_a4_2_0_tdi_170_attraction.html
+758,18,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.7 TDI (man. 6)  (Ambition, AmbienteAMBITION, AmbienteAMBITION, Ambiente)",/car/2011/1187780/audi_a4_2_7_tdi_attraction.html
+759,19,Audi A4 2WD Sedan B8 phase-I,"Audi A4 2.7 TDI Multitronic (cont. 8 pre-programmed)  (Ambition, Ambiente)",/car/2011/1187795/audi_a4_2_7_tdi_attraction_multitronic.html
+760,1,Audi A4 2WD Sedan B8 phase-II,"Audi A4 1.8 TFSI (120) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586420/audi_a4_1_8_tfsi_120.html
+761,2,Audi A4 2WD Sedan B8 phase-II,"Audi A4 1.8 TFSI (120) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/1764830/audi_a4_1_8_tfsi_120_multitronic.html
+762,3,Audi A4 2WD Sedan B8 phase-II,"Audi A4 1.8 TFSI (170) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586450/audi_a4_1_8_tfsi_170.html
+763,4,Audi A4 2WD Sedan B8 phase-II,"Audi A4 1.8 TFSI (170) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/1587275/audi_a4_1_8_tfsi_170_multitronic.html
+764,5,Audi A4 2WD Sedan B8 phase-II,Audi A4 2.0 T Multitronic (cont. 8 pre-programmed)  (Premium,/car/2015/1934660/audi_a4_2_0_t_multitronic.html
+765,6,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TFSI (225) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042510/audi_a4_2_0_tfsi_225.html
+766,7,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TFSI (225) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/2042525/audi_a4_2_0_tfsi_225_multitronic.html
+767,8,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TFSI Flexible Fuel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586540/audi_a4_2_0_tfsi_flexible_fuel.html
+768,9,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (120) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586555/audi_a4_2_0_tdi_120.html
+769,10,Audi A4 2WD Sedan B8 phase-II,Audi A4 2.0 TDI Ultra (136) (man. 6) ,/car/2015/2042765/audi_a4_2_0_tdi_ultra_136.html
+770,11,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (150) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042660/audi_a4_2_0_tdi_150.html
+771,12,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (150) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/2042675/audi_a4_2_0_tdi_150_multitronic.html
+772,13,Audi A4 2WD Sedan B8 phase-II,Audi A4 2.0 TDI Ultra (163) (man. 6) ,/car/2015/2042780/audi_a4_2_0_tdi_ultra_163.html
+773,14,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (177) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586615/audi_a4_2_0_tdi_177.html
+774,15,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (177) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/1587335/audi_a4_2_0_tdi_177_multitronic.html
+775,16,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (190) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171450/audi_a4_2_0_tdi_190.html
+776,17,Audi A4 2WD Sedan B8 phase-II,"Audi A4 2.0 TDI (190) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/2171480/audi_a4_2_0_tdi_190_multitronic.html
+777,18,Audi A4 2WD Sedan B8 phase-II,"Audi A4 3.0 TDI (204) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1764890/audi_a4_3_0_tdi_204.html
+778,19,Audi A4 2WD Sedan B8 phase-II,"Audi A4 3.0 TDI (204) Multitronic (cont. 8 pre-programmed)  (Attraction, Ambition, Ambiente)",/car/2015/1586645/audi_a4_3_0_tdi_204_multitronic.html
+779,1,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 1.8 T (man. 5) ,/car/2004/248585/audi_a4_cabriolet_1_8_t.html
+780,2,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 1.8 T Multitronic (cont. 6 pre-programmed) ,/car/2004/248600/audi_a4_cabriolet_1_8_t_multitronic.html
+781,3,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 1.8 T Quattro (man. 6) ,/car/2004/248615/audi_a4_cabriolet_1_8_t_quattro.html
+782,4,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 1.8 T Multitronic (cont. 6 pre-programmed) ,/car/2004/249320/audi_a4_cabriolet_1_8_t_multitronic.html
+783,5,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 2.0 (man. 5) ,/car/2004/248660/audi_a4_cabriolet_2_0.html
+784,6,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 2.4 (man. 6) ,/car/2004/248735/audi_a4_cabriolet_2_4.html
+785,7,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 2.4 Multitronic (cont. 6 pre-programmed) ,/car/2004/248750/audi_a4_cabriolet_2_4_multitronic.html
+786,8,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 3.0 (man. 6) ,/car/2004/248795/audi_a4_cabriolet_3_0.html
+787,9,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 3.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/248810/audi_a4_cabriolet_3_0_multitronic.html
+788,10,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 3.0 Quattro (man. 6) ,/car/2004/248825/audi_a4_cabriolet_3_0_quattro.html
+789,11,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 3.0 Quattro Tiptronic (aut. 5) ,/car/2004/248840/audi_a4_cabriolet_3_0_quattro_tiptronic.html
+790,12,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 3.0 Multitronic (cont. 6 pre-programmed) ,/car/2004/249335/audi_a4_cabriolet_3_0_multitronic.html
+791,13,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 3.0 Quattro Tiptronic (aut. 5) ,/car/2004/249545/audi_a4_cabriolet_3_0_quattro_tiptronic.html
+792,14,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 2.5 TDI (man. 6) ,/car/2004/248930/audi_a4_cabriolet_2_5_tdi.html
+793,15,Audi A4 Cabriolet B6 8H,Audi A4 Cabriolet 2.5 TDI Multitronic (cont. 6 pre-programmed) ,/car/2004/248945/audi_a4_cabriolet_2_5_tdi_multitronic.html
+794,1,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 1.8 T (man. 5) ,/car/2008/248630/audi_a4_cabriolet_1_8_t.html
+795,2,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 1.8 T Multitronic (cont. 7 pre-programmed) ,/car/2008/248645/audi_a4_cabriolet_1_8_t_multitronic.html
+796,3,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.0 TFSI (man. 6) ,/car/2008/248675/audi_a4_cabriolet_2_0_tfsi.html
+797,4,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.0 TFSI Multitronic (cont. 7 pre-programmed) ,/car/2008/248690/audi_a4_cabriolet_2_0_tfsi_multitronic.html
+798,5,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.0 T Multitronic (cont. 7 pre-programmed) ,/car/2008/249740/audi_a4_cabriolet_2_0_tfsi_multitronic.html
+799,6,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.0 T Quattro Tiptronic (aut. 6) ,/car/2008/249755/audi_a4_cabriolet_2_0_tfsi_quattro_tiptronic.html
+800,7,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.2 FSI Multitronic (cont. 7 pre-programmed) ,/car/2008/248855/audi_a4_cabriolet_3_2_fsi_multitronic.html
+801,8,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.2 FSI Quattro (man. 6) ,/car/2008/248870/audi_a4_cabriolet_3_2_fsi_quattro.html
+802,9,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.2 FSI Quattro Tiptronic (aut. 6) ,/car/2008/248885/audi_a4_cabriolet_3_2_fsi_quattro_tiptronic.html
+803,10,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.2  Quattro Tiptronic (aut. 6) ,/car/2008/249845/audi_a4_cabriolet_3_2_fsi_quattro_tiptronic.html
+804,11,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.0 TDI (man. 6) ,/car/2008/248900/audi_a4_cabriolet_2_0_tdi.html
+805,12,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.0 TDI Multitronic (cont. 7 pre-programmed) ,/car/2008/248915/audi_a4_cabriolet_2_0_tdi_multitronic.html
+806,13,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 2.7 TDI Multitronic (cont. 7 pre-programmed) ,/car/2008/248960/audi_a4_cabriolet_2_7_tdi_multitronic.html
+807,14,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.0 TDI Quattro (man. 6) ,/car/2008/248975/audi_a4_cabriolet_3_0_tdi_quattro.html
+808,15,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.0 TDI Quattro DPF (man. 6) ,/car/2008/1191005/audi_a4_cabriolet_3_0_tdi_quattro_dpf.html
+809,16,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.0 TDI Quattro Tiptronic (aut. 6) ,/car/2008/248990/audi_a4_cabriolet_3_0_tdi_quattro_tiptronic.html
+810,17,Audi A4 Cabriolet B7 8H,Audi A4 Cabriolet 3.0 TDI Quattro Tiptronic DPF (aut. 6) ,/car/2008/1191020/audi_a4_cabriolet_3_0_tdi_quattro_tiptronic_dpf.html
+811,1,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 1.8 T Quattro (man. 5) ,/car/2004/246590/audi_a4_avant_1_8_t_quattro.html
+812,2,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 1.8 T Quattro (man. 6) ,/car/2004/249455/audi_a4_avant_1_8_t_quattro.html
+813,3,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 1.8 T Quattro Tiptronic (aut. 5) ,/car/2004/1220570/audi_a4_avant_1_8_t_quattro_tiptronic.html
+814,4,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 1.8 T (190) Quattro (man. 6) ,/car/2004/246650/audi_a4_avant_1_8_t_190_quattro.html
+815,5,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 3.0 Quattro (man. 6) ,/car/2004/246905/audi_a4_avant_3_0_quattro.html
+816,6,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 3.0 Quattro Tiptronic (aut. 5) ,/car/2004/246920/audi_a4_avant_3_0_quattro_tiptronic.html
+817,7,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 3.0 Quattro (man. 6) ,/car/2004/1220585/audi_a4_avant_3_0_quattro.html
+818,8,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 3.0 Quattro Tiptronic (aut. 5) ,/car/2004/1220600/audi_a4_avant_3_0_quattro_tiptronic.html
+819,9,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 1.9 TDI Quattro (man. 6) ,/car/2004/247100/audi_a4_avant_1_9_tdi_quattro.html
+820,10,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 2.5 TDI (180) Quattro (man. 6) ,/car/2004/247265/audi_a4_avant_2_5_tdi_180_quattro.html
+821,11,Audi A4 Quattro Avant Wagon B6 8E,Audi A4 Avant 2.5 TDI (180) Quattro Tiptronic (aut. 5) ,/car/2004/247280/audi_a4_avant_2_5_tdi_180_quattro_tiptronic.html
+822,1,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 1.8 T Quattro (man. 6) ,/car/2007/247520/audi_a4_avant_1_8_t_quattro.html
+823,2,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI Quattro (man. 6) ,/car/2007/247685/audi_a4_avant_2_0_tfsi_quattro.html
+824,3,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI Quattro Tiptronic (aut. 6) ,/car/2007/247700/audi_a4_avant_2_0_tfsi_quattro_tiptronic.html
+825,4,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 T Quattro (man. 6) ,/car/2007/249710/audi_a4_avant_2_0_tfsi_quattro.html
+826,5,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 T Quattro Tiptronic (aut. 6) ,/car/2007/249725/audi_a4_avant_2_0_tfsi_quattro_tiptronic.html
+827,6,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 TFSI (220) Quattro (man. 6) ,/car/2007/247790/audi_a4_avant_2_0_tfsi_220_quattro.html
+828,7,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.2 FSI Quattro (man. 6) ,/car/2007/247865/audi_a4_avant_3_2_fsi_quattro.html
+829,8,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.2 FSI Quattro Tiptronic (aut. 6) ,/car/2007/247880/audi_a4_avant_3_2_fsi_quattro_tiptronic.html
+830,9,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.2 Quattro (man. 6) ,/car/2007/249815/audi_a4_avant_3_2_fsi_quattro.html
+831,10,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.2 Quattro Tiptronic (aut. 6) ,/car/2007/249830/audi_a4_avant_3_2_fsi_quattro_tiptronic.html
+832,11,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI Quattro (man. 6) ,/car/2007/248480/audi_a4_avant_2_0_tdi_quattro.html
+833,12,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 2.0 TDI (170) Quattro (man. 6) ,/car/2007/248210/audi_a4_avant_2_0_tdi_170_quattro.html
+834,13,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.0 TDI Quattro (man. 6) ,/car/2007/248435/audi_a4_avant_3_0_tdi_quattro.html
+835,14,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.0 TDI Quattro DPF (man. 6) ,/car/2007/1190915/audi_a4_avant_3_0_tdi_quattro_dpf.html
+836,15,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.0 TDI Quattro Tiptronic (aut. 6) ,/car/2007/248450/audi_a4_avant_3_0_tdi_quattro_tiptronic.html
+837,16,Audi A4 Quattro Avant Wagon B7 8E,Audi A4 Avant 3.0 TDI Quattro Tiptronic DPF (aut. 6) ,/car/2007/1190930/audi_a4_avant_3_0_tdi_quattro_tiptronic_dpf.html
+838,1,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 1.8 TFSI (160) Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1188185/audi_a4_avant_1_8_tfsi_160_quattro_attraction.html
+839,2,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI (211) Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1188200/audi_a4_avant_2_0_tfsi_211_quattro_attraction.html
+840,3,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI (211) Quattro S-Tronic (d-cl. 7)  (Ambition, Ambiente)",/car/2011/1336160/audi_a4_avant_2_0_tfsi_211_quattro_attraction_s-tronic.html
+841,4,Audi A4 Quattro Avant Wagon B8 phase-I,Audi A4 Avant 2.0 TFSI Quattro Tiptronic (aut. 8)  (Premium Plus,/car/2011/1337405/audi_a4_avant_2_0_tfsi_quattro_premium_tiptronic.html
+842,5,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 3.2 FSI Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1188230/audi_a4_avant_3_2_fsi_quattro_attraction.html
+843,6,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 3.2 FSI Quattro Tiptronic (aut. 6)  (Ambition, Ambiente)",/car/2011/1188245/audi_a4_avant_3_2_fsi_quattro_attraction_tiptronic.html
+844,7,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TFSI Quattro Flexible Fuel (gas.) (man. 6)  (Ambition, Ambiente)",/car/2011/1336235/audi_a4_avant_2_0_tfsi_quattro_flexible_fuel_attraction_gas_.html
+845,8,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TDI (143) Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1336205/audi_a4_avant_2_0_tdi_143_quattro_attraction.html
+846,9,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 2.0 TDI (170) Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1336220/audi_a4_avant_2_0_tdi_170_quattro_attraction.html
+847,10,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 3.0 TDI Clean Diesel Quattro Tiptronic (aut. 6)  (Ambition, Ambiente)",/car/2011/1188335/audi_a4_avant_3_0_tdi_clean_diesel_quattro_attraction_tiptronic.html
+848,11,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 3.0 TDI Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1188290/audi_a4_avant_3_0_tdi_quattro_attraction.html
+849,12,Audi A4 Quattro Avant Wagon B8 phase-I,"Audi A4 Avant 3.0 TDI Quattro S-Tronic (d-cl. 7)  (Ambition, Ambiente)",/car/2011/1188320/audi_a4_avant_3_0_tdi_quattro_attraction_s-tronic.html
+850,1,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 1.8 TFSI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1765010/audi_a4_1_8_tfsi_quattro.html
+851,2,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TFSI (225) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/2042600/audi_a4_avant_2_0_tfsi_225_quattro.html
+852,3,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TFSI (225) Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2014/2042615/audi_a4_avant_2_0_tfsi_225_quattro_s-tronic.html
+853,4,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 3.0 TFSI Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2014/1765040/audi_a4_3_0_tfsi_quattro_s-tronic.html
+854,5,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TFSI Quattro Flexible Fuel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1587110/audi_a4_avant_2_0_tfsi_quattro_flexible_fuel.html
+855,6,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (150) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/2042735/audi_a4_avant_2_0_tdi_150_quattro.html
+856,7,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (177) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1587140/audi_a4_avant_2_0_tdi_177_quattro.html
+857,8,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 2.0 TDI (177) Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2014/1765130/audi_a4_2_0_tdi_177_quattro_s-tronic.html
+858,9,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 3.0 TDI (245) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2014/1765160/audi_a4_3_0_tdi_245_quattro.html
+859,10,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 3.0 TDI (245) Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2014/1587170/audi_a4_avant_3_0_tdi_245_quattro_s-tronic.html
+860,11,Audi A4 Quattro Avant Wagon B8 phase-II,"Audi A4 Avant 3.0 TDI Clean Diesel Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2014/1587185/audi_a4_avant_3_0_tdi_clean_diesel_quattro_s-tronic.html
+861,1,Audi A4 Quattro Sedan B5 phase-II,Audi A4 1.8 20V Quattro (man. 5) ,/car/2000/241895/audi_a4_1_8_20v_quattro.html
+862,2,Audi A4 Quattro Sedan B5 phase-II,Audi A4 1.8 T Quattro (man. 5) ,/car/2000/241985/audi_a4_1_8_t_quattro.html
+863,3,Audi A4 Quattro Sedan B5 phase-II,Audi A4 1.8 T Quattro (man. 5) ,/car/2000/243035/audi_a4_1_8_t_quattro.html
+864,4,Audi A4 Quattro Sedan B5 phase-II,Audi A4 1.8 T Quattro Tiptronic (aut. 5) ,/car/2000/243050/audi_a4_1_8_t_quattro_tiptronic.html
+865,5,Audi A4 Quattro Sedan B5 phase-II,Audi A4 1.8 T (180) Quattro (man. 5) ,/car/2000/242075/audi_a4_1_8_t_180_quattro.html
+866,6,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.4 30V Quattro (man. 5) ,/car/2000/242135/audi_a4_2_4_30v_quattro.html
+867,7,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.4 30V Quattro Tiptronic (aut. 5) ,/car/2000/2091830/audi_a4_2_4_30v_quattro_tiptronic.html
+868,8,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.8 30V Quattro (man. 5) ,/car/2000/242285/audi_a4_2_8_30v_quattro.html
+869,9,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.8 30V Quattro Tiptronic (aut. 5) ,/car/2000/242300/audi_a4_2_8_30v_quattro_tiptronic.html
+870,10,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.8 Quattro (man. 5) ,/car/2000/243125/audi_a4_2_8_quattro.html
+871,11,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.8 Quattro Tiptronic (aut. 5) ,/car/2000/243140/audi_a4_2_8_quattro_tiptronic.html
+872,12,Audi A4 Quattro Sedan B5 phase-II,Audi A4 1.9 TDI Quattro (man. 6) ,/car/2000/242510/audi_a4_1_9_tdi_quattro.html
+873,13,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.5 TDI Quattro (man. 6) ,/car/2000/242600/audi_a4_2_5_tdi_quattro.html
+874,14,Audi A4 Quattro Sedan B5 phase-II,Audi A4 2.5 TDI Quattro Tiptronic (aut. 5) ,/car/2000/242675/audi_a4_2_5_tdi_quattro_tiptronic.html
+875,1,Audi A4 Quattro Sedan B6 8E,Audi A4 1.8 T Quattro (man. 5) ,/car/2004/246545/audi_a4_1_8_t_quattro.html
+876,2,Audi A4 Quattro Sedan B6 8E,Audi A4 1.8 T Quattro (man. 6) ,/car/2004/249380/audi_a4_1_8_t_quattro.html
+877,3,Audi A4 Quattro Sedan B6 8E,Audi A4 1.8 T Quattro Tiptronic (aut. 5) ,/car/2004/1220525/audi_a4_1_8_t_quattro_tiptronic.html
+878,4,Audi A4 Quattro Sedan B6 8E,Audi A4 1.8 T (190) Quattro (man. 6) ,/car/2004/246620/audi_a4_1_8_t_190_quattro.html
+879,5,Audi A4 Quattro Sedan B6 8E,Audi A4 3.0 Quattro (man. 6) ,/car/2004/246845/audi_a4_3_0_quattro.html
+880,6,Audi A4 Quattro Sedan B6 8E,Audi A4 3.0 Quattro Tiptronic (aut. 5) ,/car/2004/246860/audi_a4_3_0_quattro_tiptronic.html
+881,7,Audi A4 Quattro Sedan B6 8E,Audi A4 3.0 Quattro (man. 6) ,/car/2004/1220540/audi_a4_3_0_quattro.html
+882,8,Audi A4 Quattro Sedan B6 8E,Audi A4 3.0 Quattro Tiptronic (aut. 5) ,/car/2004/1220555/audi_a4_3_0_quattro_tiptronic.html
+883,9,Audi A4 Quattro Sedan B6 8E,Audi A4 1.9 TDI Quattro (man. 6) ,/car/2004/247085/audi_a4_1_9_tdi_quattro.html
+884,10,Audi A4 Quattro Sedan B6 8E,Audi A4 2.5 TDI (180) Quattro (man. 6) ,/car/2004/247235/audi_a4_2_5_tdi_180_quattro.html
+885,11,Audi A4 Quattro Sedan B6 8E,Audi A4 2.5 TDI (180) Quattro Tiptronic (aut. 5) ,/car/2004/247250/audi_a4_2_5_tdi_180_quattro_tiptronic.html
+886,1,Audi A4 Quattro Sedan B7 8E,Audi A4 1.8 T Quattro (man. 6) ,/car/2007/247475/audi_a4_1_8_t_quattro.html
+887,2,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 TFSI Quattro (man. 6) ,/car/2007/247625/audi_a4_2_0_tfsi_quattro.html
+888,3,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 TFSI Quattro Tiptronic (aut. 6) ,/car/2007/247640/audi_a4_2_0_tfsi_quattro_tiptronic.html
+889,4,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 T Quattro (man. 6) ,/car/2007/249650/audi_a4_2_0_tfsi_quattro.html
+890,5,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 T Quattro Tiptronic (aut. 6) ,/car/2007/249665/audi_a4_2_0_tfsi_quattro_tiptronic.html
+891,6,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 TFSI (220) Quattro (man. 6) ,/car/2007/247760/audi_a4_2_0_tfsi_220_quattro.html
+892,7,Audi A4 Quattro Sedan B7 8E,Audi A4 3.2 FSI Quattro (man. 6) ,/car/2007/247820/audi_a4_3_2_fsi_quattro.html
+893,8,Audi A4 Quattro Sedan B7 8E,Audi A4 3.2 FSI Quattro Tiptronic (aut. 6) ,/car/2007/247835/audi_a4_3_2_fsi_quattro_tiptronic.html
+894,9,Audi A4 Quattro Sedan B7 8E,Audi A4 3.2 Quattro (man. 6) ,/car/2007/249785/audi_a4_3_2_fsi_quattro.html
+895,10,Audi A4 Quattro Sedan B7 8E,Audi A4 3.2 Quattro Tiptronic (aut. 6) ,/car/2007/249800/audi_a4_3_2_fsi_quattro_tiptronic.html
+896,11,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 TDI Quattro (man. 6) ,/car/2007/248465/audi_a4_2_0_tdi_quattro.html
+897,12,Audi A4 Quattro Sedan B7 8E,Audi A4 2.0 TDI (170) Quattro (man. 6) ,/car/2007/248180/audi_a4_2_0_tdi_170_quattro.html
+898,13,Audi A4 Quattro Sedan B7 8E,Audi A4 3.0 TDI Quattro (man. 6) ,/car/2007/248405/audi_a4_3_0_tdi_quattro.html
+899,14,Audi A4 Quattro Sedan B7 8E,Audi A4 3.0 TDI Quattro DPF (man. 6) ,/car/2007/1190975/audi_a4_3_0_tdi_quattro_dpf.html
+900,15,Audi A4 Quattro Sedan B7 8E,Audi A4 3.0 TDI Quattro Tiptronic (aut. 6) ,/car/2007/248420/audi_a4_3_0_tdi_quattro_tiptronic.html
+901,16,Audi A4 Quattro Sedan B7 8E,Audi A4 3.0 TDI Quattro Tiptronic DPF (aut. 6) ,/car/2007/1190990/audi_a4_3_0_tdi_quattro_tiptronic_dpf.html
+902,1,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 1.8 TFSI Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1187525/audi_a4_1_8_tfsi_quattro_attraction.html
+903,2,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 2.0 TFSI Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1187600/audi_a4_2_0_tfsi_quattro_attraction.html
+904,3,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 2.0 TFSI Quattro S-Tronic (d-cl. 7)  (Ambition, Ambiente)",/car/2011/1188680/audi_a4_2_0_tfsi_quattro_attraction_s-tronic.html
+905,4,Audi A4 Quattro Sedan B8 phase-I,Audi A4 2.0 T Quattro (man. 6)  (Premium Plus,/car/2011/1337345/audi_a4_2_0_tfsi_quattro_premium.html
+906,5,Audi A4 Quattro Sedan B8 phase-I,Audi A4 2.0 T Quattro Tiptronic (aut. 8)  (Premium Plus,/car/2011/1337360/audi_a4_2_0_tfsi_quattro_premium_tiptronic.html
+907,6,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 3.2 FSI Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1187645/audi_a4_3_2_fsi_quattro_attraction.html
+908,7,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 3.2 FSI Quattro Tiptronic (aut. 6)  (Ambition, Ambiente)",/car/2011/1187660/audi_a4_3_2_fsi_quattro_attraction_tiptronic.html
+909,8,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 2.0 TFSI Quattro Flexible Fuel (gas.) (man. 6)  (Ambition, Ambiente)",/car/2011/1336085/audi_a4_2_0_tfsi_quattro_flexible_fuel_attraction_gas_.html
+910,9,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 2.0 TDI (143) Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1336130/audi_a4_2_0_tdi_143_quattro_attraction.html
+911,10,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 2.0 TDI (170) Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1336145/audi_a4_2_0_tdi_170_quattro_attraction.html
+912,11,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 3.0 TDI Clean Diesel Quattro Tiptronic (aut. 6)  (Ambition, Ambiente)",/car/2011/1187840/audi_a4_3_0_tdi_clean_diesel_quattro_attraction_tiptronic.html
+913,12,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 3.0 TDI Quattro (man. 6)  (Ambition, Ambiente)",/car/2011/1187810/audi_a4_3_0_tdi_quattro_attraction.html
+914,13,Audi A4 Quattro Sedan B8 phase-I,"Audi A4 3.0 TDI Quattro S-Tronic (d-cl. 7)  (Ambition, Ambiente)",/car/2011/1187825/audi_a4_3_0_tdi_quattro_attraction_s-tronic.html
+915,1,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 1.8 TFSI Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1764845/audi_a4_1_8_tfsi_quattro.html
+916,2,Audi A4 Quattro Sedan B8 phase-II,Audi A4 2.0 T Quattro (man. 6)  (Premium,/car/2015/1934675/audi_a4_2_0_t_quattro.html
+917,3,Audi A4 Quattro Sedan B8 phase-II,Audi A4 2.0 T Quattro Tiptronic (aut. 8)  (Premium,/car/2015/1934690/audi_a4_2_0_t_quattro_tiptronic.html
+918,4,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 2.0 TFSI (225) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042540/audi_a4_2_0_tfsi_225_quattro.html
+919,5,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 2.0 TFSI (225) Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2042555/audi_a4_2_0_tfsi_225_quattro_s-tronic.html
+920,6,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 3.0 TFSI Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/1764875/audi_a4_3_0_tfsi_quattro_s-tronic.html
+921,7,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 2.0 TFSI Quattro Flexible Fuel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586720/audi_a4_2_0_tfsi_quattro_flexible_fuel.html
+922,8,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 2.0 TDI (150) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042690/audi_a4_2_0_tdi_150_quattro.html
+923,9,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 2.0 TDI (177) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1586750/audi_a4_2_0_tdi_177_quattro.html
+924,10,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 2.0 TDI (177) Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/1764935/audi_a4_2_0_tdi_177_quattro_s-tronic.html
+925,11,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 3.0 TDI (245) Quattro (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1764920/audi_a4_3_0_tdi_245_quattro.html
+926,12,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 3.0 TDI (245) Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/1586780/audi_a4_3_0_tdi_245_quattro_s-tronic.html
+927,13,Audi A4 Quattro Sedan B8 phase-II,"Audi A4 3.0 TDI Clean Diesel Quattro S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/1586795/audi_a4_3_0_tdi_clean_diesel_quattro_s-tronic.html
+928,1,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 1.8 TFSI (man. 6) ,/car/2011/1189895/audi_a5_cabriolet_1_8_tfsi.html
+929,2,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 1.8 TFSI Multitronic (cont. 8 pre-programmed) ,/car/2011/1189910/audi_a5_cabriolet_1_8_tfsi_multitronic.html
+930,3,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 TFSI (180) Multitronic (cont. 8 pre-programmed) ,/car/2011/1189925/audi_a5_cabriolet_2_0_tfsi_180_multitronic.html
+931,4,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 TFSI (211) (man. 6) ,/car/2011/1336325/audi_a5_cabriolet_2_0_tfsi_211.html
+932,5,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 TFSI (211) Multitronic (cont. 8 pre-programmed) ,/car/2011/1189955/audi_a5_cabriolet_2_0_tfsi_211_multitronic.html
+933,6,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 T Multitronic (cont. 8 pre-programmed) ,/car/2011/1337630/audi_a5_cabriolet_2_0_tfsi_multitronic.html
+934,7,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 3.2 FSI Multitronic (cont. 8 pre-programmed) ,/car/2011/1189985/audi_a5_cabriolet_3_2_fsi_multitronic.html
+935,8,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 TDI (man. 6) ,/car/2011/1190015/audi_a5_cabriolet_2_0_tdi.html
+936,9,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.7 TDI (man. 6) ,/car/2011/1190030/audi_a5_cabriolet_2_7_tdi.html
+937,10,Audi A5 Cabriolet 2WD 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.7 TDI Multitronic (cont. 8 pre-programmed) ,/car/2011/1190045/audi_a5_cabriolet_2_7_tdi_multitronic.html
+938,1,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 1.8 TFSI (man. 6) ,/car/2015/1587590/audi_a5_cabriolet_1_8_tfsi.html
+939,2,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 1.8 TFSI Multitronic (cont. 8 pre-programmed) ,/car/2015/1587605/audi_a5_cabriolet_1_8_tfsi_multitronic.html
+940,3,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 T Multitronic (cont. 8 pre-programmed) ,/car/2015/1934735/audi_a5_cabriolet_2_0_t_multitronic.html
+941,4,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TFSI (225) (man. 6) ,/car/2015/2042825/audi_a5_cabriolet_2_0_tfsi_225.html
+942,5,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TFSI (225) Multitronic (cont. 8 pre-programmed) ,/car/2015/2042840/audi_a5_cabriolet_2_0_tfsi_225_multitronic.html
+943,6,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TDI (150) (man. 6) ,/car/2015/2042990/audi_a5_cabriolet_2_0_tdi_150.html
+944,7,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TDI (177) (man. 6) ,/car/2015/1587650/audi_a5_cabriolet_2_0_tdi_177.html
+945,8,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TDI (177) Multitronic (cont. 8 pre-programmed) ,/car/2015/1588235/audi_a5_cabriolet_2_0_tdi_177_multitronic.html
+946,9,Audi A5 Cabriolet 2WD 1st-gen. phase-II (8T),Audi A5 Cabriolet 3.0 TDI Multitronic (cont. 8 pre-programmed) ,/car/2015/1587680/audi_a5_cabriolet_3_0_tdi_multitronic.html
+947,1,Audi A5 Cabriolet Quattro 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 TFSI Quattro S-Tronic (d-cl. 7) ,/car/2011/1189970/audi_a5_cabriolet_2_0_tfsi_quattro_s-tronic.html
+948,2,Audi A5 Cabriolet Quattro 1st-gen. phase-I (8T),Audi A5 Cabriolet 2.0 T Quattro Tiptronic (aut. 8) ,/car/2011/1337645/audi_a5_cabriolet_2_0_tfsi_quattro_tiptronic.html
+949,3,Audi A5 Cabriolet Quattro 1st-gen. phase-I (8T),Audi A5 Cabriolet 3.2 FSI Quattro S-Tronic (d-cl. 7) ,/car/2011/1190000/audi_a5_cabriolet_3_2_fsi_quattro_s-tronic.html
+950,4,Audi A5 Cabriolet Quattro 1st-gen. phase-I (8T),Audi A5 Cabriolet 3.0 TDI Quattro S-Tronic (d-cl. 7) ,/car/2011/1190060/audi_a5_cabriolet_3_0_tdi_quattro_s-tronic.html
+951,1,Audi A5 Cabriolet Quattro 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 T Quattro Tiptronic (aut. 8) ,/car/2016/1934750/audi_a5_cabriolet_2_0_t_quattro_tiptronic.html
+952,2,Audi A5 Cabriolet Quattro 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TFSI (225) Quattro S-Tronic (d-cl. 7) ,/car/2016/2042855/audi_a5_cabriolet_2_0_tfsi_225_quattro_s-tronic.html
+953,3,Audi A5 Cabriolet Quattro 1st-gen. phase-II (8T),Audi A5 Cabriolet 3.0 TFSI Quattro S-Tronic (d-cl. 7) ,/car/2016/1588175/audi_a5_cabriolet_3_0_tfsi_quattro_s-tronic.html
+954,4,Audi A5 Cabriolet Quattro 1st-gen. phase-II (8T),Audi A5 Cabriolet 2.0 TDI Quattro (man. 6) ,/car/2016/1588250/audi_a5_cabriolet_2_0_tdi_quattro.html
+955,5,Audi A5 Cabriolet Quattro 1st-gen. phase-II (8T),Audi A5 Cabriolet 3.0 TDI Quattro S-Tronic (d-cl. 7) ,/car/2016/1587710/audi_a5_cabriolet_3_0_tdi_quattro_s-tronic.html
+956,1,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 1.8 TFSI (man. 6) ,/car/2010/1189520/audi_a5_coupe_1_8_tfsi.html
+957,2,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 1.8 TFSI Multitronic (cont. 8 pre-programmed) ,/car/2010/1189535/audi_a5_coupe_1_8_tfsi_multitronic.html
+958,3,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TFSI (180) (man. 6) ,/car/2010/1189550/audi_a5_coupe_2_0_tfsi_180.html
+959,4,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TFSI (180) Multitronic (cont. 8 pre-programmed) ,/car/2010/1189565/audi_a5_coupe_2_0_tfsi_180_multitronic.html
+960,5,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TFSI (211) (man. 6) ,/car/2010/1189580/audi_a5_coupe_2_0_tfsi_211.html
+961,6,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TFSI (211) Multitronic (cont. 8 pre-programmed) ,/car/2010/1189595/audi_a5_coupe_2_0_tfsi_211_multitronic.html
+962,7,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 3.2 FSI Multitronic (cont. 8 pre-programmed) ,/car/2010/1189640/audi_a5_coupe_3_2_fsi_multitronic.html
+963,8,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TDI (man. 6) ,/car/2010/1189685/audi_a5_coupe_2_0_tdi.html
+964,9,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.7 TDI (man. 6) ,/car/2010/1189715/audi_a5_coupe_2_7_tdi.html
+965,10,Audi A5 Coupe 2WD 1st-gen. phase-I (8T),Audi A5 Coupe 2.7 TDI Multitronic (cont. 8 pre-programmed) ,/car/2010/1189730/audi_a5_coupe_2_7_tdi_multitronic.html
+966,1,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 1.8 TFSI (man. 6) ,/car/2015/1587380/audi_a5_coupe_1_8_tfsi.html
+967,2,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 1.8 TFSI Multitronic (cont. 8 pre-programmed) ,/car/2015/1587395/audi_a5_coupe_1_8_tfsi_multitronic.html
+968,3,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TFSI (225) (man. 6) ,/car/2015/2042885/audi_a5_coupe_2_0_tfsi_225.html
+969,4,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TFSI (225) Multitronic (cont. 8 pre-programmed) ,/car/2015/2042870/audi_a5_coupe_2_0_tfsi_225_multitronic.html
+970,5,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TDI Ultra (163) (man. 6) ,/car/2015/2043035/audi_a5_coupe_2_0_tdi_ultra_163.html
+971,6,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TDI (177) (man. 6) ,/car/2015/1587440/audi_a5_coupe_2_0_tdi.html
+972,7,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TDI (177) Multitronic (cont. 8 pre-programmed) ,/car/2015/1588220/audi_a5_coupe_2_0_tdi_multitronic.html
+973,8,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 3.0 TDI (man. 6) ,/car/2015/1765460/audi_a5_coupe_3_0_tdi.html
+974,9,Audi A5 Coupe 2WD 1st-gen. phase-II (8T),Audi A5 Coupe 3.0 TDI Multitronic (cont. 8 pre-programmed) ,/car/2015/1587470/audi_a5_coupe_3_0_tdi_multitronic.html
+975,1,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TFSI Quattro (man. 6) ,/car/2011/1189610/audi_a5_coupe_2_0_tfsi_quattro.html
+976,2,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TFSI Quattro S-Tronic (d-cl. 7) ,/car/2011/1189625/audi_a5_coupe_2_0_tfsi_quattro_s-tronic.html
+977,3,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 T Quattro (man. 6) ,/car/2011/1337600/audi_a5_coupe_2_0_tfsi_quattro.html
+978,4,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 T Quattro Tiptronic (aut. 8) ,/car/2011/1337615/audi_a5_coupe_2_0_tfsi_quattro_tiptronic.html
+979,5,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 3.2 FSI Quattro (man. 6) ,/car/2011/1189655/audi_a5_coupe_3_2_fsi_quattro.html
+980,6,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 3.2 FSI Quattro Tiptronic (aut. 6) ,/car/2011/1189670/audi_a5_coupe_3_2_fsi_quattro_tiptronic.html
+981,7,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 2.0 TDI Quattro (man. 6) ,/car/2011/1336310/audi_a5_coupe_2_0_tdi_quattro.html
+982,8,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 3.0 TDI Quattro (man. 6) ,/car/2011/1189745/audi_a5_coupe_3_0_tdi_quattro.html
+983,9,Audi A5 Coupe Quattro 1st-gen. phase-I (8T),Audi A5 Coupe 3.0 TDI Quattro S-Tronic (d-cl. 7) ,/car/2011/1189760/audi_a5_coupe_3_0_tdi_quattro_s-tronic.html
+984,1,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 T Quattro (man. 6) ,/car/2016/1934780/audi_a5_coupe_2_0_t_quattro.html
+985,2,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 T Quattro Tiptronic (aut. 8) ,/car/2016/1934795/audi_a5_coupe_2_0_t_quattro_tiptronic.html
+986,3,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TFSI (225) Quattro (man. 6) ,/car/2016/2042900/audi_a5_coupe_2_0_tfsi_225_quattro.html
+987,4,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TFSI (225) Quattro S-Tronic (d-cl. 7) ,/car/2016/2042915/audi_a5_coupe_2_0_tfsi_225_quattro_s-tronic.html
+988,5,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 3.0 TFSI Quattro S-Tronic (d-cl. 7) ,/car/2016/1587560/audi_a5_coupe_3_0_tfsi_quattro_s-tronic.html
+989,6,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TDI Quattro (man. 6) ,/car/2016/1587515/audi_a5_coupe_2_0_tdi_quattro.html
+990,7,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 2.0 TDI Quattro S-Tronic (d-cl. 7) ,/car/2016/1765415/audi_a5_coupe_2_0_tdi_quattro_s-tronic.html
+991,8,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 3.0 TDI Clean Diesel Quattro S-Tronic (d-cl. 7) ,/car/2016/1588295/audi_a5_coupe_3_0_tdi_clean_diesel_quattro_s-tronic.html
+992,9,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 3.0 TDI Quattro (man. 6) ,/car/2016/1587530/audi_a5_coupe_3_0_tdi_quattro.html
+993,10,Audi A5 Coupe Quattro 1st-gen. phase-II (8T),Audi A5 Coupe 3.0 TDI Quattro S-Tronic (d-cl. 7) ,/car/2016/1587545/audi_a5_coupe_3_0_tdi_quattro_s-tronic.html
+994,1,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 1.8 TFSI (man. 6) ,/car/2011/1336340/audi_a5_sportback_1_8_tfsi.html
+995,2,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 1.8 TFSI Multitronic (cont. 8 pre-programmed) ,/car/2011/1190120/audi_a5_sportback_1_8_tfsi_multitronic.html
+996,3,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 2.0 TFSI (180) (man. 6) ,/car/2011/1190345/audi_a5_sportback_2_0_tfsi_180.html
+997,4,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 2.0 TFSI (180) Multitronic (cont. 8 pre-programmed) ,/car/2011/1190135/audi_a5_sportback_2_0_tfsi_180_multitronic.html
+998,5,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 2.0 TFSI (211) (man. 6) ,/car/2011/1190150/audi_a5_sportback_2_0_tfsi_211.html
+999,6,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 2.0 TFSI (211) Multitronic (cont. 8 pre-programmed) ,/car/2011/1190165/audi_a5_sportback_2_0_tfsi_211_multitronic.html
+1000,7,Audi A5 Sportback 2WD 1st-gen. phase-I (8T),Audi A5 Sportback 2.0 TDI (143) (man. 6) ,/car/2011/1336445/audi_a5_sportback_2_0_tdi_143.html

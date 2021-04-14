@@ -5,7 +5,7 @@ class A2submodels3powertrainsSpider(scrapy.Spider):
     name = '2submodels3powertrains'
     allowed_domains = ['automobile-catalog.com']
 
-    with open('data/2submodels.csv', "r") as f:
+    with open(f"F:\GDrive\WorkSpace\Python\SCP2nd\SCP2nd\data\\2submodels.csv", "r") as f:
         reader = csv.DictReader(f)
         start_urls = []
         for item in reader:

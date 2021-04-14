@@ -1,0 +1,407 @@
+#j,#i,Submodel_Name,Powertrain_Name,Powertrain_Link
+95,5,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm 16V (man. 6) ,/car/2010/1184810/alfa_romeo_159_1_9_jtdm_16v.html
+96,6,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm 16V Q-Tronic (aut. 6) ,/car/2010/1184705/alfa_romeo_159_1_9_jtdm_16v_q-tronic.html
+97,7,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (136) (man. 6) ,/car/2010/1437230/alfa_romeo_159_2_0_jtdm_16v_136.html
+98,8,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) (man. 6) ,/car/2010/1184720/alfa_romeo_159_2_0_jtdm_16v_170.html
+99,9,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) (man. 6) ,/car/2010/1437260/alfa_romeo_159_2_0_jtdm_16v_170.html
+100,10,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) Eco (man. 6) ,/car/2010/1184735/alfa_romeo_159_2_0_jtdm_16v_170_eco.html
+101,11,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) Ti (man. 6) ,/car/2010/1185350/alfa_romeo_159_2_0_jtdm_16v_170_ti.html
+102,12,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V Q-Tronic (aut. 6) ,/car/2010/1184750/alfa_romeo_159_2_4_jdtm_20v_turismo_q-tronic.html
+103,13,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V Ti Q-Tronic (aut. 6) ,/car/2010/1185365/alfa_romeo_159_2_4_jdtm_20v_ti_q-tronic.html
+104,14,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V (man. 6) ,/car/2010/1184765/alfa_romeo_159_2_4_jdtm_20v_turismo.html
+105,15,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V Ti (man. 6) ,/car/2010/1185380/alfa_romeo_159_2_4_jdtm_20v_ti.html
+106,1,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 1.8 TBi 16V (man. 6) ,/car/2010/1184930/alfa_romeo_159_sportwagon_1_8_tbi_16v.html
+107,2,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 1.8 TBi 16V Ti (man. 6) ,/car/2010/1185485/alfa_romeo_159_sportwagon_1_8_tbi_16v_ti.html
+108,3,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 1.8 MPi 16V (man. 5) ,/car/2010/1184885/alfa_romeo_159_sportwagon_1_8_mpi_16v.html
+109,4,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 1.9 JTDm Eco (man. 6) ,/car/2010/1184960/alfa_romeo_159_sportwagon_1_9_jtdm_eco.html
+110,5,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 1.9 JTDm 16V (man. 6) ,/car/2010/1184975/alfa_romeo_159_sportwagon_1_9_jtdm_16v.html
+111,6,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 1.9 JTDm 16V Q-Tronic (aut. 6) ,/car/2010/1184990/alfa_romeo_159_sportwagon_1_9_jtdm_16v_q-tronic.html
+112,7,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.0 JTDm 16V (136) (man. 6) ,/car/2010/1437245/alfa_romeo_159_sportwagon_2_0_jtdm_16v_136.html
+113,8,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.0 JTDm 16V (170) (man. 6) ,/car/2010/1185005/alfa_romeo_159_sportwagon_2_0_jtdm_16v_170.html
+114,9,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.0 JTDm 16V (170) (man. 6) ,/car/2010/1437275/alfa_romeo_159_sportwagon_2_0_jtdm_16v_170.html
+115,10,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.0 JTDm 16V (170) Eco (man. 6) ,/car/2010/1185020/alfa_romeo_159_sportwagon_2_0_jtdm_16v_170_eco.html
+116,11,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.0 JTDm 16V (170) Ti (man. 6) ,/car/2010/1185500/alfa_romeo_159_sportwagon_2_0_jtdm_16v_170_ti.html
+117,12,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.4 JTDm 20V Q-Tronic (aut. 6) ,/car/2010/1185065/alfa_romeo_159_sportwagon_2_4_jdtm_20v_turismo_q-tronic.html
+118,13,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.4 JTDm 20V Ti Q-Tronic (aut. 6) ,/car/2010/1185515/alfa_romeo_159_sportwagon_2_4_jdtm_20v_ti_q-tronic.html
+119,14,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.4 JTDm 20V (man. 6) ,/car/2010/1185080/alfa_romeo_159_sportwagon_2_4_jdtm_20v_turismo.html
+120,15,Alfa Romeo 159 Wagon,Alfa Romeo 159 Sportwagon 2.4 JTDm 20V Ti (man. 6) ,/car/2010/1185530/alfa_romeo_159_sportwagon_2_4_jdtm_20v_ti.html
+121,1,Alfa Romeo 166 serie 1,Alfa Romeo 166 2.0 Twin Spark 16V (man. 6) ,/car/2002/220760/alfa_romeo_166_2_0_twin_spark_16v_progression.html
+122,2,Alfa Romeo 166 serie 1,Alfa Romeo 166 2.0 V6 Turbo (man. 6) ,/car/2002/220715/alfa_romeo_166_2_0_v6_turbo.html
+123,3,Alfa Romeo 166 serie 1,Alfa Romeo 166 2.5 V6 24V (man. 6) ,/car/2002/220775/alfa_romeo_166_2_5_v6_24v_progression.html
+124,4,Alfa Romeo 166 serie 1,Alfa Romeo 166 2.5 V6 24V Sportronic (aut. 4) ,/car/2002/220790/alfa_romeo_166_2_5_v6_24v_progression_sportronic.html
+125,5,Alfa Romeo 166 serie 1,Alfa Romeo 166 3.0 V6 24V (man. 6) ,/car/2002/220820/alfa_romeo_166_3_0_v6_24v_progression.html
+126,6,Alfa Romeo 166 serie 1,Alfa Romeo 166 3.0 V6 24V Sportronic (aut. 4) ,/car/2002/220835/alfa_romeo_166_3_0_v6_24v_progression_sportronic.html
+127,7,Alfa Romeo 166 serie 1,Alfa Romeo 166 2.4 JTD (man. 6) ,/car/2002/220805/alfa_romeo_166_2_4_jtd_progression.html
+128,8,Alfa Romeo 166 serie 1,Alfa Romeo 166 2.4 JTD (man. 6) ,/car/2002/220940/alfa_romeo_166_2_4_jtd_progression.html
+129,1,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.0 Twin Spark 16V (man. 6) ,/car/2006/220970/alfa_romeo_166_2_0_twin_spark_16v_progression_base_or_turismo.html
+130,2,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.5 V6 24V (man. 6) ,/car/2006/220985/alfa_romeo_166_2_5_v6_24v_progression_base.html
+131,3,Alfa Romeo 166 serie 2,Alfa Romeo 166 3.0 V6 24V (aut. 4) ,/car/2006/221060/alfa_romeo_166_3_0_v6_24v_progression_base_sportronic.html
+132,4,Alfa Romeo 166 serie 2,Alfa Romeo 166 3.2 V6 24V (man. 6) ,/car/2006/221045/alfa_romeo_166_3_2_v6_24v_progression_base.html
+133,5,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.4 JTD (man. 6) ,/car/2006/221030/alfa_romeo_166_2_4_jtd_progression_base.html
+134,6,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.4 JTD 20V (man. 6) ,/car/2006/221015/alfa_romeo_166_2_4_jtd_20v_progression_base.html
+135,7,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.4 JTD 20V automatic (aut. 5) ,/car/2006/2034155/alfa_romeo_166_2_4_jtd_20v_automatic.html
+136,8,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.4 Multijet 20V (man. 6) ,/car/2006/2034170/alfa_romeo_166_2_4_multijet_20v.html
+137,9,Alfa Romeo 166 serie 2,Alfa Romeo 166 2.4 Multijet 20V automatic (aut. 5) ,/car/2006/2034185/alfa_romeo_166_2_4_multijet_20v_automatic.html
+138,1,Alfa Romeo 4C Concept,Alfa Romeo 4C Concept (d-cl. 6) ,/car/2011/1437320/alfa_romeo_4c_concept.html
+139,1,Alfa Romeo 4C Coupe,Alfa Romeo 4C Coupe (d-cl. 6) ,/car/2017/1842620/alfa_romeo_4c.html
+140,2,Alfa Romeo 4C Coupe,Alfa Romeo 4C Coupe (d-cl. 6) ,/car/2017/2078405/alfa_romeo_4c.html
+141,1,Alfa Romeo 4C Spider,Alfa Romeo 4C Spider (d-cl. 6) ,/car/2019/2592080/alfa_romeo_4c_spider.html
+142,1,Alfa Romeo 8C Competizione,Alfa Romeo 8C Competizione (s-aut. 6) ,/car/2008/222785/alfa_romeo_8c_competizione.html
+143,1,Alfa Romeo 8C Spider,Alfa Romeo 8C Spider (s-aut. 6) ,/car/2010/1185890/alfa_romeo_8c_spider.html
+144,1,Alfa Romeo Brera S Prodrive Special Edition,Alfa Romeo Brera S 2.2 JTS 16V (man. 6) ,/car/2008/1761410/alfa_romeo_brera_s_2_2_jts_16v.html
+145,2,Alfa Romeo Brera S Prodrive Special Edition,Alfa Romeo Brera S 3.2 JTS V6 20V (man. 6) ,/car/2008/1761425/alfa_romeo_brera_s_3_2_jts_v6_20v.html
+146,1,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 1.8 TBi 16V (man. 6) ,/car/2009/1185635/alfa_romeo_brera_1_8_tbi_16v.html
+147,2,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 2.2 JTS 16V (man. 6) ,/car/2009/1185620/alfa_romeo_brera_2_2_jts_16v.html
+148,3,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 2.2 JTS 16V Italian Independent (man. 6) ,/car/2009/1369685/alfa_romeo_brera_2_2_jts_16v_italian_independent.html
+149,4,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 2.2 JTS 16V Selespeed (s-aut. 6) ,/car/2009/1185605/alfa_romeo_brera_2_2_jts_16v_selespeed.html
+150,5,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 3.2 JTS V6 20V (man. 6) ,/car/2009/1185650/alfa_romeo_brera_3_2_jts_v6_20v.html
+151,6,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 3.2 JTS V6 20V Italian Independent (man. 6) ,/car/2009/1369700/alfa_romeo_brera_3_2_jts_v6_20v_italian_independent.html
+152,7,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 3.2 JTS V6 20V Q4 (man. 6) ,/car/2009/1185665/alfa_romeo_brera_3_2_jts_v6_20v_q4.html
+153,8,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 3.2 JTS V6 20V Q4 Q-Tronic (aut. 6) ,/car/2009/1185680/alfa_romeo_brera_3_2_jts_v6_20v_q4_q-tronic.html
+154,9,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 2.0 JTDm 16V (man. 6) ,/car/2009/1185695/alfa_romeo_brera_2_0_jtdm_16v.html
+155,10,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 2.4 JTDm 20V Q-Tronic (aut. 6) ,/car/2009/1185710/alfa_romeo_brera_2_4_jtdm_20v_q-tronic.html
+156,11,Alfa Romeo Brera Tipo 939 Coupe,Alfa Romeo Brera 2.4 JTDm 20V (man. 6) ,/car/2009/1185725/alfa_romeo_brera_2_4_jtdm_20v.html
+157,1,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.4 TB 16V 105 (man. 6) ,/car/2015/1966670/alfa_romeo_giulietta_1_4_tb_16v_105.html
+158,2,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.4 TB 16V 120 (man. 6) ,/car/2015/1966685/alfa_romeo_giulietta_1_4_tb_16v_120.html
+159,3,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.4 TB 16V MultiAir 150 Sprint (man. 6) ,/car/2015/2325530/alfa_romeo_giulietta_1_4_tb_16v_multiair_150_sprint.html
+160,4,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.4 TB 16V MultiAir 170 (man. 6) ,/car/2015/1966700/alfa_romeo_giulietta_1_4_tb_16v_multiair_170.html
+161,5,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.4 TB 16V MultiAir 170 TCT (d-cl. 6) ,/car/2015/1966715/alfa_romeo_giulietta_1_4_tb_16v_multiair_170_tct.html
+162,6,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.6 JTDm 16V 105 (man. 6) ,/car/2015/1966745/alfa_romeo_giulietta_1_6_jtdm_16v_105.html
+163,7,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.6 JTDm 16V 120 (man. 6) ,/car/2015/2323445/alfa_romeo_giulietta_1_6_jtdm_16v_120.html
+164,8,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 2.0 JTDm 16V 150 (man. 6) ,/car/2015/1966760/alfa_romeo_giulietta_2_0_jtdm_16v_150.html
+165,9,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 2.0 JTDm 16V 175 TCT (d-cl. 6) ,/car/2015/2042105/alfa_romeo_giulietta_2_0_jtdm_16v_175_tct.html
+166,10,Alfa Romeo Giulietta phase I Hatchback,Alfa Romeo Giulietta 1.4 16V GPL Turbo (man. 6) ,/car/2015/1966790/alfa_romeo_giulietta_1_4_16v_gpl_turbo.html
+167,1,Alfa Romeo Giulietta phase I Quadrifoglio Verde,Alfa Romeo Giulietta Quadrifoglio Verde 1750 TBi TCT (d-cl. 6) ,/car/2015/2042120/alfa_romeo_giulietta_quadrifoglio_verde_1750_tbi_tct.html
+168,1,Alfa Romeo Giulietta phase II Hatchback,Alfa Romeo Giulietta 1.4 TB 16V 120 (man. 6) ,/car/2019/2876015/alfa_romeo_giulietta_1_4_tb_16v_120.html
+169,2,Alfa Romeo Giulietta phase II Hatchback,Alfa Romeo Giulietta 1.6 JTDm 16V 120 (man. 6) ,/car/2019/2876030/alfa_romeo_giulietta_1_6_jtdm_16v_120.html
+170,3,Alfa Romeo Giulietta phase II Hatchback,Alfa Romeo Giulietta 1.6 JTDm 16V 120 TCT (d-cl. 6) ,/car/2019/2876045/alfa_romeo_giulietta_1_6_jtdm_16v_120_tct.html
+171,4,Alfa Romeo Giulietta phase II Hatchback,Alfa Romeo Giulietta 2.0 JTDm 16V 170 TCT (d-cl. 6) ,/car/2019/2876060/alfa_romeo_giulietta_2_0_jtdm_16v_170_tct.html
+172,1,Alfa Romeo Giulietta phase II Veloce,Alfa Romeo Giulietta Veloce 1750 TBi TCT (d-cl. 6) ,/car/2017/2325605/alfa_romeo_giulietta_veloce_1750_tbi_tct.html
+173,1,Alfa Romeo GT Coupe,Alfa Romeo GT 2.0 JTS 16V (man. 5) ,/car/2009/221825/alfa_romeo_gt_2_0_jts_16v_distinctive.html
+174,2,Alfa Romeo GT Coupe,Alfa Romeo GT 2.0 JTS 16V Selespeed (s-aut. 5) ,/car/2009/221840/alfa_romeo_gt_2_0_jts_16v_distinctive_selespeed.html
+175,3,Alfa Romeo GT Coupe,Alfa Romeo GT 1.9 JTD 16V M-jet DPF (man. 6) ,/car/2009/221885/alfa_romeo_gt_1_9_jtd_16v_m-jet_progression_dpf.html
+176,4,Alfa Romeo GT Coupe,Alfa Romeo GT 1.9 JTDm 16V Q2 (man. 6) ,/car/2009/1437080/alfa_romeo_gt_1_9_jtdm_16v_q2.html
+177,1,Alfa Romeo GTV Tipo 916 1a serie,Alfa Romeo GTV 2.0 Twin Spark 16V (man. 5) ,/car/1997/218375/alfa_romeo_gtv_2_0_twin_spark_16v.html
+178,2,Alfa Romeo GTV Tipo 916 1a serie,Alfa Romeo GTV 2.0 V6 TB (man. 5) ,/car/1997/218390/alfa_romeo_gtv_2_0_v6_tb.html
+179,3,Alfa Romeo GTV Tipo 916 1a serie,Alfa Romeo GTV 3.0 V6 24V (man. 5) ,/car/1997/218405/alfa_romeo_gtv_3_0_v6_24v.html
+180,1,Alfa Romeo GTV Tipo 916 2a serie,Alfa Romeo GTV 2.0 Twin Spark 16V (man. 5) ,/car/2002/218585/alfa_romeo_gtv_2_0_twin_spark_16v.html
+181,2,Alfa Romeo GTV Tipo 916 2a serie,Alfa Romeo GTV Cup 2.0 Twin Spark 16V (man. 5) ,/car/2002/1761485/alfa_romeo_gtv_cup_2_0_twin_spark_16v.html
+182,3,Alfa Romeo GTV Tipo 916 2a serie,Alfa Romeo GTV 3.0 V6 24V (man. 6) ,/car/2002/218600/alfa_romeo_gtv_3_0_v6_24v.html
+183,4,Alfa Romeo GTV Tipo 916 2a serie,Alfa Romeo GTV Cup 3.0 V6 24V (man. 6) ,/car/2002/1761500/alfa_romeo_gtv_cup_3_0_v6_24v.html
+184,1,Alfa Romeo GTV Tipo 916 3a serie,Alfa Romeo GTV 2.0 Twin Spark 16V (man. 5) ,/car/2004/218645/alfa_romeo_gtv_2_0_twin_spark_16v.html
+185,2,Alfa Romeo GTV Tipo 916 3a serie,Alfa Romeo GTV 2.0 JTS 16V (man. 5) ,/car/2004/218660/alfa_romeo_gtv_2_0_jts_16v.html
+186,3,Alfa Romeo GTV Tipo 916 3a serie,Alfa Romeo GTV 3.2 V6 24V (man. 6) ,/car/2004/218675/alfa_romeo_gtv_3_2_v6_24v.html
+187,1,Alfa Romeo MiTo Hatchback,Alfa Romeo MiTo 0.9 TwinAir Turbo 105 (man. 6) ,/car/2017/2512910/alfa_romeo_mito_0_9_twinair_turbo_105.html
+188,2,Alfa Romeo MiTo Hatchback,Alfa Romeo MiTo 1.4 8V 78 (man. 5) ,/car/2017/2512895/alfa_romeo_mito_1_4_8v_78.html
+189,3,Alfa Romeo MiTo Hatchback,Alfa Romeo MiTo 1.4 MultiAir Turbo 140 TCT (d-cl. 6) ,/car/2017/2512925/alfa_romeo_mito_1_4_multiair_turbo_140_tct.html
+190,4,Alfa Romeo MiTo Hatchback,Alfa Romeo MiTo 1.3 JTDm 16V 95 (man. 5) ,/car/2017/2512940/alfa_romeo_mito_1_3_jtdm_16v_95.html
+191,1,Alfa Romeo MiTo Quadrifoglio Verde,Alfa Romeo MiTo Quadrifoglio Verde TCT (d-cl. 6) ,/car/2015/2042135/alfa_romeo_mito_quadrifoglio_verde_1_4_t-jet_16v_multiair_tct.html
+192,1,Alfa Romeo MiTo Veloce,Alfa Romeo MiTo Veloce (d-cl. 6) ,/car/2017/2512955/alfa_romeo_mito_veloce.html
+193,1,Alfa Romeo Spider Tipo 916 1a serie,Alfa Romeo Spider 2.0 Twin Spark 16V (man. 5) ,/car/1997/218420/alfa_romeo_spider_2_0_twin_spark_16v.html
+194,2,Alfa Romeo Spider Tipo 916 1a serie,Alfa Romeo Spider 3.0 V6 (man. 5) ,/car/1997/218435/alfa_romeo_spider_3_0_v6.html
+195,1,Alfa Romeo Spider Tipo 916 2a serie,Alfa Romeo Spider 2.0 Twin Spark 16V (man. 5) ,/car/2002/218615/alfa_romeo_spider_2_0_twin_spark_16v.html
+196,2,Alfa Romeo Spider Tipo 916 2a serie,Alfa Romeo Spider 3.0 V6 24V (man. 6) ,/car/2002/218630/alfa_romeo_spider_3_0_v6_24v.html
+197,1,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 1.8 TBi 16V (man. 6) ,/car/2009/1185785/alfa_romeo_spider_1_8_tbi_16v.html
+198,2,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 2.2 JTS 16V (man. 6) ,/car/2009/1185770/alfa_romeo_spider_2_2_jts_16v.html
+199,3,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 2.2 JTS 16V Selespeed (s-aut. 6) ,/car/2009/1185755/alfa_romeo_spider_2_2_jts_16v_selespeed.html
+200,4,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 3.2 JTS V6 20V (man. 6) ,/car/2009/1185800/alfa_romeo_spider_3_2_jts_v6_20v.html
+201,5,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 3.2 JTS V6 20V Q4 (man. 6) ,/car/2009/1185860/alfa_romeo_spider_3_2_jts_v6_20v_q4.html
+202,6,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 3.2 JTS V6 20V Q4 Q-Tronic (aut. 6) ,/car/2009/1185875/alfa_romeo_spider_3_2_jts_v6_20v_q4_q-tronic.html
+203,7,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 2.0 JTDm 16V (man. 6) ,/car/2009/1185815/alfa_romeo_spider_2_0_jtdm_16v.html
+204,8,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 2.4 JTDm 20V Q-Tronic (aut. 6) ,/car/2009/1185830/alfa_romeo_spider_2_4_jtdm_20v_q-tronic.html
+205,9,Alfa Romeo Spider Tipo 939,Alfa Romeo Spider 2.4 JTDm 20V (man. 6) ,/car/2009/1185845/alfa_romeo_spider_2_4_jtdm_20v.html
+206,1,Aston Martin Cygnet,Aston Martin Cygnet (man. 6) ,/car/2013/1614890/aston_martin_cygnet.html
+207,2,Aston Martin Cygnet,Aston Martin Cygnet Multidrive S (cont. variable) ,/car/2013/1614905/aston_martin_cygnet_multidrive_s.html
+208,1,Aston Martin DB7 AR-1,Aston Martin DB AR-1 (man. 6) ,/car/2003/228875/aston_martin_db_ar-1.html
+209,1,Aston Martin DB7 Coupe,Aston Martin DB7 Alfred Dunhill Edition (aut. 4) ,/car/1998/1764470/aston_martin_db7_alfred_dunhill_edition.html
+210,2,Aston Martin DB7 Coupe,Aston Martin DB7 automatic (aut. 4) ,/car/1998/228605/aston_martin_db7_automatic.html
+211,3,Aston Martin DB7 Coupe,Aston Martin DB7 GTS II automatic (aut. 4) ,/car/1998/1764320/aston_martin_db7_gts_ii_automatic.html
+212,4,Aston Martin DB7 Coupe,Aston Martin DB7 (man. 5) ,/car/1998/228590/aston_martin_db7.html
+213,5,Aston Martin DB7 Coupe,Aston Martin DB7 GTS II (man. 5) ,/car/1998/1764335/aston_martin_db7_gts_ii.html
+214,1,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 GTA (aut. 5) ,/car/2002/228845/aston_martin_db7_gta.html
+215,2,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 Vantage (man. 6) ,/car/2002/228650/aston_martin_db7_vantage.html
+216,3,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 Vantage (man. 6) ,/car/2002/228740/aston_martin_db7_vantage.html
+217,4,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 Vantage (wide range gearbox) (man. 6) ,/car/2002/228665/aston_martin_db7_vantage_wide_range_gearbox.html
+218,5,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 Vantage (wide range gearbox) (man. 6) ,/car/2002/228755/aston_martin_db7_vantage_wide_range_gearbox.html
+219,6,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 Vantage Touchtronic (aut. 5) ,/car/2002/228680/aston_martin_db7_vantage_touchtronic.html
+220,7,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 Vantage Touchtronic (aut. 5) ,/car/2002/228770/aston_martin_db7_vantage_touchtronic.html
+221,8,Aston Martin DB7 Vantage Coupe,Aston Martin DB7 GT (man. 6) ,/car/2002/228830/aston_martin_db7_gt.html
+222,1,Aston Martin DB7 Vantage Volante,Aston Martin DB7 Vantage Volante (man. 6) ,/car/2002/228695/aston_martin_db7_vantage_volante.html
+223,2,Aston Martin DB7 Vantage Volante,Aston Martin DB7 Vantage Volante (man. 6) ,/car/2002/228785/aston_martin_db7_vantage_volante.html
+224,3,Aston Martin DB7 Vantage Volante,Aston Martin DB7 Vantage Volante (wide range gearbox) (man. 6) ,/car/2002/228710/aston_martin_db7_vantage_volante_wide_range_gearbox.html
+225,4,Aston Martin DB7 Vantage Volante,Aston Martin DB7 Vantage Volante (wide range gearbox) (man. 6) ,/car/2002/228800/aston_martin_db7_vantage_volante_wide_range_gearbox.html
+226,5,Aston Martin DB7 Vantage Volante,Aston Martin DB7 Vantage Volante Touchtronic (aut. 5) ,/car/2002/228725/aston_martin_db7_vantage_volante_touchtronic.html
+227,6,Aston Martin DB7 Vantage Volante,Aston Martin DB7 Vantage Volante Touchtronic (aut. 5) ,/car/2002/228815/aston_martin_db7_vantage_volante_touchtronic.html
+228,1,Aston Martin DB7 Volante,Aston Martin DB7 GTS II Volante automatic (aut. 4) ,/car/1998/1764350/aston_martin_db7_gts_ii_volante_automatic.html
+229,2,Aston Martin DB7 Volante,Aston Martin DB7 Neiman Marcus Volante (aut. 4) ,/car/1998/1764440/aston_martin_db7_neiman_marcus_volante.html
+230,3,Aston Martin DB7 Volante,Aston Martin DB7 Volante automatic (aut. 4) ,/car/1998/228635/aston_martin_db7_volante_automatic.html
+231,4,Aston Martin DB7 Volante,Aston Martin DB7 GTS II Volante (man. 5) ,/car/1998/1764365/aston_martin_db7_gts_ii_volante.html
+232,5,Aston Martin DB7 Volante,Aston Martin DB7 Volante (man. 5) ,/car/1998/228620/aston_martin_db7_volante.html
+233,1,Aston Martin DB7 Zagato,Aston Martin DB7 Vantage Zagato (man. 6) ,/car/2003/228860/aston_martin_db7_zagato.html
+234,1,Aston Martin DB9 1st-gen. series I Coupe,Aston Martin DB9 (man. 6) ,/car/2007/228920/aston_martin_db9.html
+235,2,Aston Martin DB9 1st-gen. series I Coupe,Aston Martin DB9 Lm (aut. 6) ,/car/2007/1372580/aston_martin_db9_lm.html
+236,3,Aston Martin DB9 1st-gen. series I Coupe,Aston Martin DB9 Touchtronic-2 (aut. 6) ,/car/2007/228935/aston_martin_db9_touchtronic-2.html
+237,1,Aston Martin DB9 1st-gen. series I Volante,Aston Martin DB9 Volante (man. 6) ,/car/2007/228950/aston_martin_db9_volante.html
+238,2,Aston Martin DB9 1st-gen. series I Volante,Aston Martin DB9 Volante Touchtronic-2 (aut. 6) ,/car/2007/228965/aston_martin_db9_volante_touchtronic-2.html
+239,1,Aston Martin DB9 1st-gen. series II Coupe,Aston Martin DB9 (man. 6) ,/car/2011/1437560/aston_martin_db9.html
+240,2,Aston Martin DB9 1st-gen. series II Coupe,Aston Martin DB9 Carbon Black Edition (aut. 6) ,/car/2011/1764260/aston_martin_db9_touchtronic-2.html
+241,3,Aston Martin DB9 1st-gen. series II Coupe,Aston Martin DB9 Touchtronic-2 (aut. 6) ,/car/2011/1437575/aston_martin_db9_touchtronic-2.html
+242,1,Aston Martin DB9 1st-gen. series II Volante,Aston Martin DB9 Volante (man. 6) ,/car/2011/1437590/aston_martin_db9_volante.html
+243,2,Aston Martin DB9 1st-gen. series II Volante,Aston Martin DB9 Volante Morning Frost Edition (aut. 6) ,/car/2011/1437875/aston_martin_db9_volante_morning_frost_edition.html
+244,3,Aston Martin DB9 1st-gen. series II Volante,Aston Martin DB9 Volante Touchtronic-2 (aut. 6) ,/car/2011/1437605/aston_martin_db9_volante_touchtronic-2.html
+245,1,Aston Martin DB9 2nd-gen. Coupe,Aston Martin DB9 (aut. 6) ,/car/2014/1764155/aston_martin_db9.html
+246,1,Aston Martin DB9 2nd-gen. Volante,Aston Martin DB9 Volante (aut. 6) ,/car/2014/1764170/aston_martin_db9_volante.html
+247,1,Aston Martin DB9 GT Coupe,Aston Martin DB9 GT (aut. 6) ,/car/2016/2222750/aston_martin_db9_gt.html
+248,1,Aston Martin DBS Coupe,Aston Martin DBS (man. 6) ,/car/2011/1437620/aston_martin_dbs.html
+249,2,Aston Martin DBS Coupe,Aston Martin DBS Carbon Edition (aut. 6) ,/car/2011/1437860/aston_martin_dbs_carbon_black_special_edition.html
+250,3,Aston Martin DBS Coupe,Aston Martin DBS Touchtronic-2 (aut. 6) ,/car/2011/1437635/aston_martin_dbs_touchtronic-2.html
+251,1,Aston Martin DBS Volante,Aston Martin DBS Volante (man. 6) ,/car/2011/1437650/aston_martin_dbs_volante.html
+252,2,Aston Martin DBS Volante,Aston Martin DBS Volante Carbon Edition (aut. 6) ,/car/2011/1764275/aston_martin_dbs_volante_touchtronic-2.html
+253,3,Aston Martin DBS Volante,Aston Martin DBS Volante Touchtronic-2 (aut. 6) ,/car/2011/1437665/aston_martin_dbs_volante_touchtronic-2.html
+254,1,Aston Martin One-77,Aston Martin One-77 (n. ) ,/car/2011/1186355/aston_martin_one-77.html
+255,1,Aston Martin V12 Vantage Coupe,Aston Martin V12 Vantage S Coupe 7-speed manual (man. 7) ,/car/2016/2470355/aston_martin_v12_vantage_s_coupe_7-speed_manual.html
+256,2,Aston Martin V12 Vantage Coupe,Aston Martin V12 Vantage S Coupe Sportshift III (s-aut. 7) ,/car/2016/2470325/aston_martin_v12_vantage_s_coupe_sportshift_iii.html
+257,3,Aston Martin V12 Vantage Coupe,Aston Martin V12 Vantage S Coupe (s-aut. 7) ,/car/2016/1912025/aston_martin_v12_vantage.html
+258,4,Aston Martin V12 Vantage Coupe,Aston Martin V12 Vantage S Coupe 7-speed manual with Sport-Plus Pack (man. 7) ,/car/2016/2470415/aston_martin_v12_vantage_s_coupe_7-speed_manual_with_sport-plus_pack.html
+259,5,Aston Martin V12 Vantage Coupe,Aston Martin V12 Vantage S Coupe Sportshift III with Sport-Plus Pack (s-aut. 7) ,/car/2016/2470385/aston_martin_v12_vantage_s_coupe_sportshift_iii_with_sport-plus_pack.html
+260,1,Aston Martin V12 Vantage Roadster,Aston Martin V12 Vantage S Roadster 7-speed manual (man. 7) ,/car/2016/2470370/aston_martin_v12_vantage_s_roadster_7-speed_manual.html
+261,2,Aston Martin V12 Vantage Roadster,Aston Martin V12 Vantage S Roadster Sportshift III (s-aut. 7) ,/car/2016/2470340/aston_martin_v12_vantage_s_roadster_sportshift_iii.html
+262,3,Aston Martin V12 Vantage Roadster,Aston Martin V12 Vantage S Roadster (s-aut. 7) ,/car/2016/2071070/aston_martin_v12_vantage_s_roadster.html
+263,4,Aston Martin V12 Vantage Roadster,Aston Martin V12 Vantage S Roadster 7-speed manual with Sport-Plus Pack (man. 7) ,/car/2016/2470430/aston_martin_v12_vantage_s_roadster_7-speed_manual_with_sport-plus_pack.html
+264,5,Aston Martin V12 Vantage Roadster,Aston Martin V12 Vantage S Roadster Sportshift III with Sport-Plus Pack (s-aut. 7) ,/car/2016/2470400/aston_martin_v12_vantage_s_roadster_sportshift_iii_with_sport-plus_pack.html
+265,1,Aston Martin V12 Vantage RS Prototype,Aston Martin V12 Vantage RS (s-aut. 6) ,/car/2007/1372550/aston_martin_v12_vantage_rs.html
+266,1,Aston Martin V12 Zagato Coupe,Aston Martin V12 Zagato (man. 6) ,/car/2013/1614935/aston_martin_v12_zagato.html
+267,1,Aston Martin V8 Vantage Coupe,Aston Martin V8 Vantage (man. 6) ,/car/2016/1437905/aston_martin_v8_vantage.html
+268,2,Aston Martin V8 Vantage Coupe,Aston Martin V8 Vantage Sportshift (s-aut. 6) ,/car/2016/1437890/aston_martin_v8_vantage_sportshift.html
+269,3,Aston Martin V8 Vantage Coupe,Aston Martin V8 Vantage S Coupe (s-aut. 7) ,/car/2016/1437755/aston_martin_v8_vantage_s.html
+270,4,Aston Martin V8 Vantage Coupe,Aston Martin V8 Vantage GT8 (s-aut. 7) ,/car/2016/2515100/aston_martin_v8_vantage_gt8.html
+271,1,Aston Martin V8 Vantage Roadster,Aston Martin V8 Vantage Roadster (man. 6) ,/car/2016/1437935/aston_martin_v8_vantage_roadster.html
+272,2,Aston Martin V8 Vantage Roadster,Aston Martin V8 Vantage Roadster Sportshift (s-aut. 6) ,/car/2016/1437920/aston_martin_v8_vantage_roadster_sportshift.html
+273,3,Aston Martin V8 Vantage Roadster,Aston Martin V8 Vantage S Roadster (s-aut. 7) ,/car/2016/1437770/aston_martin_v8_vantage_s_roadster.html
+274,1,Aston Martin Vanquish 1st-gen. Coupe,Aston Martin V12 Vanquish S (s-aut. 6) ,/car/2006/1372595/aston_martin_v12_vanquish_s.html
+275,1,Aston Martin Virage Coupe,Aston Martin Virage (aut. 6) ,/car/2012/1437800/aston_martin_virage.html
+276,1,Aston Martin Virage Volante,Aston Martin Virage Volante (aut. 6) ,/car/2012/1437815/aston_martin_virage_volante.html
+277,1,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.2 TFSI (man. 5)  (Ambition, Attraction, S-Line)",/car/2013/1335365/audi_a1_1_2_tfsi.html
+278,2,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.4 TFSI (man. 6)  (Ambition, Attraction, S-Line)",/car/2013/1335380/audi_a1_1_4_tfsi.html
+279,3,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.4 TFSI S-Tronic (d-cl. 7)  (Ambition, Attraction, S-Line)",/car/2013/1335395/audi_a1_1_4_tfsi_s-tronic.html
+280,4,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.4 TFSI S-Tronic 119 g/km (d-cl. 7)  (Ambition, Attraction, S-Line)",/car/2013/1335425/audi_a1_1_4_tfsi_s-tronic_119_gkm.html
+281,5,Audi A1 3-Door Hatchback 1st-gen. phase-I,Audi A1 1.4 TFSI (140) CoD (man. 6) ,/car/2013/1764485/audi_a1_1_4_tfsi_140_cylinder-on-demand.html
+282,6,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.4 TFSI (185) S-Tronic (d-cl. 7)  (Ambition, S-Line)",/car/2013/1437950/audi_a1_1_4_tfsi_185_s-tronic.html
+283,7,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.6 TDI (90) (man. 5)  (Ambition, Attraction, S-Line)",/car/2013/1437965/audi_a1_1_6_tdi_90.html
+284,8,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.6 TDI (90) S-Tronic (d-cl. 7)  (Ambition, Attraction, S-Line)",/car/2013/1437980/audi_a1_1_6_tdi_90_s-tronic.html
+285,9,Audi A1 3-Door Hatchback 1st-gen. phase-I,"Audi A1 1.6 TDI (105) (man. 5)  (Ambition, Attraction, S-Line)",/car/2013/1437995/audi_a1_1_6_tdi_105.html
+286,10,Audi A1 3-Door Hatchback 1st-gen. phase-I,Audi A1 2.0 TDI (man. 6) ,/car/2013/1586300/audi_a1_2_0_tdi_ambition.html
+287,1,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.0 TFSI Ultra (82) (man. 5) ,/car/2017/2502110/audi_a1_1_0_tfsi_ultra_82.html
+288,2,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.0 TFSI Ultra (95) (man. 5) ,/car/2017/2170865/audi_a1_1_0_tfsi_ultra_95.html
+289,3,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.0 TFSI Ultra (95) S-Tronic (d-cl. 7) ,/car/2017/2170880/audi_a1_1_0_tfsi_ultra_95_s-tronic.html
+290,4,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.4 TFSI (125) (man. 6) ,/car/2017/2094920/audi_a1_1_4_tfsi_125.html
+291,5,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.4 TFSI (125) S-Tronic (d-cl. 7) ,/car/2017/2094935/audi_a1_1_4_tfsi_125_s-tronic.html
+292,6,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.4 TFSI (150) CoD S-Tronic (d-cl. 7) ,/car/2017/2094965/audi_a1_1_4_tfsi_150_cod_s-tronic.html
+293,7,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.8 TFSI (192) S-Tronic (d-cl. 7) ,/car/2017/2094980/audi_a1_1_8_tfsi_192_s-tronic.html
+294,8,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.4 TDI Ultra (90) (man. 5) ,/car/2017/2094995/audi_a1_1_4_tdi_ultra_90.html
+295,9,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.4 TDI Ultra (90) S-Tronic (d-cl. 7) ,/car/2017/2095010/audi_a1_1_4_tdi_ultra_90_s-tronic.html
+296,10,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.6 TDI (115) (man. 5) ,/car/2017/2095025/audi_a1_1_6_tdi_115.html
+297,11,Audi A1 3-Door Hatchback 1st-gen. phase-II,Audi A1 1.6 TDI (115) S-Tronic (d-cl. 7) ,/car/2017/2095040/audi_a1_1_6_tdi_115_s-tronic.html
+298,1,Audi A1 Sportback 5-Door 1st-gen. phase-I,"Audi A1 Sportback 1.2 TFSI (man. 5)  (Ambition, Attraction)",/car/2013/1586315/audi_a1_sportback_1_2_tfsi.html
+299,2,Audi A1 Sportback 5-Door 1st-gen. phase-I,"Audi A1 Sportback 1.4 TFSI (man. 6)  (Ambition, Attraction)",/car/2013/1586330/audi_a1_sportback_1_4_tfsi.html
+300,3,Audi A1 Sportback 5-Door 1st-gen. phase-I,"Audi A1 Sportback 1.4 TFSI S-Tronic (d-cl. 7)  (Ambition, Attraction)",/car/2013/1586345/audi_a1_sportback_1_4_tfsi_s-tronic.html
+301,4,Audi A1 Sportback 5-Door 1st-gen. phase-I,Audi A1 Sportback 1.4 TFSI (140) CoD (man. 6) ,/car/2013/1764530/audi_a1_sportback_1_4_tfsi_140_cylinder-on-demand.html
+302,5,Audi A1 Sportback 5-Door 1st-gen. phase-I,Audi A1 Sportback 1.4 TFSI (185) S-Tronic (d-cl. 7) ,/car/2013/1586360/audi_a1_sportback_1_4_tfsi_185_s-tronic.html
+303,6,Audi A1 Sportback 5-Door 1st-gen. phase-I,"Audi A1 Sportback 1.6 TDI (90) (man. 5)  (Ambition, Attraction)",/car/2013/1586375/audi_a1_sportback_1_6_tdi_90.html
+304,7,Audi A1 Sportback 5-Door 1st-gen. phase-I,"Audi A1 Sportback 1.6 TDI (90) S-Tronic (d-cl. 7)  (Ambition, Attraction)",/car/2013/1586390/audi_a1_sportback_1_6_tdi_90_s-tronic.html
+305,8,Audi A1 Sportback 5-Door 1st-gen. phase-I,"Audi A1 Sportback 1.6 TDI (105) (man. 5)  (Ambition, Attraction)",/car/2013/1586405/audi_a1_sportback_1_6_tdi_105.html
+306,9,Audi A1 Sportback 5-Door 1st-gen. phase-I,Audi A1 Sportback 2.0 TDI (man. 6) ,/car/2013/1764500/audi_a1_sportback_2_0_tdi.html
+307,1,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.0 TFSI Ultra (82) (man. 5) ,/car/2017/2502125/audi_a1_sportback_1_0_tfsi_ultra_82.html
+308,2,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.0 TFSI Ultra (95) (man. 5) ,/car/2017/2170895/audi_a1_sportback_1_0_tfsi_ultra_95.html
+309,3,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.0 TFSI Ultra (95) S-Tronic (d-cl. 7) ,/car/2017/2170910/audi_a1_sportback_1_0_tfsi_ultra_95_s-tronic.html
+310,4,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.4 TFSI (125) (man. 6) ,/car/2017/2095055/audi_a1_sportback_1_4_tfsi_125.html
+311,5,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.4 TFSI (125) S-Tronic (d-cl. 7) ,/car/2017/2095070/audi_a1_sportback_1_4_tfsi_125_s-tronic.html
+312,6,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.4 TFSI (150) CoD S-Tronic (d-cl. 7) ,/car/2017/2095100/audi_a1_sportback_1_4_tfsi_150_cod_s-tronic.html
+313,7,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.8 TFSI (192) S-Tronic (d-cl. 7) ,/car/2017/2095115/audi_a1_sportback_1_8_tfsi_192_s-tronic.html
+314,8,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.4 TDI Ultra (90) (man. 5) ,/car/2017/2095130/audi_a1_sportback_1_4_tdi_ultra_90.html
+315,9,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.4 TDI Ultra (90) S-Tronic (d-cl. 7) ,/car/2017/2095145/audi_a1_sportback_1_4_tdi_ultra_90_s-tronic.html
+316,10,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.6 TDI (115) (man. 5) ,/car/2017/2095160/audi_a1_sportback_1_6_tdi_115.html
+317,11,Audi A1 Sportback 5-Door 1st-gen. phase-II,Audi A1 Sportback 1.6 TDI (115) S-Tronic (d-cl. 7) ,/car/2017/2095175/audi_a1_sportback_1_6_tdi_115_s-tronic.html
+318,1,Audi A2 5-Door Hatchback,Audi A2 1.4 (man. 5) ,/car/2004/249080/audi_a2_1_4.html
+319,2,Audi A2 5-Door Hatchback,Audi A2 1.6 FSI (man. 5) ,/car/2004/249110/audi_a2_1_6_fsi.html
+320,3,Audi A2 5-Door Hatchback,Audi A2 3L (s-aut. 5) ,/car/2004/249140/audi_a2_3l.html
+321,4,Audi A2 5-Door Hatchback,Audi A2 1.4 TDI (man. 5) ,/car/2004/249095/audi_a2_1_4_tdi.html
+322,5,Audi A2 5-Door Hatchback,Audi A2 1.4 TDI (90) (man. 5) ,/car/2004/249125/audi_a2_1_4_tdi_90.html
+323,1,Audi A2 Concept,Audi A2 Concept (aut. 1) ,/car/2011/1764515/audi_a2_concept.html
+324,1,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.6 (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/1219100/audi_a3_1_6.html
+325,2,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.6 (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/249950/audi_a3_1_6.html
+326,3,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.6 automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/1219115/audi_a3_1_6_automatic.html
+327,4,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.6 automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/249965/audi_a3_1_6_automatic.html
+328,5,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/1219175/audi_a3_1_8.html
+329,6,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/249980/audi_a3_1_8.html
+330,7,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/1219160/audi_a3_1_8_automatic.html
+331,8,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/249995/audi_a3_1_8_automatic.html
+332,9,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 T (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/1219190/audi_a3_1_8_t.html
+333,10,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 T (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250010/audi_a3_1_8_t.html
+334,11,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 T automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/1219205/audi_a3_1_8_t_automatic.html
+335,12,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 T automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/250025/audi_a3_1_8_t_automatic.html
+336,13,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.8 T (180) (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250175/audi_a3_1_8_t_180.html
+337,14,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250205/audi_a3_1_9_tdi.html
+338,15,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250235/audi_a3_1_9_tdi.html
+339,16,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/250220/audi_a3_1_9_tdi_automatic.html
+340,17,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/250250/audi_a3_1_9_tdi_automatic.html
+341,18,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI (110) (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/1219220/audi_a3_1_9_tdi_110.html
+342,19,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI (110) (man. 5)  (Attraction, Ambition, Ambiente)",/car/1999/250265/audi_a3_1_9_tdi_110.html
+343,20,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI (110) automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/1219235/audi_a3_1_9_tdi_110_automatic.html
+344,21,Audi A3 2WD 1st-gen. phase-I (8L),"Audi A3 1.9 TDI (110) automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/1999/250280/audi_a3_1_9_tdi_110_automatic.html
+345,1,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.6 (man. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250310/audi_a3_1_6.html
+346,2,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.6 automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/2002/250325/audi_a3_1_6_automatic.html
+347,3,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 (man. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250340/audi_a3_1_8.html
+348,4,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/2002/250355/audi_a3_1_8_automatic.html
+349,5,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 T (man. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250370/audi_a3_1_8_t.html
+350,6,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 T  automatic (aut. 4)  (Attraction, Ambition, Ambiente)",/car/2002/250415/audi_a3_1_8_t__automatic.html
+351,7,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 T Tiptronic (aut. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250385/audi_a3_1_8_t_tiptronic.html
+352,8,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 T (180) (man. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250430/audi_a3_1_8_t_180.html
+353,9,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.8 T (180) Tiptronic (aut. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250445/audi_a3_1_8_t_180_tiptronic.html
+354,10,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.9 TDI (man. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250490/audi_a3_1_9_tdi.html
+355,11,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.9 TDI Tiptronic (aut. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250505/audi_a3_1_9_tdi_tiptronic.html
+356,12,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.9 TDI (130) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2002/250535/audi_a3_1_9_tdi_130.html
+357,13,Audi A3 2WD 1st-gen. phase-II (8L),"Audi A3 1.9 TDI (130) Tiptronic (aut. 5)  (Attraction, Ambition, Ambiente)",/car/2002/250550/audi_a3_1_9_tdi_130_tiptronic.html
+358,1,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 1.6 (man. 5)  (Attraction, Ambition, Ambiente)",/car/2004/250610/audi_a3_1_6.html
+359,2,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 1.6 Tiptronic (aut. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250625/audi_a3_1_6_tiptronic.html
+360,3,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 1.6 FSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250640/audi_a3_1_6_fsi.html
+361,4,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 2.0 FSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250655/audi_a3_2_0_fsi.html
+362,5,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 2.0 FSI Tiptronic (aut. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250670/audi_a3_2_0_fsi_tiptronic.html
+363,6,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),Audi A3 2.0 TFSI DSG (d-cl. 6)  (Ambition),/car/2004/250685/audi_a3_2_0_tfsi_dsg.html
+364,7,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 1.9 TDI (man. 5)  (Attraction, Ambition, Ambiente)",/car/2004/250745/audi_a3_1_9_tdi.html
+365,8,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 2.0 TDI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250760/audi_a3_2_0_tdi.html
+366,9,Audi A3 2WD 3-Door 2nd-gen. phase-I (8P),"Audi A3 2.0 TDI DSG (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2004/250775/audi_a3_2_0_tdi_dsg.html
+367,1,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.4 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250895/audi_a3_1_4_tfsi.html
+368,2,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.6 (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/250835/audi_a3_1_6.html
+369,3,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.6 Tiptronic (aut. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250850/audi_a3_1_6_tiptronic.html
+370,4,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.6 FSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250865/audi_a3_1_6_fsi.html
+371,5,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.8 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250925/audi_a3_1_8_tfsi.html
+372,6,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.8 TFSI S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250940/audi_a3_1_8_tfsi_s-tronic.html
+373,7,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 FSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250985/audi_a3_2_0_fsi.html
+374,8,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 FSI Tiptronic (aut. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251000/audi_a3_2_0_fsi_tiptronic.html
+375,9,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TFSI (man. 6)  (Ambition, Ambiente)",/car/2007/251045/audi_a3_2_0_tfsi.html
+376,10,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TFSI S-Tronic (d-cl. 6)  (Ambition, Ambiente)",/car/2007/251075/audi_a3_2_0_tfsi_s-tronic.html
+377,11,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.9 TDI (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/251210/audi_a3_1_9_tdi.html
+378,12,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.9 TDI DPF (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/1190735/audi_a3_1_9_tdi_dpf.html
+379,13,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.9 TDI E (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/251270/audi_a3_1_9_tdi_e.html
+380,14,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 1.9 TDI S-Tronic DPF (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251225/audi_a3_1_9_tdi_s-tronic_dpf.html
+381,15,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251300/audi_a3_2_0_tdi.html
+382,16,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI DPF (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/1190765/audi_a3_2_0_tdi_dpf.html
+383,17,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI DSG (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251315/audi_a3_2_0_tdi_dsg.html
+384,18,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI DSG DPF (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/1190750/audi_a3_2_0_tdi_dsg_dpf.html
+385,19,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI (170) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251390/audi_a3_2_0_tdi_170.html
+386,20,Audi A3 2WD 3-Door 2nd-gen. phase-II (8P),"Audi A3 2.0 TDI (170) DSG (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251405/audi_a3_2_0_tdi_170_dsg.html
+387,1,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.2 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1186775/audi_a3_1_2_tfsi.html
+388,2,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.2 TFSI S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335515/audi_a3_1_2_tfsi_s-tronic.html
+389,3,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.4 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1186805/audi_a3_1_4_tfsi.html
+390,4,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.4 TFSI S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335530/audi_a3_1_4_tfsi_s-tronic.html
+391,5,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.8 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335545/audi_a3_1_8_tfsi.html
+392,6,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.8 TFSI S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335560/audi_a3_1_8_tfsi_s-tronic.html
+393,7,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335590/audi_a3_2_0_tfsi.html
+394,8,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TFSI S-Tronic (d-cl. 6)  (Ambition, Ambiente)",/car/2011/1335605/audi_a3_2_0_tfsi_s-tronic.html
+395,9,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.6 TDI (90) (man. 5)  (Attraction, Ambition, Ambiente)",/car/2011/1335620/audi_a3_1_6_tdi_90.html
+396,10,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.6 TDI (105) (man. 5)  (Attraction, Ambition, Ambiente)",/car/2011/1186895/audi_a3_1_6_tdi_105.html
+397,11,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),Audi A3 1.6 TDI (105) (99g CO2/km) (man. 5)  (Attraction),/car/2011/1186910/audi_a3_1_6_tdi_105_99g_co2km.html
+398,12,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 1.6 TDI (105) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335635/audi_a3_1_6_tdi_105_s-tronic.html
+399,13,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TDI (140) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335650/audi_a3_2_0_tdi_140.html
+400,14,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TDI (140) S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335665/audi_a3_2_0_tdi_140_s-tronic.html
+401,15,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TDI (170) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335680/audi_a3_2_0_tdi_170.html
+402,16,Audi A3 2WD 3-Door 2nd-gen. phase-III (8P),"Audi A3 2.0 TDI (170) S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335695/audi_a3_2_0_tdi_170_s-tronic.html
+403,1,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.2 TFSI (110) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171000/audi_a3_1_2_tfsi_110.html
+404,2,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.2 TFSI (110) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2171015/audi_a3_1_2_tfsi_110_s-tronic.html
+405,3,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.4 TFSI (125) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171030/audi_a3_1_4_tfsi_125.html
+406,4,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.4 TFSI (125) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2171045/audi_a3_1_4_tfsi_125_s-tronic.html
+407,5,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.4 TFSI Ultra (150) CoD (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171060/audi_a3_1_4_tfsi_ultra_150_cod.html
+408,6,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.4 TFSI Ultra (150) CoD S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2171075/audi_a3_1_4_tfsi_ultra_150_cod_s-tronic.html
+409,7,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.8 TFSI (180) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1764575/audi_a3_1_8_tfsi.html
+410,8,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.8 TFSI (180) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/1764590/audi_a3_1_8_tfsi_s-tronic.html
+411,9,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.6 TDI (110) Clean Diesel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2170925/audi_a3_1_6_tdi_110_clean_diesel.html
+412,10,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 1.6 TDI (110) Clean Diesel S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2170940/audi_a3_1_6_tdi_110_clean_diesel_s-tronic.html
+413,11,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),Audi A3 1.6 TDI Ultra (110) (man. 6)  (Attraction),/car/2015/2042315/audi_a3_1_6_tdi_ultra_110.html
+414,12,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),Audi A3 1.6 TDI Ultra (110) (man. 6)  (Attraction),/car/2015/2170955/audi_a3_1_6_tdi_ultra_110.html
+415,13,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 2.0 TDI (150) Clean Diesel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/1917020/audi_a3_2_0_tdi_150_clean_diesel.html
+416,14,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 2.0 TDI (150) Clean Diesel S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2170970/audi_a3_2_0_tdi_150_clean_diesel_s-tronic.html
+417,15,Audi A3 2WD 3-Door 3rd-gen. phase-I (8V),"Audi A3 2.0 TDI (184) Clean Diesel (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2042255/audi_a3_2_0_tdi_184_clean_diesel.html
+418,1,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.0 TFSI (115) (man. 6) ,/car/2017/2502140/audi_a3_1_0_tfsi_115.html
+419,2,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.0 TFSI (115) S-Tronic (d-cl. 7) ,/car/2017/2502155/audi_a3_1_0_tfsi_115_s-tronic.html
+420,3,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.4 TFSI (150) CoD (man. 6) ,/car/2017/2502170/audi_a3_1_4_tfsi_150_cod.html
+421,4,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.4 TFSI (150) CoD S-Tronic (d-cl. 7) ,/car/2017/2502185/audi_a3_1_4_tfsi_150_cod_s-tronic.html
+422,5,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TFSI (190) (man. 6) ,/car/2017/2502200/audi_a3_2_0_tfsi_190.html
+423,6,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TFSI (190) S-Tronic (d-cl. 7) ,/car/2017/2502230/audi_a3_2_0_tfsi_190_s-tronic.html
+424,7,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.6 TDI (110) (man. 6) ,/car/2017/2502245/audi_a3_1_6_tdi_110.html
+425,8,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.6 TDI (110) S-Tronic (d-cl. 7) ,/car/2017/2502260/audi_a3_1_6_tdi_110_s-tronic.html
+426,9,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.6 TDI (115) (man. 6) ,/car/2017/2600915/audi_a3_1_6_tdi_115.html
+427,10,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 1.6 TDI (115) S-Tronic (d-cl. 7) ,/car/2017/2600930/audi_a3_1_6_tdi_115_s-tronic.html
+428,11,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TDI (150) (man. 6) ,/car/2017/2502275/audi_a3_2_0_tdi_150.html
+429,12,Audi A3 2WD 3-Door 3rd-gen. phase-II (8V),Audi A3 2.0 TDI (150) S-Tronic (d-cl. 6) ,/car/2017/2502290/audi_a3_2_0_tdi_150_s-tronic.html
+430,1,Audi A3 2WD Cabriolet 3rd-gen. phase-II (8V),Audi A3 Cabriolet 35 TFSI (man. 6) ,/car/2019/2796230/audi_a3_cabriolet_35_tfsi.html
+431,2,Audi A3 2WD Cabriolet 3rd-gen. phase-II (8V),Audi A3 Cabriolet 35 TFSI S-Tronic (d-cl. 7) ,/car/2019/2796245/audi_a3_cabriolet_35_tfsi_s-tronic.html
+432,3,Audi A3 2WD Cabriolet 3rd-gen. phase-II (8V),Audi A3 Cabriolet 40 TFSI (d-cl. 7) ,/car/2019/2828690/audi_a3_cabriolet_40_tfsi.html
+433,1,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.4 TFSI (125) (man. 6) ,/car/2015/1960670/audi_a3_limousine_sedan_1_4_tfsi_125.html
+434,2,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.4 TFSI (125) S-Tronic (d-cl. 7) ,/car/2015/2171225/audi_a3_limousine_sedan_1_4_tfsi_125_s-tronic.html
+435,3,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.4 TFSI Ultra (150) CoD (man. 6) ,/car/2015/2171240/audi_a3_limousine_sedan_1_4_tfsi_ultra_150_cod.html
+436,4,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.4 TFSI Ultra (150) CoD S-Tronic (d-cl. 7) ,/car/2015/2171255/audi_a3_limousine_sedan_1_4_tfsi_ultra_150_cod_s-tronic.html
+437,5,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Sedan 1.8 T (d-cl. 6) ,/car/2015/2037395/audi_a3_sedan_1_8_t.html
+438,6,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.8 TFSI (180) (man. 6) ,/car/2015/1960700/audi_a3_limousine_sedan_1_8_tfsi.html
+439,7,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.8 TFSI (180) S-Tronic (d-cl. 7) ,/car/2015/1916810/audi_a3_limousine_sedan_1_8_tfsi_s-tronic.html
+440,8,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.6 TDI (110) Clean Diesel (man. 6) ,/car/2015/2171270/audi_a3_limousine_sedan_1_6_tdi_110_clean_diesel.html
+441,9,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.6 TDI (110) Clean Diesel S-Tronic (d-cl. 7) ,/car/2015/2171285/audi_a3_limousine_sedan_1_6_tdi_110_clean_diesel_s-tronic.html
+442,10,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 1.6 TDI Ultra (110) (man. 6) ,/car/2015/2171360/audi_a3_limousine_sedan_1_6_tdi_ultra_110.html
+443,11,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 2.0 TDI (150) Clean Diesel (man. 6) ,/car/2015/1960775/audi_a3_limousine_sedan_2_0_tdi_150_clean_diesel.html
+444,12,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 2.0 TDI (150) Clean Diesel S-Tronic (d-cl. 6) ,/car/2015/2171300/audi_a3_limousine_sedan_2_0_tdi_150_clean_diesel_s-tronic.html
+445,13,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Sedan TDI (d-cl. 6) ,/car/2015/2223230/audi_a3_sedan_tdi.html
+446,14,Audi A3 2WD Sedan 3rd-gen. phase-I (8V),Audi A3 Limousine (Sedan) 2.0 TDI (184) Clean Diesel (man. 6) ,/car/2015/2171330/audi_a3_limousine_sedan_2_0_tdi_184_clean_diesel.html
+447,1,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 30 TFSI (man. 6) ,/car/2019/2796170/audi_a3_limousine_30_tfsi.html
+448,2,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 30 TFSI S-Tronic (d-cl. 7) ,/car/2019/2796185/audi_a3_limousine_30_tfsi_s-tronic.html
+449,3,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 35 TFSI (man. 6) ,/car/2019/2796200/audi_a3_limousine_35_tfsi.html
+450,4,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 35 TFSI S-Tronic (d-cl. 7) ,/car/2019/2796215/audi_a3_limousine_35_tfsi_s-tronic.html
+451,5,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Sedan 40 TFSI (d-cl. 7) ,/car/2019/2828720/audi_a3_sedan_40_tfsi.html
+452,6,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 30 TDI (man. 6) ,/car/2019/2796125/audi_a3_limousine_30_tdi.html
+453,7,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 30 TDI S-Tronic (d-cl. 7) ,/car/2019/2796140/audi_a3_limousine_30_tdi_s-tronic.html
+454,8,Audi A3 2WD Sedan 3rd-gen. phase-II (8V),Audi A3 Limousine 35 TDI S-Tronic (d-cl. 7) ,/car/2019/2796155/audi_a3_limousine_35_tdi_s-tronic.html
+455,1,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.4 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250910/audi_a3_sportback_1_4_tfsi.html
+456,2,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.6 (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/250805/audi_a3_sportback_1_6.html
+457,3,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.6 Tiptronic (aut. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250820/audi_a3_sportback_1_6_tiptronic.html
+458,4,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.6 FSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250880/audi_a3_sportback_1_6_fsi.html
+459,5,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.8 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250955/audi_a3_sportback_1_8_tfsi.html
+460,6,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.8 TFSI S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/250970/audi_a3_sportback_1_8_tfsi_s-tronic.html
+461,7,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 FSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251015/audi_a3_sportback_2_0_fsi.html
+462,8,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 FSI Tiptronic (aut. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251030/audi_a3_sportback_2_0_fsi_tiptronic.html
+463,9,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TFSI (man. 6)  (Ambition, Ambiente)",/car/2007/251090/audi_a3_sportback_2_0_tfsi.html
+464,10,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TFSI S-Tronic (d-cl. 6)  (Ambition, Ambiente)",/car/2007/251120/audi_a3_sportback_2_0_tfsi_s-tronic.html
+465,11,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),Audi A3 2.0 T (man. 6) ,/car/2007/251585/audi_a3_2_0_tfsi.html
+466,12,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),Audi A3 2.0 T S-Tronic (d-cl. 6) ,/car/2007/251600/audi_a3_2_0_tfsi_s-tronic.html
+467,13,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.9 TDI (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/251240/audi_a3_sportback_1_9_tdi.html
+468,14,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.9 TDI DPF (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/1190675/audi_a3_sportback_1_9_tdi_dpf.html
+469,15,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.9 TDI E (man. 5)  (Attraction, Ambition, Ambiente)",/car/2007/251285/audi_a3_sportback_1_9_tdi_e.html
+470,16,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 1.9 TDI S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251255/audi_a3_sportback_1_9_tdi_s-tronic.html
+471,17,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251345/audi_a3_sportback_2_0_tdi.html
+472,18,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI DPF (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/1190705/audi_a3_sportback_2_0_tdi_dpf.html
+473,19,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251360/audi_a3_sportback_2_0_tdi_s-tronic.html
+474,20,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI S-Tronic DPF (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/1190690/audi_a3_sportback_2_0_tdi_s-tronic_dpf.html
+475,21,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI (170) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251435/audi_a3_sportback_2_0_tdi_170.html
+476,22,Audi A3 2WD Sportback 2nd-gen. phase-I (8PA),"Audi A3 Sportback 2.0 TDI (170) S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2007/251450/audi_a3_sportback_2_0_tdi_170_s-tronic.html
+477,1,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.2 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1186730/audi_a3_sportback_1_2_tfsi.html
+478,2,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.2 TFSI S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335740/audi_a3_sportback_1_2_tfsi_s-tronic.html
+479,3,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.4 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1186400/audi_a3_sportback_1_4_tfsi.html
+480,4,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.4 TFSI S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335755/audi_a3_sportback_1_4_tfsi_s-tronic.html
+481,5,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.8 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335770/audi_a3_sportback_1_8_tfsi.html
+482,6,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.8 TFSI S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335785/audi_a3_sportback_1_8_tfsi_s-tronic.html
+483,7,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TFSI (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1186460/audi_a3_sportback_2_0_tfsi.html
+484,8,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TFSI S-Tronic (d-cl. 6)  (Ambition, Ambiente)",/car/2011/1335815/audi_a3_sportback_2_0_tfsi_s-tronic.html
+485,9,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),Audi A3 2.0 TFSI (man. 6)  (Premium,/car/2011/1187195/audi_a3_2_0_tfsi.html
+486,10,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),Audi A3 2.0 TFSI S-Tronic (d-cl. 6)  (Premium,/car/2011/1187210/audi_a3_2_0_tfsi_s-tronic.html
+487,11,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.6 TDI (90) (man. 5)  (Attraction, Ambition, Ambiente)",/car/2011/1335860/audi_a3_sportback_1_6_tdi_90.html
+488,12,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.6 TDI (105) (man. 5)  (Attraction, Ambition, Ambiente)",/car/2011/1186670/audi_a3_sportback_1_6_tdi_105.html
+489,13,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),Audi A3 Sportback 1.6 TDI (105) (102g CO2/km) (man. 5)  (Attraction),/car/2011/1186700/audi_a3_sportback_1_6_tdi_105_102g_co2km.html
+490,14,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 1.6 TDI (105) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2011/1335890/audi_a3_sportback_1_6_tdi_105_s-tronic.html
+491,15,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TDI (140) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335905/audi_a3_sportback_2_0_tdi_140.html
+492,16,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TDI (140) S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335920/audi_a3_sportback_2_0_tdi_140_s-tronic.html
+493,17,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),Audi A3 2.0 TDI Clean Diesel S-Tronic (d-cl. 6)  (Premium,/car/2011/1187240/audi_a3_2_0_tdi_s-tronic.html
+494,18,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TDI (170) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335950/audi_a3_sportback_2_0_tdi_170.html
+495,19,Audi A3 2WD Sportback 2nd-gen. phase-II (8PA),"Audi A3 Sportback 2.0 TDI (170) S-Tronic (d-cl. 6)  (Attraction, Ambition, Ambiente)",/car/2011/1335965/audi_a3_sportback_2_0_tdi_170_s-tronic.html
+496,1,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),Audi A3 Sportback 1.2 TFSI (110) (man. 6) ,/car/2015/2171090/audi_a3_sportback_1_2_tfsi_110.html
+497,2,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.4 TFSI (125) (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171105/audi_a3_sportback_1_4_tfsi_125.html
+498,3,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.4 TFSI (125) S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2171120/audi_a3_sportback_1_4_tfsi_125_s-tronic.html
+499,4,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.4 TFSI Ultra (150) CoD (man. 6)  (Attraction, Ambition, Ambiente)",/car/2015/2171135/audi_a3_sportback_1_4_tfsi_ultra_150_cod.html
+500,5,Audi A3 2WD Sportback 3rd-gen. phase-I (8V),"Audi A3 Sportback 1.4 TFSI Ultra (150) CoD S-Tronic (d-cl. 7)  (Attraction, Ambition, Ambiente)",/car/2015/2171150/audi_a3_sportback_1_4_tfsi_ultra_150_cod_s-tronic.html

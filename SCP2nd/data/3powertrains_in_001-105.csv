@@ -1,0 +1,106 @@
+#j,#i,Submodel_Name,Powertrain_Name,Powertrain_Link
+1,1,Alfa Romeo 145 serie 2 Quadrifoglio,Alfa Romeo 145 Quadrifoglio (man. 5) ,/car/2000/218285/alfa_romeo_145_quadrifoglio.html
+2,1,Alfa Romeo 146 serie 2,Alfa Romeo 146 1.4 Twin Spark 16V (man. 5) ,/car/2000/218300/alfa_romeo_146_1_4_twin_spark_16v.html
+3,2,Alfa Romeo 146 serie 2,Alfa Romeo 146 1.6 Twin Spark 16V (man. 5) ,/car/2000/218315/alfa_romeo_146_1_6_twin_spark_16v.html
+4,3,Alfa Romeo 146 serie 2,Alfa Romeo 146 1.8 Twin Spark 16V (man. 5) ,/car/2000/218330/alfa_romeo_146_1_8_twin_spark_16v.html
+5,4,Alfa Romeo 146 serie 2,Alfa Romeo 146 Ti (man. 5) ,/car/2000/218345/alfa_romeo_146_ti.html
+6,5,Alfa Romeo 146 serie 2,Alfa Romeo 146 1.9 JTD (man. 5) ,/car/2000/218360/alfa_romeo_146_1_9_jtd.html
+7,1,Alfa Romeo 147 GTA,Alfa Romeo 147 GTA (man. 6) ,/car/2005/221360/alfa_romeo_147_gta.html
+8,2,Alfa Romeo 147 GTA,Alfa Romeo 147 GTA Selespeed (s-aut. 6) ,/car/2005/221375/alfa_romeo_147_gta_selespeed.html
+9,1,Alfa Romeo 147 serie 1,Alfa Romeo 147 1.6 Twin Spark 16V Eco (man. 5) ,/car/2003/221210/alfa_romeo_147_1_6_twin_spark_16v_eco_progression.html
+10,2,Alfa Romeo 147 serie 1,Alfa Romeo 147 1.6 Twin Spark 16V (man. 5) ,/car/2003/221195/alfa_romeo_147_1_6_twin_spark_16v_progression.html
+11,3,Alfa Romeo 147 serie 1,Alfa Romeo 147 2.0 Twin Spark 16V (man. 5) ,/car/2003/221345/alfa_romeo_147_2_0_twin_spark_16v_distinctive.html
+12,4,Alfa Romeo 147 serie 1,Alfa Romeo 147 2.0 Twin Spark 16V Selespeed (s-aut. 5) ,/car/2003/221240/alfa_romeo_147_2_0_twin_spark_16v_distinctive_selespeed.html
+13,5,Alfa Romeo 147 serie 1,Alfa Romeo 147 1.9 JTD 100 (man. 5) ,/car/2003/221420/alfa_romeo_147_1_9_jtd_100_impression.html
+14,6,Alfa Romeo 147 serie 1,Alfa Romeo 147 1.9 JTD 115 (man. 5) ,/car/2003/221270/alfa_romeo_147_1_9_jtd_115_progression.html
+15,7,Alfa Romeo 147 serie 1,Alfa Romeo 147 1.9 JTD 16V (man. 6) ,/car/2003/221435/alfa_romeo_147_1_9_jtd_16v_progression.html
+16,1,Alfa Romeo 147 serie 2,Alfa Romeo 147 1.9 JTDm (man. 5) ,/car/2009/1184585/alfa_romeo_147_1_9_jtdm_moving.html
+17,2,Alfa Romeo 147 serie 2,Alfa Romeo 147 1.9 JTDm 16V (man. 6) ,/car/2009/1184555/alfa_romeo_147_1_9_jtdm_16v_veloce.html
+18,3,Alfa Romeo 147 serie 2,Alfa Romeo 147 Ducati Corse (man. 6) ,/car/2009/1369670/alfa_romeo_147_ducati_corse.html
+19,1,Alfa Romeo 156 Crosswagon,Alfa Romeo 156 Crosswagon Q4 (man. 6) ,/car/2005/220625/alfa_romeo_156_crosswagon_q4.html
+20,1,Alfa Romeo 156 GTA Sedan,Alfa Romeo 156 GTA (man. 6) ,/car/2004/220130/alfa_romeo_156_gta.html
+21,2,Alfa Romeo 156 GTA Sedan,Alfa Romeo 156 GTA Selespeed (s-aut. 6) ,/car/2004/221390/alfa_romeo_156_gta_selespeed.html
+22,1,Alfa Romeo 156 GTA Sportwagon,Alfa Romeo 156 Sportwagon GTA (man. 6) ,/car/2004/220280/alfa_romeo_156_sportwagon_gta.html
+23,2,Alfa Romeo 156 GTA Sportwagon,Alfa Romeo 156 Sportwagon GTA Selespeed (s-aut. 6) ,/car/2004/221405/alfa_romeo_156_sportwagon_gta_selespeed.html
+24,1,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 1.6 Twin Spark 16V (man. 5) ,/car/2001/219215/alfa_romeo_156_1_6_twin_spark_16v.html
+25,2,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 1.8 Twin Spark 16V (man. 5) ,/car/2001/219230/alfa_romeo_156_1_8_twin_spark_16v.html
+26,3,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 2.0 Twin Spark 16V (man. 5) ,/car/2001/219245/alfa_romeo_156_2_0_twin_spark_16v.html
+27,4,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 2.0 Twin Spark 16V Selespeed (s-aut. 5) ,/car/2001/219260/alfa_romeo_156_2_0_twin_spark_16v_selespeed.html
+28,5,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 2.5 V6 24V (man. 6) ,/car/2001/219275/alfa_romeo_156_2_5_v6_24v.html
+29,6,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 2.5 V6 24V Q-system (aut. 4) ,/car/2001/219290/alfa_romeo_156_2_5_v6_24v_q-system.html
+30,7,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 1.9 JTD (man. 5) ,/car/2001/219305/alfa_romeo_156_1_9_jtd.html
+31,8,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 1.9 JTD (man. 5) ,/car/2001/219335/alfa_romeo_156_1_9_jtd.html
+32,9,Alfa Romeo 156 serie 1/I Sedan,Alfa Romeo 156 2.4 JTD (man. 5) ,/car/2001/219320/alfa_romeo_156_2_4_jtd.html
+33,1,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 1.6 Twin Spark 16V (man. 5) ,/car/2001/219350/alfa_romeo_156_sportwagon_1_6_twin_spark_16v.html
+34,2,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 1.8 Twin Spark 16V (man. 5) ,/car/2001/219365/alfa_romeo_156_sportwagon_1_8_twin_spark_16v.html
+35,3,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 2.0 Twin Spark 16V (man. 5) ,/car/2001/219380/alfa_romeo_156_sportwagon_2_0_twin_spark_16v.html
+36,4,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 2.0 Twin Spark 16V Selespeed (s-aut. 5) ,/car/2001/219395/alfa_romeo_156_sportwagon_2_0_twin_spark_16v_selespeed.html
+37,5,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 2.5 V6 24V (man. 6) ,/car/2001/219410/alfa_romeo_156_sportwagon_2_5_v6_24v.html
+38,6,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-system (aut. 4) ,/car/2001/219425/alfa_romeo_156_sportwagon_2_5_v6_24v_q-system.html
+39,7,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 1.9 JTD (man. 5) ,/car/2001/219440/alfa_romeo_156_sportwagon_1_9_jtd.html
+40,8,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 1.9 JTD (man. 5) ,/car/2001/219455/alfa_romeo_156_sportwagon_1_9_jtd.html
+41,9,Alfa Romeo 156 serie 1/I Sportwagon,Alfa Romeo 156 Sportwagon 2.4 JTD (man. 5) ,/car/2001/219470/alfa_romeo_156_sportwagon_2_4_jtd.html
+42,1,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 1.6 Twin Spark 16V (man. 5) ,/car/2003/219485/alfa_romeo_156_1_6_twin_spark_16v_progression.html
+43,2,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 1.8 Twin Spark 16V (man. 5) ,/car/2003/219500/alfa_romeo_156_1_8_twin_spark_16v_progression.html
+44,3,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 2.0 JTS 16V (man. 5) ,/car/2003/219515/alfa_romeo_156_2_0_jts_16v_progression.html
+45,4,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 2.0 JTS 16V Selespeed (s-aut. 5) ,/car/2003/219770/alfa_romeo_156_2_0_jts_16v_distinctive_selespeed.html
+46,5,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 2.5 V6 24V (man. 6) ,/car/2003/219545/alfa_romeo_156_2_5_v6_24v_distinctive.html
+47,6,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 2.5 V6 24V Q-system (aut. 4) ,/car/2003/219560/alfa_romeo_156_2_5_v6_24v_distinctive_q-system.html
+48,7,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 1.9 JTD (man. 5) ,/car/2003/219665/alfa_romeo_156_1_9_jtd_progression.html
+49,8,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 1.9 JTD 16V (man. 5) ,/car/2003/219935/alfa_romeo_156_1_9_jtd_16v_progression.html
+50,9,Alfa Romeo 156 serie 1/II Sedan,Alfa Romeo 156 2.4 JTD (man. 5) ,/car/2003/219680/alfa_romeo_156_2_4_jtd_progression.html
+51,1,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 1.6 Twin Spark 16V (man. 5) ,/car/2003/219575/alfa_romeo_156_sportwagon_1_6_twin_spark_16v_progression.html
+52,2,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 1.8 Twin Spark 16V (man. 5) ,/car/2003/219590/alfa_romeo_156_sportwagon_1_8_twin_spark_16v_progression.html
+53,3,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 2.0 JTS 16V (man. 5) ,/car/2003/219605/alfa_romeo_156_sportwagon_2_0_jts_16v_progression.html
+54,4,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed (s-aut. 5) ,/car/2003/219860/alfa_romeo_156_sportwagon_2_0_jts_16v_distinctive_selespeed.html
+55,5,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 2.5 V6 24V (man. 6) ,/car/2003/219635/alfa_romeo_156_sportwagon_2_5_v6_24v_distinctive.html
+56,6,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-system (aut. 4) ,/car/2003/219650/alfa_romeo_156_sportwagon_2_5_v6_24v_distinctive_q-system.html
+57,7,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 1.9 JTD (man. 5) ,/car/2003/219695/alfa_romeo_156_sportwagon_1_9_jtd_progression.html
+58,8,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 1.9 JTD 16V (man. 5) ,/car/2003/219950/alfa_romeo_156_sportwagon_1_9_jtd_16v_progression.html
+59,9,Alfa Romeo 156 serie 1/II Sportwagon,Alfa Romeo 156 Sportwagon 2.4 JTD (man. 5) ,/car/2003/219710/alfa_romeo_156_sportwagon_2_4_jtd_progression.html
+60,1,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.6 Twin Spark 16V (man. 5) ,/car/2004/220565/alfa_romeo_156_1_6_twin_spark_16v_impression_business__base.html
+61,2,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.8 Twin Spark 16V (man. 5) ,/car/2004/220310/alfa_romeo_156_1_8_twin_spark_16v_progression_classic__turismo_or_veloce.html
+62,3,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.0 JTS 16V (man. 5) ,/car/2004/220325/alfa_romeo_156_2_0_jts_16v_progression_classic__turismo_or_veloce.html
+63,4,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.0 JTS 16V Selespeed (s-aut. 5) ,/car/2004/220040/alfa_romeo_156_2_0_jts_16v_distinctive_exclusive__lusso_selespeed.html
+64,5,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.5 V6 24V (man. 6) ,/car/2004/220055/alfa_romeo_156_2_5_v6_24v_distinctive_exclusive__lusso.html
+65,6,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.5 V6 24V Q-system (aut. 4) ,/car/2004/220070/alfa_romeo_156_2_5_v6_24v_distinctive_exclusive__lusso_q-system.html
+66,7,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.9 JTD (man. 5) ,/car/2004/220595/alfa_romeo_156_1_9_jtd_impression_business__base.html
+67,8,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 1.9 JTD 16V (man. 6) ,/car/2004/220580/alfa_romeo_156_1_9_jtd_16v_impression_business__base.html
+68,9,Alfa Romeo 156 serie 2 Sedan,Alfa Romeo 156 2.4 JTD 20V (man. 6) ,/car/2004/220115/alfa_romeo_156_2_4_jtd_20v_distinctive_exclusive__lusso.html
+69,1,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 1.6 Twin Spark 16V (man. 5) ,/car/2004/220520/alfa_romeo_156_sportwagon_1_6_twin_spark_16v_impression_business__base.html
+70,2,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 1.8 Twin Spark 16V (man. 5) ,/car/2004/220160/alfa_romeo_156_sportwagon_1_8_twin_spark_16v_distinctive_exclusive__lusso.html
+71,3,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon (man. 5) ,/car/2004/220415/alfa_romeo_156_sportwagon_2_0_jts_16v_progression_classic__turismo_or_veloce.html
+72,4,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed (s-aut. 5) ,/car/2004/220190/alfa_romeo_156_sportwagon_2_0_jts_16v_distinctive_exclusive__lusso_selespeed.html
+73,5,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 2.5 V6 24V (man. 6) ,/car/2004/220205/alfa_romeo_156_sportwagon_2_5_v6_24v_distinctive_exclusive__lusso.html
+74,6,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 2.5 V6 Q-system (aut. 4) ,/car/2004/220220/alfa_romeo_156_sportwagon_2_5_v6_24v_distinctive_exclusive__lusso_q-system.html
+75,7,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 1.9 JTD (man. 5) ,/car/2004/220250/alfa_romeo_156_sportwagon_1_9_jtd_distinctive_exclusive__lusso.html
+76,8,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 1.9 JTD 16V (man. 6) ,/car/2004/220535/alfa_romeo_156_sportwagon_1_9_jtd_16v_impression_business__base.html
+77,9,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon Q4 (man. 6) ,/car/2004/220610/alfa_romeo_156_sportwagon_q4.html
+78,10,Alfa Romeo 156 serie 2 Sportwagon,Alfa Romeo 156 Sportwagon 2.4 JTD 20V (man. 6) ,/car/2004/220265/alfa_romeo_156_sportwagon_2_4_jtd_20v_distinctive_exclusive__lusso.html
+79,1,Alfa Romeo 159 Q4 Sedan,Alfa Romeo 159 3.2 JTS V6 20V Q4 (man. 6) ,/car/2009/1185260/alfa_romeo_159_3_2_jts_v6_20v_q4_turismo.html
+80,2,Alfa Romeo 159 Q4 Sedan,Alfa Romeo 159 3.2 JTS V6 20V Q4 Q-Tronic (aut. 6) ,/car/2009/1184675/alfa_romeo_159_3_2_jts_v6_20v_q4_turismo_q-tronic.html
+81,3,Alfa Romeo 159 Q4 Sedan,Alfa Romeo 159 3.2 JTS V6 20V Q4 Ti (man. 6) ,/car/2009/1185395/alfa_romeo_159_3_2_jts_v6_20v_q4_ti.html
+82,4,Alfa Romeo 159 Q4 Sedan,Alfa Romeo 159 3.2 JTS V6 20V Q4 Ti Q-Tronic (aut. 6) ,/car/2009/1185410/alfa_romeo_159_3_2_jts_v6_20v_q4_ti_q-tronic.html
+83,5,Alfa Romeo 159 Q4 Sedan,Alfa Romeo 159 2.4 JTDm 20V Q4 (man. 6) ,/car/2009/1184780/alfa_romeo_159_2_4_jdtm_20v_q4_turismo.html
+84,6,Alfa Romeo 159 Q4 Sedan,Alfa Romeo 159 2.4 JTDm 20V Q4 Ti (man. 6) ,/car/2009/1185425/alfa_romeo_159_2_4_jdtm_20v_q4_ti.html
+85,1,Alfa Romeo 159 Q4 Wagon,Alfa Romeo 159 Sportwagon 3.2 JTS V6 20V Q4 (man. 6) ,/car/2009/1185275/alfa_romeo_159_sportwagon_3_2_jts_v6_20v_q4_turismo.html
+86,2,Alfa Romeo 159 Q4 Wagon,Alfa Romeo 159 Sportwagon 3.2 JTS V6 20V Q4 Q-Tronic (aut. 6) ,/car/2009/1185095/alfa_romeo_159_sportwagon_3_2_jts_v6_20v_q4_turismo_q-tronic.html
+87,3,Alfa Romeo 159 Q4 Wagon,Alfa Romeo 159 Sportwagon 3.2 JTS V6 20V Q4 Ti (man. 6) ,/car/2009/1185545/alfa_romeo_159_sportwagon_3_2_jts_v6_20v_q4_ti.html
+88,4,Alfa Romeo 159 Q4 Wagon,Alfa Romeo 159 Sportwagon 3.2 JTS V6 20V Q4 Ti Q-Tronic (aut. 6) ,/car/2009/1185560/alfa_romeo_159_sportwagon_3_2_jts_v6_20v_q4_ti_q-tronic.html
+89,5,Alfa Romeo 159 Q4 Wagon,Alfa Romeo 159 Sportwagon 2.4 JTDm 20V Q4 (man. 6) ,/car/2009/1185110/alfa_romeo_159_sportwagon_2_4_jdtm_20v_q4_turismo.html
+90,6,Alfa Romeo 159 Q4 Wagon,Alfa Romeo 159 Sportwagon 2.4 JTDm 20V Q4 Ti (man. 6) ,/car/2009/1185575/alfa_romeo_159_sportwagon_2_4_jdtm_20v_q4_ti.html
+91,1,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.8 TBi 16V (man. 6) ,/car/2010/1184660/alfa_romeo_159_1_8_tbi_16v.html
+92,2,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.8 TBi 16V Ti (man. 6) ,/car/2010/1185335/alfa_romeo_159_1_8_tbi_16v_ti.html
+93,3,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.8 MPi 16V (man. 5) ,/car/2010/1184615/alfa_romeo_159_1_8_mpi_16v.html
+94,4,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm Eco (man. 6) ,/car/2010/1184690/alfa_romeo_159_1_9_jtdm_eco.html
+95,5,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm 16V (man. 6) ,/car/2010/1184810/alfa_romeo_159_1_9_jtdm_16v.html
+96,6,Alfa Romeo 159 Sedan,Alfa Romeo 159 1.9 JTDm 16V Q-Tronic (aut. 6) ,/car/2010/1184705/alfa_romeo_159_1_9_jtdm_16v_q-tronic.html
+97,7,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (136) (man. 6) ,/car/2010/1437230/alfa_romeo_159_2_0_jtdm_16v_136.html
+98,8,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) (man. 6) ,/car/2010/1184720/alfa_romeo_159_2_0_jtdm_16v_170.html
+99,9,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) (man. 6) ,/car/2010/1437260/alfa_romeo_159_2_0_jtdm_16v_170.html
+100,10,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) Eco (man. 6) ,/car/2010/1184735/alfa_romeo_159_2_0_jtdm_16v_170_eco.html
+101,11,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.0 JTDm 16V (170) Ti (man. 6) ,/car/2010/1185350/alfa_romeo_159_2_0_jtdm_16v_170_ti.html
+102,12,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V Q-Tronic (aut. 6) ,/car/2010/1184750/alfa_romeo_159_2_4_jdtm_20v_turismo_q-tronic.html
+103,13,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V Ti Q-Tronic (aut. 6) ,/car/2010/1185365/alfa_romeo_159_2_4_jdtm_20v_ti_q-tronic.html
+104,14,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V (man. 6) ,/car/2010/1184765/alfa_romeo_159_2_4_jdtm_20v_turismo.html
+105,15,Alfa Romeo 159 Sedan,Alfa Romeo 159 2.4 JTDm 20V Ti (man. 6) ,/car/2010/1185380/alfa_romeo_159_2_4_jdtm_20v_ti.html
